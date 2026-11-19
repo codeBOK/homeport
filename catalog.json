@@ -1,7 +1,7 @@
 {
  "v": 1,
- "updated": "2026-11-19d",
- "about": "라이브러리 목록. name=프로젝트 이름, orig=원작(같은 원작끼리 묶여 GitHub 별 많은 순으로 정렬), platform=원작 기종, repo=저장소(GitHub '소유자/저장소' 또는 다른 호스트 주소), match=실행 파일 경로 감지 규칙(정규식, 대소문자 무시), status=개발 단계(플레이 가능/베타/초기), note=필요한 것, cover=대표 이미지 주소(선택, 비우면 저장소의 소셜 미리보기 이미지). web=저장소 없이 웹사이트로만 배포할 때 버전을 읽는 규칙(url: 읽을 페이지, re: 정규식 목록·첫 괄호가 버전·가장 높은 버전 사용, download: 받는 곳). repo에는 사이트 주소(https://호스트)를 넣음. 모르는 칸은 비워 둠. 출처: portedgames.com·readonlymemo.com 공개 목록(2026-11)",
+ "updated": "2026-11-20a",
+ "about": "라이브러리 목록. name=프로젝트 이름, orig=원작(같은 원작끼리 묶여 GitHub 별 많은 순으로 정렬), platform=원작 기종, repo=저장소(GitHub '소유자/저장소' 또는 다른 호스트 주소), match=실행 파일 경로 감지 규칙(정규식, 대소문자 무시), status=개발 단계(플레이 가능/베타/초기), note=필요한 것, cover=대표 이미지 주소(선택, 비우면 저장소의 소셜 미리보기 이미지). web=저장소 없이 웹사이트로만 배포할 때 버전을 읽는 규칙(url: 읽을 페이지, re: 정규식 목록·첫 괄호가 버전·가장 높은 버전 사용, download: 받는 곳). repo에는 사이트 주소(https://호스트)를 넣음. 모르는 칸은 비워 둠. 출처: portedgames.com·readonlymemo.com 공개 목록(2026-11) sgdb=SteamGridDB에서 원작 그림(박스아트·배경·로고)을 찾을 영어 제목(또는 숫자 게임 ID).",
  "games": [
   {
    "id": "savagewind",
@@ -11,7 +11,8 @@
    "repo": "Revivedx/SavageWindRecomp",
    "match": "savage\\s*wind",
    "status": "알파",
-   "note": "원작 게임 데이터(1.9.0) 직접 준비"
+   "note": "원작 게임 데이터(1.9.0) 직접 준비",
+   "sgdb": "The Legend of Zelda: Breath of the Wild"
   },
   {
    "id": "zelda64",
@@ -21,7 +22,8 @@
    "repo": "Zelda64Recomp/Zelda64Recomp",
    "match": "zelda\\s*64\\s*recomp",
    "status": "플레이 가능",
-   "note": "북미판 ROM 직접 준비"
+   "note": "북미판 ROM 직접 준비",
+   "sgdb": "The Legend of Zelda: Majora's Mask"
   },
   {
    "id": "hookshot",
@@ -31,7 +33,8 @@
    "repo": "https://git.notrexed.dev/Hookshot/Hookshot",
    "match": "hookshot",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "The Legend of Zelda: Ocarina of Time"
   },
   {
    "id": "totkpc",
@@ -41,7 +44,8 @@
    "repo": "valentderah/totk-pc-recomp",
    "match": "totk[\\s_-]*pc[\\s_-]*recomp|(^|\\s)totk\\.exe$",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "The Legend of Zelda: Tears of the Kingdom"
   },
   {
    "id": "ultratears",
@@ -51,7 +55,8 @@
    "repo": "kuraeow/ultratears",
    "match": "ultra\\s*tears",
    "status": "초기",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "The Legend of Zelda: Tears of the Kingdom"
   },
   {
    "id": "weeping",
@@ -61,7 +66,8 @@
    "repo": "daniel-madrid-07/weeping-of-the-empire",
    "match": "weeping[\\s_-]*of[\\s_-]*the[\\s_-]*empire",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "The Legend of Zelda: Tears of the Kingdom"
   },
   {
    "id": "unleashed",
@@ -71,7 +77,8 @@
    "repo": "hedge-dev/UnleashedRecomp",
    "match": "unleashed\\s*recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Sonic Unleashed"
   },
   {
    "id": "dinoplanet",
@@ -81,7 +88,8 @@
    "repo": "DinosaurPlanetRecomp/dino-recomp",
    "match": "dino(saur)?[\\s_-]*(planet)?[\\s_-]*recomp",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Dinosaur Planet"
   },
   {
    "id": "goemon64",
@@ -91,7 +99,8 @@
    "repo": "klorfmorf/Goemon64Recomp",
    "match": "goemon\\s*64\\s*recomp",
    "status": "베타",
-   "note": "원작 ROM 직접 준비"
+   "note": "원작 ROM 직접 준비",
+   "sgdb": "Mystical Ninja Starring Goemon"
   },
   {
    "id": "cv64",
@@ -101,7 +110,8 @@
    "repo": "spacefarergames/CV64-Recomp",
    "match": "cv64[\\s_-]*recomp",
    "status": "",
-   "note": "원작 ROM 직접 준비"
+   "note": "원작 ROM 직접 준비",
+   "sgdb": "Castlevania"
   },
   {
    "id": "snap64",
@@ -111,7 +121,8 @@
    "repo": "JackandBeans/Snap64Recomp",
    "match": "snap\\s*64\\s*recomp",
    "status": "플레이 가능",
-   "note": "북미판 ROM 직접 준비"
+   "note": "북미판 ROM 직접 준비",
+   "sgdb": "Pokémon Snap"
   },
   {
    "id": "tomba",
@@ -121,7 +132,8 @@
    "repo": "mstan/TombaRecomp",
    "match": "tomba\\s*recomp",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Tomba!"
   },
   {
    "id": "mmx4",
@@ -131,7 +143,8 @@
    "repo": "mstan/MegaManX4Recomp",
    "match": "mega\\s*man\\s*x4\\s*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Mega Man X4"
   },
   {
    "id": "mmx6",
@@ -141,7 +154,8 @@
    "repo": "mstan/MegaManX6Recomp",
    "match": "mega\\s*man\\s*x6\\s*recomp",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Mega Man X6"
   },
   {
    "id": "b2",
@@ -151,7 +165,8 @@
    "repo": "K0NL/B2recomp",
    "match": "b2\\s*recomp",
    "status": "초기",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Bayonetta 2"
   },
   {
    "id": "downpour",
@@ -181,7 +196,8 @@
    "repo": "BanjoRecomp/BanjoRecomp",
    "match": "banjorecomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Banjo-Kazooie"
   },
   {
    "id": "banjo-tooie-scurvy-dog-port",
@@ -191,7 +207,8 @@
    "repo": "some-scurvy-dog/banjo-tooie-scurvy-dog-port",
    "match": "banjo[\\s_-]*tooie[\\s_-]*scurvy[\\s_-]*dog[\\s_-]*port",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Banjo-Tooie"
   },
   {
    "id": "blastcorps-recomp",
@@ -201,7 +218,8 @@
    "repo": "SlaveOfIDO/blastcorps-recomp",
    "match": "blastcorps[\\s_-]*recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Blast Corps"
   },
   {
    "id": "bm64recomp",
@@ -211,7 +229,8 @@
    "repo": "RevoSucks/BM64Recomp",
    "match": "bm64recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Bomberman 64"
   },
   {
    "id": "bmherorecomp",
@@ -221,7 +240,8 @@
    "repo": "RevoSucks/BMHeroRecomp",
    "match": "bmherorecomp",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Bomberman Hero"
   },
   {
    "id": "conkerbfdreloaded",
@@ -231,7 +251,8 @@
    "repo": "DahSidiAbdallah/ConkerBFDReloaded",
    "match": "conkerbfdreloaded",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Conker's Bad Fur Day"
   },
   {
    "id": "donkey-kong-64-recompiled",
@@ -241,7 +262,8 @@
    "repo": "Rainchus/Donkey-Kong-64-Recompiled",
    "match": "donkey[\\s_-]*kong[\\s_-]*64[\\s_-]*recompiled",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Donkey Kong 64"
   },
   {
    "id": "drmario64-recomp-plus",
@@ -251,7 +273,8 @@
    "repo": "theboy181/drmario64_recomp_plus",
    "match": "drmario64[\\s_-]*recomp[\\s_-]*plus",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Dr. Mario 64"
   },
   {
    "id": "dnzhrecomp",
@@ -261,7 +284,8 @@
    "repo": "sonicdcer/DNZHRecomp",
    "match": "dnzhrecomp",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Duke Nukem: Zero Hour"
   },
   {
    "id": "harvestmoon64recomp",
@@ -271,7 +295,8 @@
    "repo": "HarvestMoon64Recomp/HarvestMoon64Recomp",
    "match": "harvestmoon64recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Harvest Moon 64"
   },
   {
    "id": "mariokart64recomp",
@@ -281,7 +306,8 @@
    "repo": "sonicdcer/MarioKart64Recomp",
    "match": "mariokart64recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Mario Kart 64"
   },
   {
    "id": "mario-party-recomp",
@@ -291,7 +317,8 @@
    "repo": "n64hub/mario-party-recomp",
    "match": "mario[\\s_-]*party[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Mario Party"
   },
   {
    "id": "ogre-battle-64-recomp",
@@ -301,7 +328,8 @@
    "repo": "lfarroco/ogre-battle-64-recomp",
    "match": "ogre[\\s_-]*battle[\\s_-]*64[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Ogre Battle 64"
   },
   {
    "id": "birdman64",
@@ -311,7 +339,8 @@
    "repo": "NoahVl/Birdman64",
    "match": "",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Pilotwings 64"
   },
   {
    "id": "pilotwings-64-recomp",
@@ -321,7 +350,8 @@
    "repo": "danielgomesvieira2000/pilotwings-64-recomp",
    "match": "pilotwings[\\s_-]*64[\\s_-]*recomp",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Pilotwings 64"
   },
   {
    "id": "quest64-recomp",
@@ -331,7 +361,8 @@
    "repo": "Rainchus/Quest64-Recomp",
    "match": "quest64[\\s_-]*recomp",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Quest 64"
   },
   {
    "id": "roadrash64recompiled",
@@ -341,7 +372,8 @@
    "repo": "linkssy2/RoadRash64Recompiled",
    "match": "roadrash64recompiled",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Road Rash 64"
   },
   {
    "id": "rush2recompiled",
@@ -351,7 +383,8 @@
    "repo": "bryantmh/rush2recompiled",
    "match": "rush2recompiled",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Rush 2: Extreme Racing USA"
   },
   {
    "id": "snprecomp",
@@ -361,7 +394,8 @@
    "repo": "wootbeer/snprecomp",
    "match": "snprecomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Sin and Punishment"
   },
   {
    "id": "snowboardkids2-recomp",
@@ -371,7 +405,8 @@
    "repo": "cdlewis/snowboardkids2-recomp",
    "match": "snowboardkids2[\\s_-]*recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Snowboard Kids 2"
   },
   {
    "id": "starfox64recomp",
@@ -381,7 +416,8 @@
    "repo": "sonicdcer/Starfox64Recomp",
    "match": "starfox64recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Star Fox 64"
   },
   {
    "id": "sote-recomp",
@@ -391,7 +427,8 @@
    "repo": "GTTeancum/SotE-Recomp",
    "match": "sote[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Star Wars: Shadows of the Empire"
   },
   {
    "id": "wave-race-64-recomp",
@@ -401,7 +438,8 @@
    "repo": "danielgomesvieira2000/wave-race-64-recomp",
    "match": "wave[\\s_-]*race[\\s_-]*64[\\s_-]*recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Wave Race 64"
   },
   {
    "id": "cvlod-recomp",
@@ -411,7 +449,8 @@
    "repo": "fliperama86/cvlod_recomp",
    "match": "cvlod[\\s_-]*recomp",
    "status": "초기",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Castlevania: Legacy of Darkness"
   },
   {
    "id": "apeescaperecomp",
@@ -421,7 +460,8 @@
    "repo": "mstan/ApeEscapeRecomp",
    "match": "apeescaperecomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Ape Escape"
   },
   {
    "id": "medievilrecomp",
@@ -431,7 +471,8 @@
    "repo": "BlackLabelHQ/MediEvilRecomp",
    "match": "medievilrecomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "MediEvil"
   },
   {
    "id": "medievil-recomp",
@@ -441,7 +482,8 @@
    "repo": "alexbeavs-ps1-ports/medievil-recomp",
    "match": "medievil[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "MediEvil"
   },
   {
    "id": "twistedmetal1234recomp",
@@ -451,7 +493,8 @@
    "repo": "jcoker85/TwistedMetal1234Recomp",
    "match": "twistedmetal1234recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Twisted Metal"
   },
   {
    "id": "twistedmetal4recomp",
@@ -461,7 +504,8 @@
    "repo": "TechnicallyComputers/TwistedMetal4Recomp",
    "match": "twistedmetal4recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Twisted Metal 4"
   },
   {
    "id": "rage-racer-pc",
@@ -471,7 +515,8 @@
    "repo": "khasinski/rage-racer-pc",
    "match": "rage[\\s_-]*racer[\\s_-]*pc",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Rage Racer"
   },
   {
    "id": "vigilante-8-recomp",
@@ -481,7 +526,8 @@
    "repo": "GTTeancum/Vigilante-8-recomp",
    "match": "vigilante[\\s_-]*8[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Vigilante 8"
   },
   {
    "id": "yu-gi-oh-forbidden-memories-recompiled",
@@ -491,7 +537,8 @@
    "repo": "Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled",
    "match": "yu[\\s_-]*gi[\\s_-]*oh[\\s_-]*forbidden[\\s_-]*memories[\\s_-]*recompiled",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Yu-Gi-Oh! Forbidden Memories"
   },
   {
    "id": "def-jam-vendetta-recomp",
@@ -501,7 +548,8 @@
    "repo": "jcsix694/def-jam-vendetta-recomp",
    "match": "def[\\s_-]*jam[\\s_-]*vendetta[\\s_-]*recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Def Jam: Vendetta"
   },
   {
    "id": "street-recomp-v3",
@@ -511,7 +559,8 @@
    "repo": "recomp-code/street-recomp-v3",
    "match": "street[\\s_-]*recomp[\\s_-]*v3",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "NBA Street V3"
   },
   {
    "id": "rampagere",
@@ -521,7 +570,8 @@
    "repo": "jjmhalew/RampageRE",
    "match": "",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Rampage: Total Destruction"
   },
   {
    "id": "fukami",
@@ -531,7 +581,8 @@
    "repo": "danisandoval/fukami",
    "match": "",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Ridge Racer V"
   },
   {
    "id": "safehouse",
@@ -541,7 +592,8 @@
    "repo": "FridiNaTor1/SafeHouse",
    "match": "",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Sly Cooper and the Thievius Raccoonus"
   },
   {
    "id": "celosia",
@@ -551,7 +603,8 @@
    "repo": "HenryKun55/celosia",
    "match": "",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Shadow of the Colossus"
   },
   {
    "id": "timesplitters",
@@ -561,7 +614,8 @@
    "repo": "GTTeancum/Timesplitters",
    "match": "timesplitters",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "TimeSplitters"
   },
   {
    "id": "timesplitters-2-native-recomp-windows-linux-steamdeck",
@@ -571,7 +625,8 @@
    "repo": "Destinity13/TimeSplitters-2-Native-Recomp-Windows-Linux-SteamDeck",
    "match": "timesplitters[\\s_-]*2[\\s_-]*native[\\s_-]*recomp[\\s_-]*windows[\\s_-]*linux[\\s_-]*steamdeck",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "TimeSplitters 2"
   },
   {
    "id": "zoe-recompiled",
@@ -581,7 +636,8 @@
    "repo": "Yaz-Myst/ZOE-Recompiled",
    "match": "zoe[\\s_-]*recompiled",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Zone of the Enders"
   },
   {
    "id": "shadowrecomp",
@@ -591,7 +647,8 @@
    "repo": "FoxWorkshop/ShadowRecomp",
    "match": "shadowrecomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Shadow the Hedgehog"
   },
   {
    "id": "finesthourremastered",
@@ -601,7 +658,8 @@
    "repo": "crazyriddler/FinestHourRemastered",
    "match": "finesthourremastered",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Call of Duty: Finest Hour"
   },
   {
    "id": "dead-rising-2-case-zero-xenon-recomp",
@@ -611,7 +669,8 @@
    "repo": "wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
    "match": "dead[\\s_-]*rising[\\s_-]*2[\\s_-]*case[\\s_-]*zero[\\s_-]*xenon[\\s_-]*recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Dead Rising 2: Case Zero"
   },
   {
    "id": "dead-rising-2-case-west-xenon-recomp",
@@ -621,7 +680,8 @@
    "repo": "wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
    "match": "dead[\\s_-]*rising[\\s_-]*2[\\s_-]*case[\\s_-]*west[\\s_-]*xenon[\\s_-]*recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Dead Rising 2: Case West"
   },
   {
    "id": "skate3recomp",
@@ -631,7 +691,8 @@
    "repo": "mchughalex/skate3recomp",
    "match": "skate3recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Skate 3"
   },
   {
    "id": "tip-recomp",
@@ -641,7 +702,8 @@
    "repo": "SolarCookies/TiP-Recomp",
    "match": "tip[\\s_-]*recomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Viva Piñata: Trouble in Paradise"
   },
   {
    "id": "nocturnerecomp",
@@ -651,7 +713,8 @@
    "repo": "birabittoh/NocturneRecomp",
    "match": "nocturnerecomp",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Castlevania: Symphony of the Night"
   },
   {
    "id": "rayman3-hd-recompiled",
@@ -661,7 +724,8 @@
    "repo": "MysteriousAeon/rayman3-hd-recompiled",
    "match": "rayman3[\\s_-]*hd[\\s_-]*recompiled",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Rayman 3 HD"
   },
   {
    "id": "xerenge",
@@ -671,7 +735,8 @@
    "repo": "shipa-2/Xerenge",
    "match": "",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Burnout Revenge"
   },
   {
    "id": "renut",
@@ -681,7 +746,8 @@
    "repo": "masterspike52/reNut",
    "match": "",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Banjo-Kazooie: Nuts & Bolts"
   },
   {
    "id": "reblue",
@@ -691,7 +757,8 @@
    "repo": "zolaware/reblue",
    "match": "",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Blue Dragon"
   },
   {
    "id": "kameorepowered",
@@ -701,7 +768,8 @@
    "repo": "birabittoh/KameoRePowered",
    "match": "kameorepowered",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Kameo: Elements of Power"
   },
   {
    "id": "lostodysseyrecomp",
@@ -711,7 +779,8 @@
    "repo": "freefrank/LostOdysseyRecomp",
    "match": "lostodysseyrecomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Lost Odyssey"
   },
   {
    "id": "eternalsonatareprise",
@@ -721,7 +790,8 @@
    "repo": "birabittoh/EternalSonataReprise",
    "match": "eternalsonatareprise",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Eternal Sonata"
   },
   {
    "id": "ac6-recomp",
@@ -731,7 +801,8 @@
    "repo": "sal063/AC6_recomp",
    "match": "ac6[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Ace Combat 6: Fires of Liberation"
   },
   {
    "id": "free-riders-recompiled",
@@ -741,7 +812,8 @@
    "repo": "YuutaTsubasa/Free-Riders-Recompiled",
    "match": "free[\\s_-]*riders[\\s_-]*recompiled",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Sonic Free Riders"
   },
   {
    "id": "ng2recomp",
@@ -751,7 +823,8 @@
    "repo": "gamboozino/ng2recomp",
    "match": "ng2recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Ninja Gaiden II"
   },
   {
    "id": "openng2",
@@ -761,7 +834,8 @@
    "repo": "KamiTK2/openNG2",
    "match": "",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Ninja Gaiden II"
   },
   {
    "id": "izunarecomp",
@@ -771,7 +845,8 @@
    "repo": "YaibaKamikaze/IzunaRecomp",
    "match": "izunarecomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Ninja Gaiden II"
   },
   {
    "id": "pgr4-recomp",
@@ -781,7 +856,8 @@
    "repo": "beatrixzy/PGR4-Recomp",
    "match": "pgr4[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Project Gotham Racing 4"
   },
   {
    "id": "pgr4-regpu",
@@ -791,7 +867,8 @@
    "repo": "zer0ducksgiven/PGR4-ReGPU",
    "match": "pgr4[\\s_-]*regpu",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Project Gotham Racing 4"
   },
   {
    "id": "mcla-recomp",
@@ -801,7 +878,8 @@
    "repo": "holdmysocks/mcla-recomp",
    "match": "mcla[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Midnight Club: Los Angeles"
   },
   {
    "id": "larecomp",
@@ -811,7 +889,8 @@
    "repo": "mzzvxm/LARecomp",
    "match": "larecomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Midnight Club: Los Angeles"
   },
   {
    "id": "strikers",
@@ -821,7 +900,8 @@
    "repo": "new-coke/strikers",
    "match": "",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Super Mario Strikers"
   },
   {
    "id": "eternaldarknessrecomp",
@@ -831,7 +911,8 @@
    "repo": "griches/EternalDarknessRecomp",
    "match": "eternaldarknessrecomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Eternal Darkness: Sanity's Requiem"
   },
   {
    "id": "sms-pc-port",
@@ -841,7 +922,8 @@
    "repo": "chasem-dev/sms-pc-port",
    "match": "sms[\\s_-]*pc[\\s_-]*port",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Super Mario Sunshine"
   },
   {
    "id": "sunpad",
@@ -851,7 +933,8 @@
    "repo": "chrissotraidis/sunpad",
    "match": "",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Super Mario Sunshine"
   },
   {
    "id": "melee-pc",
@@ -861,7 +944,8 @@
    "repo": "999sian/melee-pc",
    "match": "",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Super Smash Bros. Melee"
   },
   {
    "id": "nsmb-wii-multiplayer-recompilation",
@@ -871,7 +955,8 @@
    "repo": "WitherBlitz/NSMB-Wii-Multiplayer-Recompilation",
    "match": "nsmb[\\s_-]*wii[\\s_-]*multiplayer[\\s_-]*recompilation",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "New Super Mario Bros. Wii"
   },
   {
    "id": "newsuperpaperbros",
@@ -881,7 +966,8 @@
    "repo": "josiahg2502-glitch/NewSuperPaperBros",
    "match": "newsuperpaperbros",
    "status": "플레이 가능",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Super Paper Mario"
   },
   {
    "id": "zeldawwhdrecomp",
@@ -891,7 +977,8 @@
    "repo": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
    "match": "zeldawwhdrecomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "The Legend of Zelda: The Wind Waker HD"
   },
   {
    "id": "metroid-dread-recomp",
@@ -901,7 +988,8 @@
    "repo": "yozander2009-stack/Metroid-Dread-Recomp",
    "match": "metroid[\\s_-]*dread[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Metroid Dread"
   },
   {
    "id": "mp4-recomp",
@@ -911,7 +999,8 @@
    "repo": "linuxopt/mp4-recomp",
    "match": "mp4[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Metroid Prime 4: Beyond"
   },
   {
    "id": "letsgo-recomp",
@@ -921,7 +1010,8 @@
    "repo": "raulzrrs/letsgo-recomp",
    "match": "letsgo[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Pokémon: Let's Go, Pikachu!"
   },
   {
    "id": "recompia",
@@ -931,7 +1021,8 @@
    "repo": "Dittobyte/Recompia",
    "match": "recompia",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Pokémon Pokopia"
   },
   {
    "id": "super-odyssey-pc-recomp",
@@ -941,7 +1032,8 @@
    "repo": "Simon3Sarkis/super-odyssey-pc-recomp",
    "match": "super[\\s_-]*odyssey[\\s_-]*pc[\\s_-]*recomp",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Super Mario Odyssey"
   },
   {
    "id": "smo-recomp",
@@ -951,7 +1043,8 @@
    "repo": "Coz-0/smo-recomp",
    "match": "smo[\\s_-]*recomp",
    "status": "초기",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Super Mario Odyssey"
   },
   {
    "id": "xc2-recomp",
@@ -961,7 +1054,8 @@
    "repo": "AksharDP/xc2-recomp",
    "match": "xc2[\\s_-]*recomp",
    "status": "초기",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Xenoblade Chronicles 2"
   },
   {
    "id": "xcx-recomp",
@@ -971,7 +1065,8 @@
    "repo": "jmars125/xcx-recomp",
    "match": "xcx[\\s_-]*recomp",
    "status": "초기",
-   "note": "원작 게임 데이터 직접 준비"
+   "note": "원작 게임 데이터 직접 준비",
+   "sgdb": "Xenoblade Chronicles X: Definitive Edition"
   },
   {
    "id": "longshot",
@@ -981,7 +1076,8 @@
    "repo": "https://git.magicbean.dev/MagicBeanDev/Longshot",
    "match": "longshot",
    "status": "베타",
-   "note": "원작 게임 데이터 직접 준비 · Longshot Launcher로 빌드·업데이트 · Hookshot 포크"
+   "note": "원작 게임 데이터 직접 준비 · Longshot Launcher로 빌드·업데이트 · Hookshot 포크",
+   "sgdb": "The Legend of Zelda: Ocarina of Time"
   },
   {
    "id": "heylisten",
@@ -991,7 +1087,8 @@
    "repo": "Sacrappy/HeyListen",
    "match": "hey[\\s_-]*listen",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비 · HeyListenBuilder로 빌드 · Hookshot 성능 개선 포크"
+   "note": "원작 게임 데이터 직접 준비 · HeyListenBuilder로 빌드 · Hookshot 성능 개선 포크",
+   "sgdb": "The Legend of Zelda: Ocarina of Time"
   },
   {
    "id": "relink",
@@ -1001,7 +1098,8 @@
    "repo": "pixl27/ProjectReLink",
    "match": "project[\\s_-]*re[\\s_-]*link|(^|\\s)relink(-setup)?\\.exe$",
    "status": "",
-   "note": "원작 게임 데이터 직접 준비 · ReLink-Setup으로 설치"
+   "note": "원작 게임 데이터 직접 준비 · ReLink-Setup으로 설치",
+   "sgdb": "The Legend of Zelda: Ocarina of Time"
   },
   {
    "id": "nx2navi",
@@ -1011,7 +1109,8 @@
    "repo": "tangerineturtle1/NX2navi",
    "match": "nx2navi",
    "status": "",
-   "note": "원작 게임 데이터(1.1.1) 직접 준비"
+   "note": "원작 게임 데이터(1.1.1) 직접 준비",
+   "sgdb": "The Legend of Zelda: Ocarina of Time"
   },
   {
    "id": "rekarina",
@@ -1029,7 +1128,8 @@
      "rekarina\\D{0,12}?v?(\\d+\\.\\d+\\.\\d+)"
     ],
     "download": "https://rekarina.dev/download"
-   }
+   },
+   "sgdb": "The Legend of Zelda: Ocarina of Time"
   },
   {
    "id": "triforce",
@@ -1039,7 +1139,8 @@
    "repo": "https://triforceproject.com",
    "match": "triforce[\\s_-]*project|(^|\\s)triforce(setup)?\\.exe$",
    "status": "",
-   "note": "웹사이트만 확인됨(저장소·다운로드 주소 미공개) · 버전 자동 확인 없음"
+   "note": "웹사이트만 확인됨(저장소·다운로드 주소 미공개) · 버전 자동 확인 없음",
+   "sgdb": "The Legend of Zelda: Ocarina of Time"
   },
   {
    "id": "ocpcnative",
@@ -1049,7 +1150,8 @@
    "repo": "ocarina-pc-native-build/ocarina-pc-native-build.github.io",
    "match": "ocarina[\\s_-]*pc[\\s_-]*native",
    "status": "초기",
-   "note": "플레이 가능한 릴리스 없음(개발 중)"
+   "note": "플레이 가능한 릴리스 없음(개발 중)",
+   "sgdb": "The Legend of Zelda: Ocarina of Time"
   }
  ]
 }
