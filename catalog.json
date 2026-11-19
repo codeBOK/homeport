@@ -1,0 +1,1055 @@
+{
+ "v": 1,
+ "updated": "2026-11-19d",
+ "about": "라이브러리 목록. name=프로젝트 이름, orig=원작(같은 원작끼리 묶여 GitHub 별 많은 순으로 정렬), platform=원작 기종, repo=저장소(GitHub '소유자/저장소' 또는 다른 호스트 주소), match=실행 파일 경로 감지 규칙(정규식, 대소문자 무시), status=개발 단계(플레이 가능/베타/초기), note=필요한 것, cover=대표 이미지 주소(선택, 비우면 저장소의 소셜 미리보기 이미지). web=저장소 없이 웹사이트로만 배포할 때 버전을 읽는 규칙(url: 읽을 페이지, re: 정규식 목록·첫 괄호가 버전·가장 높은 버전 사용, download: 받는 곳). repo에는 사이트 주소(https://호스트)를 넣음. 모르는 칸은 비워 둠. 출처: portedgames.com·readonlymemo.com 공개 목록(2026-11)",
+ "games": [
+  {
+   "id": "savagewind",
+   "name": "Savage Wind",
+   "orig": "젤다의 전설 브레스 오브 더 와일드",
+   "platform": "Switch",
+   "repo": "Revivedx/SavageWindRecomp",
+   "match": "savage\\s*wind",
+   "status": "알파",
+   "note": "원작 게임 데이터(1.9.0) 직접 준비"
+  },
+  {
+   "id": "zelda64",
+   "name": "Zelda 64: Recompiled",
+   "orig": "젤다의 전설 무쥬라의 가면",
+   "platform": "N64",
+   "repo": "Zelda64Recomp/Zelda64Recomp",
+   "match": "zelda\\s*64\\s*recomp",
+   "status": "플레이 가능",
+   "note": "북미판 ROM 직접 준비"
+  },
+  {
+   "id": "hookshot",
+   "name": "Hookshot",
+   "orig": "젤다의 전설 시간의 오카리나 (Switch 2 리메이크)",
+   "platform": "Switch 2",
+   "repo": "https://git.notrexed.dev/Hookshot/Hookshot",
+   "match": "hookshot",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "totkpc",
+   "name": "TotK PC Recomp",
+   "orig": "젤다의 전설 티어스 오브 더 킹덤",
+   "platform": "Switch",
+   "repo": "valentderah/totk-pc-recomp",
+   "match": "totk[\\s_-]*pc[\\s_-]*recomp|(^|\\s)totk\\.exe$",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "ultratears",
+   "name": "UltraTears",
+   "orig": "젤다의 전설 티어스 오브 더 킹덤",
+   "platform": "Switch",
+   "repo": "kuraeow/ultratears",
+   "match": "ultra\\s*tears",
+   "status": "초기",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "weeping",
+   "name": "Weeping of the Empire",
+   "orig": "젤다의 전설 티어스 오브 더 킹덤",
+   "platform": "Switch",
+   "repo": "daniel-madrid-07/weeping-of-the-empire",
+   "match": "weeping[\\s_-]*of[\\s_-]*the[\\s_-]*empire",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "unleashed",
+   "name": "Unleashed Recompiled",
+   "orig": "소닉 언리시드",
+   "platform": "Xbox 360",
+   "repo": "hedge-dev/UnleashedRecomp",
+   "match": "unleashed\\s*recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "dinoplanet",
+   "name": "Dinosaur Planet Recomp",
+   "orig": "Dinosaur Planet",
+   "platform": "N64",
+   "repo": "DinosaurPlanetRecomp/dino-recomp",
+   "match": "dino(saur)?[\\s_-]*(planet)?[\\s_-]*recomp",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "goemon64",
+   "name": "Goemon 64 Recomp",
+   "orig": "Mystical Ninja Starring Goemon",
+   "platform": "N64",
+   "repo": "klorfmorf/Goemon64Recomp",
+   "match": "goemon\\s*64\\s*recomp",
+   "status": "베타",
+   "note": "원작 ROM 직접 준비"
+  },
+  {
+   "id": "cv64",
+   "name": "CV64 Recomp",
+   "orig": "Castlevania",
+   "platform": "N64",
+   "repo": "spacefarergames/CV64-Recomp",
+   "match": "cv64[\\s_-]*recomp",
+   "status": "",
+   "note": "원작 ROM 직접 준비"
+  },
+  {
+   "id": "snap64",
+   "name": "Snap64 Recomp",
+   "orig": "Pokémon Snap",
+   "platform": "N64",
+   "repo": "JackandBeans/Snap64Recomp",
+   "match": "snap\\s*64\\s*recomp",
+   "status": "플레이 가능",
+   "note": "북미판 ROM 직접 준비"
+  },
+  {
+   "id": "tomba",
+   "name": "Tomba Recomp",
+   "orig": "Tomba!",
+   "platform": "PS1",
+   "repo": "mstan/TombaRecomp",
+   "match": "tomba\\s*recomp",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "mmx4",
+   "name": "Mega Man X4 Recomp",
+   "orig": "Mega Man X4",
+   "platform": "PS1",
+   "repo": "mstan/MegaManX4Recomp",
+   "match": "mega\\s*man\\s*x4\\s*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "mmx6",
+   "name": "Mega Man X6 Recomp",
+   "orig": "Mega Man X6",
+   "platform": "PS1",
+   "repo": "mstan/MegaManX6Recomp",
+   "match": "mega\\s*man\\s*x6\\s*recomp",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "b2",
+   "name": "B2recomp",
+   "orig": "Bayonetta 2",
+   "platform": "Switch",
+   "repo": "K0NL/B2recomp",
+   "match": "b2\\s*recomp",
+   "status": "초기",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "downpour",
+   "name": "DownpourRecomp",
+   "orig": "",
+   "platform": "",
+   "repo": "LittleBitUA/DownpourRecomp",
+   "match": "downpour\\s*recomp",
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "project8",
+   "name": "Project8Recomp",
+   "orig": "",
+   "platform": "",
+   "repo": "theokyr/Project8Recomp",
+   "match": "project\\s*8\\s*recomp",
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "banjorecomp",
+   "name": "Banjo: Recompiled",
+   "orig": "Banjo-Kazooie",
+   "platform": "N64",
+   "repo": "BanjoRecomp/BanjoRecomp",
+   "match": "banjorecomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "banjo-tooie-scurvy-dog-port",
+   "name": "Banjo-Tooie: Scurvy Dog Port",
+   "orig": "Banjo-Tooie",
+   "platform": "N64",
+   "repo": "some-scurvy-dog/banjo-tooie-scurvy-dog-port",
+   "match": "banjo[\\s_-]*tooie[\\s_-]*scurvy[\\s_-]*dog[\\s_-]*port",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "blastcorps-recomp",
+   "name": "Blast Corps: Recompiled",
+   "orig": "Blast Corps",
+   "platform": "N64",
+   "repo": "SlaveOfIDO/blastcorps-recomp",
+   "match": "blastcorps[\\s_-]*recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "bm64recomp",
+   "name": "Bomberman 64: Recompiled",
+   "orig": "Bomberman 64",
+   "platform": "N64",
+   "repo": "RevoSucks/BM64Recomp",
+   "match": "bm64recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "bmherorecomp",
+   "name": "BMHeroRecomp",
+   "orig": "Bomberman Hero",
+   "platform": "N64",
+   "repo": "RevoSucks/BMHeroRecomp",
+   "match": "bmherorecomp",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "conkerbfdreloaded",
+   "name": "Conker's Bad Fur Day: Reloaded",
+   "orig": "Conker's Bad Fur Day",
+   "platform": "N64",
+   "repo": "DahSidiAbdallah/ConkerBFDReloaded",
+   "match": "conkerbfdreloaded",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "donkey-kong-64-recompiled",
+   "name": "Donkey Kong 64: Recompiled",
+   "orig": "Donkey Kong 64",
+   "platform": "N64",
+   "repo": "Rainchus/Donkey-Kong-64-Recompiled",
+   "match": "donkey[\\s_-]*kong[\\s_-]*64[\\s_-]*recompiled",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "drmario64-recomp-plus",
+   "name": "Dr. Mario 64 Recomp Plus",
+   "orig": "Dr. Mario 64",
+   "platform": "N64",
+   "repo": "theboy181/drmario64_recomp_plus",
+   "match": "drmario64[\\s_-]*recomp[\\s_-]*plus",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "dnzhrecomp",
+   "name": "DNZHRecomp",
+   "orig": "Duke Nukem: Zero Hour",
+   "platform": "N64",
+   "repo": "sonicdcer/DNZHRecomp",
+   "match": "dnzhrecomp",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "harvestmoon64recomp",
+   "name": "Harvest Moon 64: Recompiled",
+   "orig": "Harvest Moon 64",
+   "platform": "N64",
+   "repo": "HarvestMoon64Recomp/HarvestMoon64Recomp",
+   "match": "harvestmoon64recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "mariokart64recomp",
+   "name": "MarioKart 64: Recompiled",
+   "orig": "Mario Kart 64",
+   "platform": "N64",
+   "repo": "sonicdcer/MarioKart64Recomp",
+   "match": "mariokart64recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "mario-party-recomp",
+   "name": "Mario Party: Recompiled",
+   "orig": "Mario Party",
+   "platform": "N64",
+   "repo": "n64hub/mario-party-recomp",
+   "match": "mario[\\s_-]*party[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "ogre-battle-64-recomp",
+   "name": "Ogre Battle 64 PC port",
+   "orig": "Ogre Battle 64",
+   "platform": "N64",
+   "repo": "lfarroco/ogre-battle-64-recomp",
+   "match": "ogre[\\s_-]*battle[\\s_-]*64[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "birdman64",
+   "name": "Birdman64",
+   "orig": "Pilotwings 64",
+   "platform": "N64",
+   "repo": "NoahVl/Birdman64",
+   "match": "",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "pilotwings-64-recomp",
+   "name": "Pilotwings 64 Recomp",
+   "orig": "Pilotwings 64",
+   "platform": "N64",
+   "repo": "danielgomesvieira2000/pilotwings-64-recomp",
+   "match": "pilotwings[\\s_-]*64[\\s_-]*recomp",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "quest64-recomp",
+   "name": "Quest64-Recomp",
+   "orig": "Quest 64",
+   "platform": "N64",
+   "repo": "Rainchus/Quest64-Recomp",
+   "match": "quest64[\\s_-]*recomp",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "roadrash64recompiled",
+   "name": "Road Rash 64 Recompiled",
+   "orig": "Road Rash 64",
+   "platform": "N64",
+   "repo": "linkssy2/RoadRash64Recompiled",
+   "match": "roadrash64recompiled",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "rush2recompiled",
+   "name": "Rush 2 Recompiled",
+   "orig": "Rush 2: Extreme Racing USA",
+   "platform": "N64",
+   "repo": "bryantmh/rush2recompiled",
+   "match": "rush2recompiled",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "snprecomp",
+   "name": "snprecomp",
+   "orig": "Sin and Punishment",
+   "platform": "N64",
+   "repo": "wootbeer/snprecomp",
+   "match": "snprecomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "snowboardkids2-recomp",
+   "name": "Snowboard Kids 2: Recompiled",
+   "orig": "Snowboard Kids 2",
+   "platform": "N64",
+   "repo": "cdlewis/snowboardkids2-recomp",
+   "match": "snowboardkids2[\\s_-]*recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "starfox64recomp",
+   "name": "Starfox 64: Recompiled",
+   "orig": "Star Fox 64",
+   "platform": "N64",
+   "repo": "sonicdcer/Starfox64Recomp",
+   "match": "starfox64recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "sote-recomp",
+   "name": "SotE-Recomp",
+   "orig": "Star Wars: Shadows of the Empire",
+   "platform": "N64",
+   "repo": "GTTeancum/SotE-Recomp",
+   "match": "sote[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "wave-race-64-recomp",
+   "name": "Wave Race 64: Recompiled",
+   "orig": "Wave Race 64",
+   "platform": "N64",
+   "repo": "danielgomesvieira2000/wave-race-64-recomp",
+   "match": "wave[\\s_-]*race[\\s_-]*64[\\s_-]*recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "cvlod-recomp",
+   "name": "LodRecomp",
+   "orig": "Castlevania: Legacy of Darkness",
+   "platform": "N64",
+   "repo": "fliperama86/cvlod_recomp",
+   "match": "cvlod[\\s_-]*recomp",
+   "status": "초기",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "apeescaperecomp",
+   "name": "ApeEscapeRecomp",
+   "orig": "Ape Escape",
+   "platform": "PS1",
+   "repo": "mstan/ApeEscapeRecomp",
+   "match": "apeescaperecomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "medievilrecomp",
+   "name": "MediEvil Recomp",
+   "orig": "MediEvil",
+   "platform": "PS1",
+   "repo": "BlackLabelHQ/MediEvilRecomp",
+   "match": "medievilrecomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "medievil-recomp",
+   "name": "MediEvil Recompiled",
+   "orig": "MediEvil",
+   "platform": "PS1",
+   "repo": "alexbeavs-ps1-ports/medievil-recomp",
+   "match": "medievil[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "twistedmetal1234recomp",
+   "name": "TwistedMetal1234Recomp",
+   "orig": "Twisted Metal 1-4",
+   "platform": "PS1",
+   "repo": "jcoker85/TwistedMetal1234Recomp",
+   "match": "twistedmetal1234recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "twistedmetal4recomp",
+   "name": "TwistedMetal4 Recompiled",
+   "orig": "Twisted Metal 4",
+   "platform": "PS1",
+   "repo": "TechnicallyComputers/TwistedMetal4Recomp",
+   "match": "twistedmetal4recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "rage-racer-pc",
+   "name": "Rage Racer PC",
+   "orig": "Rage Racer",
+   "platform": "PS1",
+   "repo": "khasinski/rage-racer-pc",
+   "match": "rage[\\s_-]*racer[\\s_-]*pc",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "vigilante-8-recomp",
+   "name": "Vigilante 8 Classic",
+   "orig": "Vigilante 8",
+   "platform": "PS1",
+   "repo": "GTTeancum/Vigilante-8-recomp",
+   "match": "vigilante[\\s_-]*8[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "yu-gi-oh-forbidden-memories-recompiled",
+   "name": "YFM Re-Decomp",
+   "orig": "Yu-Gi-Oh! Forbidden Memories",
+   "platform": "PS1",
+   "repo": "Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled",
+   "match": "yu[\\s_-]*gi[\\s_-]*oh[\\s_-]*forbidden[\\s_-]*memories[\\s_-]*recompiled",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "def-jam-vendetta-recomp",
+   "name": "Def Jam Vendetta Recompiled",
+   "orig": "Def Jam: Vendetta",
+   "platform": "PS2",
+   "repo": "jcsix694/def-jam-vendetta-recomp",
+   "match": "def[\\s_-]*jam[\\s_-]*vendetta[\\s_-]*recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "street-recomp-v3",
+   "name": "street-recomp-v3",
+   "orig": "NBA Street V3",
+   "platform": "PS2",
+   "repo": "recomp-code/street-recomp-v3",
+   "match": "street[\\s_-]*recomp[\\s_-]*v3",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "rampagere",
+   "name": "RampageRE",
+   "orig": "Rampage: Total Destruction",
+   "platform": "PS2",
+   "repo": "jjmhalew/RampageRE",
+   "match": "",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "fukami",
+   "name": "Fukami",
+   "orig": "Ridge Racer V",
+   "platform": "PS2",
+   "repo": "danisandoval/fukami",
+   "match": "",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "safehouse",
+   "name": "SafeHouse",
+   "orig": "Sly Cooper 시리즈",
+   "platform": "PS2",
+   "repo": "FridiNaTor1/SafeHouse",
+   "match": "",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "celosia",
+   "name": "Celosia",
+   "orig": "Shadow of the Colossus",
+   "platform": "PS2",
+   "repo": "HenryKun55/celosia",
+   "match": "",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "timesplitters",
+   "name": "Timesplitters",
+   "orig": "TimeSplitters",
+   "platform": "PS2",
+   "repo": "GTTeancum/Timesplitters",
+   "match": "timesplitters",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "timesplitters-2-native-recomp-windows-linux-steamdeck",
+   "name": "TimeSplitters 2 Native PC Port",
+   "orig": "TimeSplitters 2",
+   "platform": "PS2",
+   "repo": "Destinity13/TimeSplitters-2-Native-Recomp-Windows-Linux-SteamDeck",
+   "match": "timesplitters[\\s_-]*2[\\s_-]*native[\\s_-]*recomp[\\s_-]*windows[\\s_-]*linux[\\s_-]*steamdeck",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "zoe-recompiled",
+   "name": "ZOE-Recompiled",
+   "orig": "Zone of the Enders",
+   "platform": "PS2",
+   "repo": "Yaz-Myst/ZOE-Recompiled",
+   "match": "zoe[\\s_-]*recompiled",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "shadowrecomp",
+   "name": "Shadow Recompiled",
+   "orig": "Shadow the Hedgehog",
+   "platform": "Xbox",
+   "repo": "FoxWorkshop/ShadowRecomp",
+   "match": "shadowrecomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "finesthourremastered",
+   "name": "Finest Hour Remastered",
+   "orig": "Call of Duty: Finest Hour",
+   "platform": "Xbox",
+   "repo": "crazyriddler/FinestHourRemastered",
+   "match": "finesthourremastered",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "dead-rising-2-case-zero-xenon-recomp",
+   "name": "Case Zero Recomp",
+   "orig": "Dead Rising 2: Case Zero",
+   "platform": "Xbox 360",
+   "repo": "wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
+   "match": "dead[\\s_-]*rising[\\s_-]*2[\\s_-]*case[\\s_-]*zero[\\s_-]*xenon[\\s_-]*recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "dead-rising-2-case-west-xenon-recomp",
+   "name": "Case West Native PC Port",
+   "orig": "Dead Rising 2: Case West",
+   "platform": "Xbox 360",
+   "repo": "wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
+   "match": "dead[\\s_-]*rising[\\s_-]*2[\\s_-]*case[\\s_-]*west[\\s_-]*xenon[\\s_-]*recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "skate3recomp",
+   "name": "Skate 3 Recomp",
+   "orig": "Skate 3",
+   "platform": "Xbox 360",
+   "repo": "mchughalex/skate3recomp",
+   "match": "skate3recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "tip-recomp",
+   "name": "ReTiP",
+   "orig": "Viva Piñata: Trouble in Paradise",
+   "platform": "Xbox 360",
+   "repo": "SolarCookies/TiP-Recomp",
+   "match": "tip[\\s_-]*recomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "nocturnerecomp",
+   "name": "NocturneRecomp",
+   "orig": "Castlevania: Symphony of the Night (XBLA)",
+   "platform": "Xbox 360",
+   "repo": "birabittoh/NocturneRecomp",
+   "match": "nocturnerecomp",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "rayman3-hd-recompiled",
+   "name": "Rayman 3 HD Recompiled",
+   "orig": "Rayman 3 HD",
+   "platform": "Xbox 360",
+   "repo": "MysteriousAeon/rayman3-hd-recompiled",
+   "match": "rayman3[\\s_-]*hd[\\s_-]*recompiled",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "xerenge",
+   "name": "Xerenge",
+   "orig": "Burnout Revenge",
+   "platform": "Xbox 360",
+   "repo": "shipa-2/Xerenge",
+   "match": "",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "renut",
+   "name": "reNut",
+   "orig": "Banjo-Kazooie: Nuts & Bolts",
+   "platform": "Xbox 360",
+   "repo": "masterspike52/reNut",
+   "match": "",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "reblue",
+   "name": "re:Blue",
+   "orig": "Blue Dragon",
+   "platform": "Xbox 360",
+   "repo": "zolaware/reblue",
+   "match": "",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "kameorepowered",
+   "name": "KameoRePowered",
+   "orig": "Kameo: Elements of Power",
+   "platform": "Xbox 360",
+   "repo": "birabittoh/KameoRePowered",
+   "match": "kameorepowered",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "lostodysseyrecomp",
+   "name": "Lost Odyssey Recomp",
+   "orig": "Lost Odyssey",
+   "platform": "Xbox 360",
+   "repo": "freefrank/LostOdysseyRecomp",
+   "match": "lostodysseyrecomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "eternalsonatareprise",
+   "name": "Eternal Sonata Reprise",
+   "orig": "Eternal Sonata",
+   "platform": "Xbox 360",
+   "repo": "birabittoh/EternalSonataReprise",
+   "match": "eternalsonatareprise",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "ac6-recomp",
+   "name": "AC6Recomp",
+   "orig": "Ace Combat 6: Fires of Liberation",
+   "platform": "Xbox 360",
+   "repo": "sal063/AC6_recomp",
+   "match": "ac6[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "free-riders-recompiled",
+   "name": "Free Riders Recompiled",
+   "orig": "Sonic Free Riders",
+   "platform": "Xbox 360",
+   "repo": "YuutaTsubasa/Free-Riders-Recompiled",
+   "match": "free[\\s_-]*riders[\\s_-]*recompiled",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "ng2recomp",
+   "name": "Ninja Gaiden II Recompiled",
+   "orig": "Ninja Gaiden II",
+   "platform": "Xbox 360",
+   "repo": "gamboozino/ng2recomp",
+   "match": "ng2recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "openng2",
+   "name": "openNG2",
+   "orig": "Ninja Gaiden II",
+   "platform": "Xbox 360",
+   "repo": "KamiTK2/openNG2",
+   "match": "",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "izunarecomp",
+   "name": "IzunaRecomp",
+   "orig": "Ninja Gaiden II",
+   "platform": "Xbox 360",
+   "repo": "YaibaKamikaze/IzunaRecomp",
+   "match": "izunarecomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "pgr4-recomp",
+   "name": "PGR4-Recomp",
+   "orig": "Project Gotham Racing 4",
+   "platform": "Xbox 360",
+   "repo": "beatrixzy/PGR4-Recomp",
+   "match": "pgr4[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "pgr4-regpu",
+   "name": "PGR4-ReGPU",
+   "orig": "Project Gotham Racing 4",
+   "platform": "Xbox 360",
+   "repo": "zer0ducksgiven/PGR4-ReGPU",
+   "match": "pgr4[\\s_-]*regpu",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "mcla-recomp",
+   "name": "mcla-recomp",
+   "orig": "Midnight Club: Los Angeles",
+   "platform": "Xbox 360",
+   "repo": "holdmysocks/mcla-recomp",
+   "match": "mcla[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "larecomp",
+   "name": "LARecomp",
+   "orig": "Midnight Club: Los Angeles",
+   "platform": "Xbox 360",
+   "repo": "mzzvxm/LARecomp",
+   "match": "larecomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "strikers",
+   "name": "strikers",
+   "orig": "Super Mario Strikers",
+   "platform": "GameCube",
+   "repo": "new-coke/strikers",
+   "match": "",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "eternaldarknessrecomp",
+   "name": "EternalDarknessRecomp",
+   "orig": "Eternal Darkness: Sanity's Requiem",
+   "platform": "GameCube",
+   "repo": "griches/EternalDarknessRecomp",
+   "match": "eternaldarknessrecomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "sms-pc-port",
+   "name": "SMS PC Port",
+   "orig": "Super Mario Sunshine",
+   "platform": "GameCube",
+   "repo": "chasem-dev/sms-pc-port",
+   "match": "sms[\\s_-]*pc[\\s_-]*port",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "sunpad",
+   "name": "SunPad",
+   "orig": "Super Mario Sunshine",
+   "platform": "GameCube",
+   "repo": "chrissotraidis/sunpad",
+   "match": "",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "melee-pc",
+   "name": "melee-pc",
+   "orig": "Super Smash Bros. Melee",
+   "platform": "GameCube",
+   "repo": "999sian/melee-pc",
+   "match": "",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "nsmb-wii-multiplayer-recompilation",
+   "name": "NSMB Wii Multiplayer Recompilation",
+   "orig": "New Super Mario Bros. Wii",
+   "platform": "Wii",
+   "repo": "WitherBlitz/NSMB-Wii-Multiplayer-Recompilation",
+   "match": "nsmb[\\s_-]*wii[\\s_-]*multiplayer[\\s_-]*recompilation",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "newsuperpaperbros",
+   "name": "New Super Paper Bros.",
+   "orig": "Super Paper Mario",
+   "platform": "Wii",
+   "repo": "josiahg2502-glitch/NewSuperPaperBros",
+   "match": "newsuperpaperbros",
+   "status": "플레이 가능",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "zeldawwhdrecomp",
+   "name": "ZeldaWWHDRecomp",
+   "orig": "The Legend of Zelda: The Wind Waker HD",
+   "platform": "Wii U",
+   "repo": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+   "match": "zeldawwhdrecomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "metroid-dread-recomp",
+   "name": "Metroid-Dread-Recomp",
+   "orig": "Metroid Dread",
+   "platform": "Switch",
+   "repo": "yozander2009-stack/Metroid-Dread-Recomp",
+   "match": "metroid[\\s_-]*dread[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "mp4-recomp",
+   "name": "Metroid Prime 4 Recomp",
+   "orig": "Metroid Prime 4: Beyond",
+   "platform": "Switch",
+   "repo": "linuxopt/mp4-recomp",
+   "match": "mp4[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "letsgo-recomp",
+   "name": "Let's Go Recomp",
+   "orig": "Pokémon: Let's Go, Pikachu! / Eevee!",
+   "platform": "Switch",
+   "repo": "raulzrrs/letsgo-recomp",
+   "match": "letsgo[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "recompia",
+   "name": "Recompia",
+   "orig": "Pokémon Pokopia",
+   "platform": "Switch",
+   "repo": "Dittobyte/Recompia",
+   "match": "recompia",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "super-odyssey-pc-recomp",
+   "name": "Super Odyssey PC Recomp",
+   "orig": "Super Mario Odyssey",
+   "platform": "Switch",
+   "repo": "Simon3Sarkis/super-odyssey-pc-recomp",
+   "match": "super[\\s_-]*odyssey[\\s_-]*pc[\\s_-]*recomp",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "smo-recomp",
+   "name": "smo-recomp",
+   "orig": "Super Mario Odyssey",
+   "platform": "Switch",
+   "repo": "Coz-0/smo-recomp",
+   "match": "smo[\\s_-]*recomp",
+   "status": "초기",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "xc2-recomp",
+   "name": "XC2 Recomp",
+   "orig": "Xenoblade Chronicles 2",
+   "platform": "Switch",
+   "repo": "AksharDP/xc2-recomp",
+   "match": "xc2[\\s_-]*recomp",
+   "status": "초기",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "xcx-recomp",
+   "name": "XCX Recomp",
+   "orig": "Xenoblade Chronicles X: Definitive Edition",
+   "platform": "Switch",
+   "repo": "jmars125/xcx-recomp",
+   "match": "xcx[\\s_-]*recomp",
+   "status": "초기",
+   "note": "원작 게임 데이터 직접 준비"
+  },
+  {
+   "id": "longshot",
+   "name": "Longshot",
+   "orig": "젤다의 전설 시간의 오카리나 (Switch 2 리메이크)",
+   "platform": "Switch 2",
+   "repo": "https://git.magicbean.dev/MagicBeanDev/Longshot",
+   "match": "longshot",
+   "status": "베타",
+   "note": "원작 게임 데이터 직접 준비 · Longshot Launcher로 빌드·업데이트 · Hookshot 포크"
+  },
+  {
+   "id": "heylisten",
+   "name": "HeyListen",
+   "orig": "젤다의 전설 시간의 오카리나 (Switch 2 리메이크)",
+   "platform": "Switch 2",
+   "repo": "Sacrappy/HeyListen",
+   "match": "hey[\\s_-]*listen",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비 · HeyListenBuilder로 빌드 · Hookshot 성능 개선 포크"
+  },
+  {
+   "id": "relink",
+   "name": "ReLink",
+   "orig": "젤다의 전설 시간의 오카리나 (Switch 2 리메이크)",
+   "platform": "Switch 2",
+   "repo": "pixl27/ProjectReLink",
+   "match": "project[\\s_-]*re[\\s_-]*link|(^|\\s)relink(-setup)?\\.exe$",
+   "status": "",
+   "note": "원작 게임 데이터 직접 준비 · ReLink-Setup으로 설치"
+  },
+  {
+   "id": "nx2navi",
+   "name": "NX2navi",
+   "orig": "젤다의 전설 시간의 오카리나 (Switch 2 리메이크)",
+   "platform": "Switch 2",
+   "repo": "tangerineturtle1/NX2navi",
+   "match": "nx2navi",
+   "status": "",
+   "note": "원작 게임 데이터(1.1.1) 직접 준비"
+  },
+  {
+   "id": "rekarina",
+   "name": "Rekarina",
+   "orig": "젤다의 전설 시간의 오카리나 (Switch 2 리메이크)",
+   "platform": "Switch 2",
+   "repo": "https://rekarina.dev",
+   "match": "rekarina",
+   "status": "",
+   "note": "웹사이트 배포(저장소 없음, 첫 릴리스 때 소스 공개 예정) · 버전은 사이트에서 읽음",
+   "web": {
+    "url": "https://rekarina.dev/",
+    "re": [
+     "(?:current|latest)\\s+(?:release|version)\\D{0,16}?v?(\\d+\\.\\d+\\.\\d+)",
+     "rekarina\\D{0,12}?v?(\\d+\\.\\d+\\.\\d+)"
+    ],
+    "download": "https://rekarina.dev/download"
+   }
+  },
+  {
+   "id": "triforce",
+   "name": "Triforce",
+   "orig": "젤다의 전설 시간의 오카리나 (Switch 2 리메이크)",
+   "platform": "Switch 2",
+   "repo": "https://triforceproject.com",
+   "match": "triforce[\\s_-]*project|(^|\\s)triforce(setup)?\\.exe$",
+   "status": "",
+   "note": "웹사이트만 확인됨(저장소·다운로드 주소 미공개) · 버전 자동 확인 없음"
+  },
+  {
+   "id": "ocpcnative",
+   "name": "Ocarina PC Native Build",
+   "orig": "젤다의 전설 시간의 오카리나 (Switch 2 리메이크)",
+   "platform": "Switch 2",
+   "repo": "ocarina-pc-native-build/ocarina-pc-native-build.github.io",
+   "match": "ocarina[\\s_-]*pc[\\s_-]*native",
+   "status": "초기",
+   "note": "플레이 가능한 릴리스 없음(개발 중)"
+  }
+ ]
+}
