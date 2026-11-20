@@ -12,7 +12,14 @@
    "match": "savage\\s*wind",
    "status": "알파",
    "note": "원작 게임 데이터(1.9.0) 직접 준비",
-   "sgdb": "The Legend of Zelda: Breath of the Wild"
+   "sgdb": "The Legend of Zelda: Breath of the Wild",
+   "art": {
+    "id": 35744,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "icon": "https://cdn2.steamgriddb.com/grid/02504d5e5b523176e8f1851cf9b55bc1.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/71d1c0c06e1ab5049644acb5cc69a090.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/24df88ee05eb50db7d1d083a37f49b0b.png"
+   }
   },
   {
    "id": "zelda64",
@@ -23,7 +30,14 @@
    "match": "zelda\\s*64\\s*recomp",
    "status": "플레이 가능",
    "note": "북미판 ROM 직접 준비",
-   "sgdb": "The Legend of Zelda: Majora's Mask"
+   "sgdb": "The Legend of Zelda: Majora's Mask",
+   "art": {
+    "id": 34302,
+    "name": "The Legend of Zelda: Majora's Mask",
+    "icon": "https://cdn2.steamgriddb.com/grid/2b6ec430b129d51648254199756b2ca3.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/fe8c15fed5f808006ce95eddb7366e35.png"
+   }
   },
   {
    "id": "hookshot",
@@ -35,7 +49,14 @@
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
    "sgdb": "The Legend of Zelda: Ocarina of Time",
-   "sgdbYear": 2026
+   "sgdbYear": 2026,
+   "art": {
+    "id": 5532594,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+   }
   },
   {
    "id": "totkpc",
@@ -46,7 +67,14 @@
    "match": "totk[\\s_-]*pc[\\s_-]*recomp|(^|\\s)totk\\.exe$",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "The Legend of Zelda: Tears of the Kingdom"
+   "sgdb": "The Legend of Zelda: Tears of the Kingdom",
+   "art": {
+    "id": 5303117,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "icon": "https://cdn2.steamgriddb.com/grid/72654158f52bf25f9a8101f78aceaa2f.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png"
+   }
   },
   {
    "id": "ultratears",
@@ -57,7 +85,14 @@
    "match": "ultra\\s*tears",
    "status": "초기",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "The Legend of Zelda: Tears of the Kingdom"
+   "sgdb": "The Legend of Zelda: Tears of the Kingdom",
+   "art": {
+    "id": 5303117,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "icon": "https://cdn2.steamgriddb.com/grid/72654158f52bf25f9a8101f78aceaa2f.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png"
+   }
   },
   {
    "id": "weeping",
@@ -68,7 +103,14 @@
    "match": "weeping[\\s_-]*of[\\s_-]*the[\\s_-]*empire",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "The Legend of Zelda: Tears of the Kingdom"
+   "sgdb": "The Legend of Zelda: Tears of the Kingdom",
+   "art": {
+    "id": 5303117,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "icon": "https://cdn2.steamgriddb.com/grid/72654158f52bf25f9a8101f78aceaa2f.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png"
+   }
   },
   {
    "id": "unleashed",
@@ -79,7 +121,14 @@
    "match": "unleashed\\s*recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Sonic Unleashed"
+   "sgdb": "Sonic Unleashed",
+   "art": {
+    "id": 34584,
+    "name": "Sonic Unleashed",
+    "icon": "https://cdn2.steamgriddb.com/grid/11015ee7c6d6ecc29b72ac382fded621.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/2fc1df7ac6e00ffac3509b070b117ddc.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/ce3b5506fc4151c97d646dc6fce8b1f5.png"
+   }
   },
   {
    "id": "dinoplanet",
@@ -90,7 +139,14 @@
    "match": "dino(saur)?[\\s_-]*(planet)?[\\s_-]*recomp",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Dinosaur Planet"
+   "sgdb": "Dinosaur Planet",
+   "art": {
+    "id": 5278393,
+    "name": "Dinosaur Planet",
+    "icon": "https://cdn2.steamgriddb.com/grid/b4b3437e19503646e635713c055b537c.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/417cce83a9373223e4aae3b833114354.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/bb4acfc3f18743bfd00e09c18b65e474.png"
+   }
   },
   {
    "id": "goemon64",
@@ -101,7 +157,14 @@
    "match": "goemon\\s*64\\s*recomp",
    "status": "베타",
    "note": "원작 ROM 직접 준비",
-   "sgdb": "Mystical Ninja Starring Goemon"
+   "sgdb": "Mystical Ninja Starring Goemon",
+   "art": {
+    "id": 33703,
+    "name": "Mystical Ninja Starring Goemon (Nintendo 64)",
+    "icon": "https://cdn2.steamgriddb.com/grid/5c2df83eafbe505c6c735097f95d9204.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/058a4a63fccbdb3d0b0ab0e8f7a8951c.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/421740375847b6249d9383615831c23b.png"
+   }
   },
   {
    "id": "cv64",
@@ -112,7 +175,14 @@
    "match": "cv64[\\s_-]*recomp",
    "status": "",
    "note": "원작 ROM 직접 준비",
-   "sgdb": "Castlevania"
+   "sgdb": "Castlevania",
+   "art": {
+    "id": 37583,
+    "name": "Castlevania",
+    "icon": "https://cdn2.steamgriddb.com/grid/6cd8289ca251a7db8841a6ca6459de7c.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/8497c3b1d034ce7aaf059804b5c88db6.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/770c0e7e2af0db73409aa2431aa8f33e.png"
+   }
   },
   {
    "id": "snap64",
@@ -123,7 +193,14 @@
    "match": "snap\\s*64\\s*recomp",
    "status": "플레이 가능",
    "note": "북미판 ROM 직접 준비",
-   "sgdb": "Pokémon Snap"
+   "sgdb": "Pokémon Snap",
+   "art": {
+    "id": 37585,
+    "name": "Pokémon Snap",
+    "icon": "https://cdn2.steamgriddb.com/grid/d6ec02e8e7de5de45e4d2d3c6843b18b.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/4c07fe24771249c343e70c32289c1192.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/2f635a9fe4a4d8d1ec9e3a111cc02f4b.png"
+   }
   },
   {
    "id": "tomba",
@@ -134,7 +211,14 @@
    "match": "tomba\\s*recomp",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Tomba!"
+   "sgdb": "Tomba!",
+   "art": {
+    "id": 34124,
+    "name": "Tomba!",
+    "icon": "https://cdn2.steamgriddb.com/grid/d2266cbbc297cb8f4e96fb08456ac626.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/d37a5f293c9e1666e6b1a4079cdf5774.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/2efeb41a1a7085a1dbd469c4895ac23e.png"
+   }
   },
   {
    "id": "mmx4",
@@ -145,7 +229,14 @@
    "match": "mega\\s*man\\s*x4\\s*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Mega Man X4"
+   "sgdb": "Mega Man X4",
+   "art": {
+    "id": 38080,
+    "name": "Mega Man X4",
+    "icon": "https://cdn2.steamgriddb.com/grid/5bdb766a15786a6daf679d34cdac6602.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/910c8aa6d76100df69a6ea11c2a39ed1.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/b13245211331d16e2a04423665d4b3a8.png"
+   }
   },
   {
    "id": "mmx6",
@@ -156,7 +247,14 @@
    "match": "mega\\s*man\\s*x6\\s*recomp",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Mega Man X6"
+   "sgdb": "Mega Man X6",
+   "art": {
+    "id": 33539,
+    "name": "Mega Man X6",
+    "icon": "https://cdn2.steamgriddb.com/grid/df8ca647ec048efd0cd4d6c6363513a7.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/449813ff3f5a8a8d9fbc3fc03edce90b.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/d9ff4e5efa087c26ac440ffcf4ad83f9.png"
+   }
   },
   {
    "id": "b2",
@@ -167,7 +265,14 @@
    "match": "b2\\s*recomp",
    "status": "초기",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Bayonetta 2"
+   "sgdb": "Bayonetta 2",
+   "art": {
+    "id": 34643,
+    "name": "Bayonetta 2",
+    "icon": "https://cdn2.steamgriddb.com/grid/8f0301704d80a88b83a7cb0440551f6a.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/e6b741b920fcdeed483dcda19d9178ff.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/77f52c94881bfc50ac293ee00abe70e1.png"
+   }
   },
   {
    "id": "downpour",
@@ -198,7 +303,14 @@
    "match": "banjorecomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Banjo-Kazooie"
+   "sgdb": "Banjo-Kazooie",
+   "art": {
+    "id": 35564,
+    "name": "Banjo-Kazooie",
+    "icon": "https://cdn2.steamgriddb.com/grid/a4f931b93061058145e9612769c3139e.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/17326d10d511828f6b34fa6d751739e2.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/ce5193a069bea027a60e06c57a106eb6.png"
+   }
   },
   {
    "id": "banjo-tooie-scurvy-dog-port",
@@ -209,7 +321,14 @@
    "match": "banjo[\\s_-]*tooie[\\s_-]*scurvy[\\s_-]*dog[\\s_-]*port",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Banjo-Tooie"
+   "sgdb": "Banjo-Tooie",
+   "art": {
+    "id": 1988,
+    "name": "Banjo-Tooie",
+    "icon": "https://cdn2.steamgriddb.com/grid/fca67d5cfe0513619a14f066e149099c.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/5c34dc67a4178be566ff98512d6721d5.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/000c076c390a4c357313fca29e390ece.png"
+   }
   },
   {
    "id": "blastcorps-recomp",
@@ -220,7 +339,14 @@
    "match": "blastcorps[\\s_-]*recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Blast Corps"
+   "sgdb": "Blast Corps",
+   "art": {
+    "id": 38239,
+    "name": "Blast Corps",
+    "icon": "https://cdn2.steamgriddb.com/grid/fff2714a6a933c57e478251f31466ac4.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/e14f2c0c9152f1c78681652ff1189f2b.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/b6bf0bd978e378e1d2090c9b74859d43.png"
+   }
   },
   {
    "id": "bm64recomp",
@@ -231,7 +357,14 @@
    "match": "bm64recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Bomberman 64"
+   "sgdb": "Bomberman 64",
+   "art": {
+    "id": 1680,
+    "name": "Bomberman 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/cf63647cedce27a4b34a5501855f6f52.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3a06105cf87a4a0d2b22ca218aca4783.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/afb79a9be5cd9762572a008088d3153e.png"
+   }
   },
   {
    "id": "bmherorecomp",
@@ -242,7 +375,14 @@
    "match": "bmherorecomp",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Bomberman Hero"
+   "sgdb": "Bomberman Hero",
+   "art": {
+    "id": 38377,
+    "name": "Bomberman Hero",
+    "icon": "https://cdn2.steamgriddb.com/grid/eb61d1de6d06c7624acb97262843296e.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/2cc18398df2e6692fffc29a610cb72e3.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/34e420f6e47d96669897a45586997a57.png"
+   }
   },
   {
    "id": "conkerbfdreloaded",
@@ -253,7 +393,14 @@
    "match": "conkerbfdreloaded",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Conker's Bad Fur Day"
+   "sgdb": "Conker's Bad Fur Day",
+   "art": {
+    "id": 36366,
+    "name": "Conker's Bad Fur Day",
+    "icon": "https://cdn2.steamgriddb.com/grid/3d1e2c8e4e54933d739bf0186dac5427.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/1a04f965818a8533f5613003c7db243d.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/ce840aa9583592e71f3db26ee6e41703.png"
+   }
   },
   {
    "id": "donkey-kong-64-recompiled",
@@ -264,7 +411,14 @@
    "match": "donkey[\\s_-]*kong[\\s_-]*64[\\s_-]*recompiled",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Donkey Kong 64"
+   "sgdb": "Donkey Kong 64",
+   "art": {
+    "id": 37695,
+    "name": "Donkey Kong 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/dd2e3866518f6b1498e2a69f2118491b.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/dd6e83b6da55d90f5740e0dd3f3e5a13.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/6933b5648c59d618bbb30986c84080fe.png"
+   }
   },
   {
    "id": "drmario64-recomp-plus",
@@ -275,7 +429,14 @@
    "match": "drmario64[\\s_-]*recomp[\\s_-]*plus",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Dr. Mario 64"
+   "sgdb": "Dr. Mario 64",
+   "art": {
+    "id": 37541,
+    "name": "Dr. Mario 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/fd912a0d80d4bc677d6bbde64658342e.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/3a0d1535e1f1929f76f28f007a57584c.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/6052639706e0beb2fabeaf09d667f9b9.png"
+   }
   },
   {
    "id": "dnzhrecomp",
@@ -286,7 +447,14 @@
    "match": "dnzhrecomp",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Duke Nukem: Zero Hour"
+   "sgdb": "Duke Nukem: Zero Hour",
+   "art": {
+    "id": 33833,
+    "name": "Duke Nukem: Zero Hour",
+    "icon": "https://cdn2.steamgriddb.com/grid/019817c39eff50638b38ed8acfc65986.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/359a6b7d32b10e400dcb805c340dfc73.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/b901ad8e8c03a6f22f40b7de9a5041be.png"
+   }
   },
   {
    "id": "harvestmoon64recomp",
@@ -297,7 +465,14 @@
    "match": "harvestmoon64recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Harvest Moon 64"
+   "sgdb": "Harvest Moon 64",
+   "art": {
+    "id": 35297,
+    "name": "Harvest Moon 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/6cc092afb19ec0e445c145deb1d12be1.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/4a65fd714997aaca6455b8d338cc61c6.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/609a199881ca4ba9c95688235cd6ac5c.png"
+   }
   },
   {
    "id": "mariokart64recomp",
@@ -308,7 +483,14 @@
    "match": "mariokart64recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Mario Kart 64"
+   "sgdb": "Mario Kart 64",
+   "art": {
+    "id": 21164,
+    "name": "Mario Kart 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/e5494d23b18b5c822bcaa9fe8fd077bf.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/abdeb6f575ac5c6676b747bca8d09cc2.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/1755c118e8859eb000eb6eca25369407.png"
+   }
   },
   {
    "id": "mario-party-recomp",
@@ -319,7 +501,14 @@
    "match": "mario[\\s_-]*party[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Mario Party"
+   "sgdb": "Mario Party",
+   "art": {
+    "id": 37972,
+    "name": "Mario Party",
+    "icon": "https://cdn2.steamgriddb.com/grid/199623c6583e76576b861cfdca19da65.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/baa67ffe986af10906830246751f8246.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/03fcd68e5673f08be96d2b6bb5be8261.png"
+   }
   },
   {
    "id": "ogre-battle-64-recomp",
@@ -330,7 +519,14 @@
    "match": "ogre[\\s_-]*battle[\\s_-]*64[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Ogre Battle 64"
+   "sgdb": "Ogre Battle 64",
+   "art": {
+    "id": 38100,
+    "name": "Ogre Battle 64: Person of Lordly Caliber",
+    "icon": "https://cdn2.steamgriddb.com/grid/c15c50b3ae06c46433bab2e593d9a8db.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/57d69b8c4d53a3fdcae582b026285ca9.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/059def4514ca1bc7ff5781ac48428572.png"
+   }
   },
   {
    "id": "birdman64",
@@ -341,7 +537,14 @@
    "match": "",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Pilotwings 64"
+   "sgdb": "Pilotwings 64",
+   "art": {
+    "id": 35115,
+    "name": "Pilotwings 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/b80f3444a28cf2622ea30e0680867222.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/590cb2d85e88de9793e89b7209370c72.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/392526094bcba21af9fd4102ce5ed092.png"
+   }
   },
   {
    "id": "pilotwings-64-recomp",
@@ -352,7 +555,14 @@
    "match": "pilotwings[\\s_-]*64[\\s_-]*recomp",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Pilotwings 64"
+   "sgdb": "Pilotwings 64",
+   "art": {
+    "id": 35115,
+    "name": "Pilotwings 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/b80f3444a28cf2622ea30e0680867222.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/590cb2d85e88de9793e89b7209370c72.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/392526094bcba21af9fd4102ce5ed092.png"
+   }
   },
   {
    "id": "quest64-recomp",
@@ -363,7 +573,14 @@
    "match": "quest64[\\s_-]*recomp",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Quest 64"
+   "sgdb": "Quest 64",
+   "art": {
+    "id": 38121,
+    "name": "Quest 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/66d3d6dcb181e6872ac138e837cba5c6.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/4a1d5168500965ca6f5d3022242bb51d.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/226d79aa40ebcb026431aecf47538f22.png"
+   }
   },
   {
    "id": "roadrash64recompiled",
@@ -374,7 +591,14 @@
    "match": "roadrash64recompiled",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Road Rash 64"
+   "sgdb": "Road Rash 64",
+   "art": {
+    "id": 38158,
+    "name": "Road Rash 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/9eb6460d1c24765d45005f4dde1e5da1.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/b8ba4466c47209f470ae8902069192a6.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/d9c892e2c283d74916880d3190eba780.png"
+   }
   },
   {
    "id": "rush2recompiled",
@@ -385,7 +609,14 @@
    "match": "rush2recompiled",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Rush 2: Extreme Racing USA"
+   "sgdb": "Rush 2: Extreme Racing USA",
+   "art": {
+    "id": 33576,
+    "name": "Rush 2: Extreme Racing USA",
+    "icon": "https://cdn2.steamgriddb.com/grid/f125da05254e061e4f0669fe9708952e.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/f3b3f832928f8dd9dfb647c58b9f66cf.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/b3bf78811f4ad73487e119abc6eeeee3.png"
+   }
   },
   {
    "id": "snprecomp",
@@ -396,7 +627,14 @@
    "match": "snprecomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Sin and Punishment"
+   "sgdb": "Sin and Punishment",
+   "art": {
+    "id": 35136,
+    "name": "Sin and Punishment",
+    "icon": "https://cdn2.steamgriddb.com/grid/0139f78123c3d6aed45a5e33411c763e.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/ab44339603db6b7d0ec51150f43a138d.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/13d2b7361a27dbc9960ae158598a6a96.png"
+   }
   },
   {
    "id": "snowboardkids2-recomp",
@@ -407,7 +645,14 @@
    "match": "snowboardkids2[\\s_-]*recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Snowboard Kids 2"
+   "sgdb": "Snowboard Kids 2",
+   "art": {
+    "id": 1667,
+    "name": "Snowboard Kids 2",
+    "icon": "https://cdn2.steamgriddb.com/grid/6024374ee77992ecabe96de89492bae8.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/4ee0331f55ba0c795f89feffdfdf1e77.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/3bbf7cb52c81e8125532adff3b21a6b4.png"
+   }
   },
   {
    "id": "starfox64recomp",
@@ -418,7 +663,14 @@
    "match": "starfox64recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Star Fox 64"
+   "sgdb": "Star Fox 64",
+   "art": {
+    "id": 36615,
+    "name": "Star Fox 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/49e9f8423edb066bd96c3b4e70b29cde.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/44adaadb095f40b587f4b409ac55799b.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/ad3019b856147c17e82a5bead782d2a8.png"
+   }
   },
   {
    "id": "sote-recomp",
@@ -429,7 +681,14 @@
    "match": "sote[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Star Wars: Shadows of the Empire"
+   "sgdb": "Star Wars: Shadows of the Empire",
+   "art": {
+    "id": 15430,
+    "name": "Star Wars: Shadows of the Empire",
+    "icon": "https://cdn2.steamgriddb.com/grid/9dcf69917f7c5184ab1b674ef4e16879.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/7439aebdba054f0d586d486ef2aff185.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/f072c02ed22738d28a2d25004b7ecabf.png"
+   }
   },
   {
    "id": "wave-race-64-recomp",
@@ -440,7 +699,14 @@
    "match": "wave[\\s_-]*race[\\s_-]*64[\\s_-]*recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Wave Race 64"
+   "sgdb": "Wave Race 64",
+   "art": {
+    "id": 39034,
+    "name": "Wave Race 64",
+    "icon": "https://cdn2.steamgriddb.com/grid/427c739736855e6a017cbb0d316e7de8.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/bbe62ff5da2b206721427d943e8ae991.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/92c3b916311a5517d9290576e3ea37ad.png"
+   }
   },
   {
    "id": "cvlod-recomp",
@@ -451,7 +717,14 @@
    "match": "cvlod[\\s_-]*recomp",
    "status": "초기",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Castlevania: Legacy of Darkness"
+   "sgdb": "Castlevania: Legacy of Darkness",
+   "art": {
+    "id": 12888,
+    "name": "Castlevania: Legacy of Darkness",
+    "icon": "https://cdn2.steamgriddb.com/grid/98205b58f3c9541137734ab5d87daaec.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/e5b8a279cf6f57a64bef77259348e714.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/83d788e65786046542c9354d17b92450.png"
+   }
   },
   {
    "id": "apeescaperecomp",
@@ -462,7 +735,14 @@
    "match": "apeescaperecomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Ape Escape"
+   "sgdb": "Ape Escape",
+   "art": {
+    "id": 36806,
+    "name": "Ape Escape",
+    "icon": "https://cdn2.steamgriddb.com/grid/498726f0ce401dec046932a7bc75c790.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/b19344473680a608f6216314a9df63a2.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/0868dbe2d591f3c1beb2f6dd50bdb72e.png"
+   }
   },
   {
    "id": "medievilrecomp",
@@ -473,7 +753,14 @@
    "match": "medievilrecomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "MediEvil"
+   "sgdb": "MediEvil",
+   "art": {
+    "id": 38204,
+    "name": "MediEvil",
+    "icon": "https://cdn2.steamgriddb.com/grid/95aacba238834b3b2c3d3d2b91476d41.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/430579c489bddb6b10e67206face1d18.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/a188af0bc920853d3673ab71c5f2a440.png"
+   }
   },
   {
    "id": "medievil-recomp",
@@ -484,7 +771,14 @@
    "match": "medievil[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "MediEvil"
+   "sgdb": "MediEvil",
+   "art": {
+    "id": 38204,
+    "name": "MediEvil",
+    "icon": "https://cdn2.steamgriddb.com/grid/95aacba238834b3b2c3d3d2b91476d41.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/430579c489bddb6b10e67206face1d18.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/a188af0bc920853d3673ab71c5f2a440.png"
+   }
   },
   {
    "id": "twistedmetal1234recomp",
@@ -495,7 +789,14 @@
    "match": "twistedmetal1234recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Twisted Metal"
+   "sgdb": "Twisted Metal",
+   "art": {
+    "id": 37393,
+    "name": "Twisted Metal",
+    "icon": "https://cdn2.steamgriddb.com/grid/893fbe2f4bd5a8d14fd4979d77aba474.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/663cbae89ccfbb0ab05119a672fb1b9e.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/8dd27ef9cff2bc385d5ae7ddae409e7f.png"
+   }
   },
   {
    "id": "twistedmetal4recomp",
@@ -506,7 +807,14 @@
    "match": "twistedmetal4recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Twisted Metal 4"
+   "sgdb": "Twisted Metal 4",
+   "art": {
+    "id": 33909,
+    "name": "Twisted Metal 4",
+    "icon": "https://cdn2.steamgriddb.com/grid/ee71146fefbfe0e31502f9dbdb39fa0e.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/0cd6a652ed1f7811192db1f700c8f0e7.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/9915092855e060669372117f22058ef0.png"
+   }
   },
   {
    "id": "rage-racer-pc",
@@ -517,7 +825,14 @@
    "match": "rage[\\s_-]*racer[\\s_-]*pc",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Rage Racer"
+   "sgdb": "Rage Racer",
+   "art": {
+    "id": 5173845,
+    "name": "Rage Racer",
+    "icon": "https://cdn2.steamgriddb.com/grid/38eef06226c200905c7869da1cad1615.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/9efd228f67d1bffa56c0e5f73bdcc18e.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/f335ec1e9525c9796a1fc264625e7a14.png"
+   }
   },
   {
    "id": "vigilante-8-recomp",
@@ -528,7 +843,14 @@
    "match": "vigilante[\\s_-]*8[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Vigilante 8"
+   "sgdb": "Vigilante 8",
+   "art": {
+    "id": 36884,
+    "name": "Vigilante 8",
+    "icon": "https://cdn2.steamgriddb.com/grid/d16cdf2444876b81bbd0b34bf288955c.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/afab3e9707435d6b0888b566d7ad3ff8.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/a4b27a868352d101e2a7317a3da1de9a.png"
+   }
   },
   {
    "id": "yu-gi-oh-forbidden-memories-recompiled",
@@ -539,7 +861,14 @@
    "match": "yu[\\s_-]*gi[\\s_-]*oh[\\s_-]*forbidden[\\s_-]*memories[\\s_-]*recompiled",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Yu-Gi-Oh! Forbidden Memories"
+   "sgdb": "Yu-Gi-Oh! Forbidden Memories",
+   "art": {
+    "id": 35707,
+    "name": "Yu-Gi-Oh! Forbidden Memories",
+    "icon": "https://cdn2.steamgriddb.com/grid/914214030c263b3907749fd2ae051349.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/d45b6d92e35ff59d3f5a1861e431d581.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/0599212ac5b4670c30619bac376c189c.png"
+   }
   },
   {
    "id": "def-jam-vendetta-recomp",
@@ -550,7 +879,14 @@
    "match": "def[\\s_-]*jam[\\s_-]*vendetta[\\s_-]*recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Def Jam: Vendetta"
+   "sgdb": "Def Jam: Vendetta",
+   "art": {
+    "id": 36371,
+    "name": "Def Jam: Vendetta",
+    "icon": "https://cdn2.steamgriddb.com/grid/a76fd4f6f87fce0b5b76f69994827883.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3fd7d338bed9d331284813efc8c1a11f.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/cdcfb1c07205f7057b0a305eb21e72d5.png"
+   }
   },
   {
    "id": "street-recomp-v3",
@@ -561,7 +897,14 @@
    "match": "street[\\s_-]*recomp[\\s_-]*v3",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "NBA Street V3"
+   "sgdb": "NBA Street V3",
+   "art": {
+    "id": 35011,
+    "name": "NBA Street V3",
+    "icon": "https://cdn2.steamgriddb.com/grid/e453f5727f6997393053313e2c6474d9.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/df132656c11853d6118fe9d36eaba5e1.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/5c939751a356d66af37a9e339980c9b7.png"
+   }
   },
   {
    "id": "rampagere",
@@ -572,7 +915,14 @@
    "match": "",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Rampage: Total Destruction"
+   "sgdb": "Rampage: Total Destruction",
+   "art": {
+    "id": 36476,
+    "name": "Rampage: Total Destruction",
+    "icon": "https://cdn2.steamgriddb.com/grid/5ba6dd6b6d6d0436b0b89d8daf603604.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3b09598db9f9231513fff10ba7aae16f.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/80e95d403709b12e758a590b74d9965e.png"
+   }
   },
   {
    "id": "fukami",
@@ -583,7 +933,14 @@
    "match": "",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Ridge Racer V"
+   "sgdb": "Ridge Racer V",
+   "art": {
+    "id": 5259370,
+    "name": "Ridge Racer V",
+    "icon": "https://cdn2.steamgriddb.com/grid/925f09ae685e515fe5525a8fecd97deb.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/92b1f191dfce9fff64b4effd954ccaab.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/868d3e19e2f0bd6c95606283eb384bd2.png"
+   }
   },
   {
    "id": "safehouse",
@@ -594,7 +951,14 @@
    "match": "",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Sly Cooper and the Thievius Raccoonus"
+   "sgdb": "Sly Cooper and the Thievius Raccoonus",
+   "art": {
+    "id": 5248314,
+    "name": "Sly Cooper and the Thievius Raccoonus",
+    "icon": "https://cdn2.steamgriddb.com/grid/0641427e9032aa2968f6d2b0b4fc02a7.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/c7888edd02f2814e2f8053e32e578bae.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/7c5fbb25e971b5c8edcfabefaf3681cf.png"
+   }
   },
   {
    "id": "celosia",
@@ -605,7 +969,14 @@
    "match": "",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Shadow of the Colossus"
+   "sgdb": "Shadow of the Colossus",
+   "art": {
+    "id": 86,
+    "name": "Shadow of the Colossus",
+    "icon": "https://cdn2.steamgriddb.com/grid/84cca5a2efb92259b9340cc54546f99e.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/4c27cea8526af8cfee3be5e183ac9605.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/97adbcd253402895e56cdeceb5f4ca29.png"
+   }
   },
   {
    "id": "timesplitters",
@@ -616,7 +987,14 @@
    "match": "timesplitters",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "TimeSplitters"
+   "sgdb": "TimeSplitters",
+   "art": {
+    "id": 35537,
+    "name": "TimeSplitters",
+    "icon": "https://cdn2.steamgriddb.com/grid/1bbc3e18e43d24fe6485eca794b05e35.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/bf66335975dc320ebc9692558107b536.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/3f9f56ea29f7b4aeed720fad19c360c5.png"
+   }
   },
   {
    "id": "timesplitters-2-native-recomp-windows-linux-steamdeck",
@@ -627,7 +1005,14 @@
    "match": "timesplitters[\\s_-]*2[\\s_-]*native[\\s_-]*recomp[\\s_-]*windows[\\s_-]*linux[\\s_-]*steamdeck",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "TimeSplitters 2"
+   "sgdb": "TimeSplitters 2",
+   "art": {
+    "id": 35369,
+    "name": "TimeSplitters 2",
+    "icon": "https://cdn2.steamgriddb.com/grid/232aa02a81322f480bbc8ae5d07bdc25.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/15cf5f505ec38de721bfc1036ae585aa.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/9f6ec1b826b48ea843d71d30b766a2b0.png"
+   }
   },
   {
    "id": "zoe-recompiled",
@@ -638,7 +1023,14 @@
    "match": "zoe[\\s_-]*recompiled",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Zone of the Enders"
+   "sgdb": "Zone of the Enders",
+   "art": {
+    "id": 36312,
+    "name": "Zone of the Enders",
+    "icon": "https://cdn2.steamgriddb.com/grid/f58debeb5d238781f9168c319366a572.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/2bfe367f6f040df48462a1a9a684ea43.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/2362184faf3bec25af1f7e04eceb6388.png"
+   }
   },
   {
    "id": "shadowrecomp",
@@ -649,7 +1041,14 @@
    "match": "shadowrecomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Shadow the Hedgehog"
+   "sgdb": "Shadow the Hedgehog",
+   "art": {
+    "id": 36636,
+    "name": "Shadow the Hedgehog",
+    "icon": "https://cdn2.steamgriddb.com/grid/2f85e749c993523acbd4823076c98919.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3447ce251398f59b274e0acfe1541df7.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/701a41e8e3ae2362bf739e5768569eb2.png"
+   }
   },
   {
    "id": "finesthourremastered",
@@ -660,7 +1059,14 @@
    "match": "finesthourremastered",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Call of Duty: Finest Hour"
+   "sgdb": "Call of Duty: Finest Hour",
+   "art": {
+    "id": 5252406,
+    "name": "Call of Duty: Finest Hour",
+    "icon": "https://cdn2.steamgriddb.com/grid/6f719398068708598328648f94afd854.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/fee6e6bfe55024e4ae92983d776ecd56.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/ec4e854146d020e2bae1e0d14bf709ad.png"
+   }
   },
   {
    "id": "dead-rising-2-case-zero-xenon-recomp",
@@ -671,7 +1077,14 @@
    "match": "dead[\\s_-]*rising[\\s_-]*2[\\s_-]*case[\\s_-]*zero[\\s_-]*xenon[\\s_-]*recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Dead Rising 2: Case Zero"
+   "sgdb": "Dead Rising 2: Case Zero",
+   "art": {
+    "id": 5310558,
+    "name": "Dead Rising 2: Case Zero",
+    "icon": "https://cdn2.steamgriddb.com/icon/6249cb88dd164f5f8576f26e6ca98df7.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/2871ee1691ab11acaf09b65164f23f59.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/04cde52d074b902ab5020b88d24391df.png"
+   }
   },
   {
    "id": "dead-rising-2-case-west-xenon-recomp",
@@ -682,7 +1095,14 @@
    "match": "dead[\\s_-]*rising[\\s_-]*2[\\s_-]*case[\\s_-]*west[\\s_-]*xenon[\\s_-]*recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Dead Rising 2: Case West"
+   "sgdb": "Dead Rising 2: Case West",
+   "art": {
+    "id": 5326701,
+    "name": "Dead Rising 2: Case West",
+    "icon": "https://cdn2.steamgriddb.com/icon/ff05a3059a8ba6f3c6af44b40233534b.ico",
+    "bg": "https://cdn2.steamgriddb.com/hero/c01bb5a306ff305fccf4e814d8f927d3.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/af756aac925876d8d15666b62e6fdb32.png"
+   }
   },
   {
    "id": "skate3recomp",
@@ -693,7 +1113,14 @@
    "match": "skate3recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Skate 3"
+   "sgdb": "Skate 3",
+   "art": {
+    "id": 5249006,
+    "name": "Skate 3",
+    "icon": "https://cdn2.steamgriddb.com/grid/200c1f6ed0eb22bf43a5a7de97f185ac.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/c255c05246a081654a0267cbb725f5a7.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/a5ae86de28cfea2be65951dbb04567ee.png"
+   }
   },
   {
    "id": "tip-recomp",
@@ -704,7 +1131,14 @@
    "match": "tip[\\s_-]*recomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Viva Piñata: Trouble in Paradise"
+   "sgdb": "Viva Piñata: Trouble in Paradise",
+   "art": {
+    "id": 5262214,
+    "name": "Viva Pinata: Trouble in Paradise",
+    "icon": "https://cdn2.steamgriddb.com/grid/f359e4e6d11273c7eda7ba28001ce159.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/b5e9c7ea20276c57e2e893343186fffd.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/303d0012fd8d7ef9e9f6917dc6e938f0.png"
+   }
   },
   {
    "id": "nocturnerecomp",
@@ -715,7 +1149,14 @@
    "match": "nocturnerecomp",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Castlevania: Symphony of the Night"
+   "sgdb": "Castlevania: Symphony of the Night",
+   "art": {
+    "id": 37654,
+    "name": "Castlevania: Symphony of the Night",
+    "icon": "https://cdn2.steamgriddb.com/grid/5f3c346a6cdde7c2dbdb854613c77cf2.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3b036b877a6a074d7dbfc706fe868c1d.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/e946209592563be0f01c844ab2170f0c.png"
+   }
   },
   {
    "id": "rayman3-hd-recompiled",
@@ -726,7 +1167,14 @@
    "match": "rayman3[\\s_-]*hd[\\s_-]*recompiled",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Rayman 3 HD"
+   "sgdb": "Rayman 3 HD",
+   "art": {
+    "id": 5280315,
+    "name": "Rayman 3 HD",
+    "icon": "https://cdn2.steamgriddb.com/grid/84fc654bee87e17fb261570cf9fff7f2.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/1a7735ce230cb54713ca646f15fd11fa.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/178b515e6825d004ebaf232dd6977ccd.png"
+   }
   },
   {
    "id": "xerenge",
@@ -737,7 +1185,14 @@
    "match": "",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Burnout Revenge"
+   "sgdb": "Burnout Revenge",
+   "art": {
+    "id": 37108,
+    "name": "Burnout Revenge",
+    "icon": "https://cdn2.steamgriddb.com/grid/4bf8ddc0f1998ed4a741ff763e69cfc7.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/6a70a091e469207c3709ce5f014f9f8b.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/e455b820b9478a022f0ef44cf2f56db4.png"
+   }
   },
   {
    "id": "renut",
@@ -748,7 +1203,14 @@
    "match": "",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Banjo-Kazooie: Nuts & Bolts"
+   "sgdb": "Banjo-Kazooie: Nuts & Bolts",
+   "art": {
+    "id": 37213,
+    "name": "Banjo-Kazooie: Nuts & Bolts",
+    "icon": "https://cdn2.steamgriddb.com/grid/1bcd0733d834304d4726e6e9e1bc342e.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/af37a90a983595fef5aeac638e129534.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/c1fb11cad73eaf23ee236ed67e04a36e.png"
+   }
   },
   {
    "id": "reblue",
@@ -759,7 +1221,14 @@
    "match": "",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Blue Dragon"
+   "sgdb": "Blue Dragon",
+   "art": {
+    "id": 5254283,
+    "name": "Blue Dragon",
+    "icon": "https://cdn2.steamgriddb.com/grid/c25c6e1972da668c3413611907321055.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/d111938e811c0ed7c4ee3e749b07b454.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/5e0b4eb9235315aac8130073271a4a23.png"
+   }
   },
   {
    "id": "kameorepowered",
@@ -770,7 +1239,14 @@
    "match": "kameorepowered",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Kameo: Elements of Power"
+   "sgdb": "Kameo: Elements of Power",
+   "art": {
+    "id": 5265763,
+    "name": "Kameo: Elements of Power",
+    "icon": "https://cdn2.steamgriddb.com/grid/4687b8298d476ec4582b52031c371373.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/00b5315b28ab5eb83128664d27849313.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/b111f719755c5775436490c91efaf102.png"
+   }
   },
   {
    "id": "lostodysseyrecomp",
@@ -781,7 +1257,14 @@
    "match": "lostodysseyrecomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Lost Odyssey"
+   "sgdb": "Lost Odyssey",
+   "art": {
+    "id": 36456,
+    "name": "Lost Odyssey",
+    "icon": "https://cdn2.steamgriddb.com/grid/391a27a836e9bb54e5cdea977b181fcc.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/b339bbc54585e3bfa6177a570e03f08f.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/d6f3b91cd2d825cf868db8b60714c477.png"
+   }
   },
   {
    "id": "eternalsonatareprise",
@@ -792,7 +1275,14 @@
    "match": "eternalsonatareprise",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Eternal Sonata"
+   "sgdb": "Eternal Sonata",
+   "art": {
+    "id": 33606,
+    "name": "Eternal Sonata",
+    "icon": "https://cdn2.steamgriddb.com/grid/ff8c46249e595208862a91ed5bb6e372.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3d411ccc7545f3eb4fc6904dd80cf239.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/f38a2f9a98d6e3f7bc09495bf7532120.png"
+   }
   },
   {
    "id": "ac6-recomp",
@@ -803,7 +1293,14 @@
    "match": "ac6[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Ace Combat 6: Fires of Liberation"
+   "sgdb": "Ace Combat 6: Fires of Liberation",
+   "art": {
+    "id": 5258316,
+    "name": "Ace Combat 6: Fires of Liberation",
+    "icon": "https://cdn2.steamgriddb.com/grid/2a30eb4c7af37bef55f45f93c1fd20ce.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/be8085c5809fb8a9151d9f03c30f201b.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/cc3d7fc970bf568a7724296d431785f0.png"
+   }
   },
   {
    "id": "free-riders-recompiled",
@@ -814,7 +1311,14 @@
    "match": "free[\\s_-]*riders[\\s_-]*recompiled",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Sonic Free Riders"
+   "sgdb": "Sonic Free Riders",
+   "art": {
+    "id": 5265291,
+    "name": "Sonic Free Riders",
+    "icon": "https://cdn2.steamgriddb.com/grid/9225fcf7648e0bc72c9fbc499e09938b.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/df1fdab9688c6da1635d03ef4b680474.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/508a37f0ac8738a76c680af8b4c512b4.png"
+   }
   },
   {
    "id": "ng2recomp",
@@ -825,7 +1329,14 @@
    "match": "ng2recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Ninja Gaiden II"
+   "sgdb": "Ninja Gaiden II",
+   "art": {
+    "id": 5253715,
+    "name": "Ninja Gaiden II",
+    "icon": "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/2b763a9f0c775cd353c1bea1c613ef49.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png"
+   }
   },
   {
    "id": "openng2",
@@ -836,7 +1347,14 @@
    "match": "",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Ninja Gaiden II"
+   "sgdb": "Ninja Gaiden II",
+   "art": {
+    "id": 5253715,
+    "name": "Ninja Gaiden II",
+    "icon": "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/2b763a9f0c775cd353c1bea1c613ef49.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png"
+   }
   },
   {
    "id": "izunarecomp",
@@ -847,7 +1365,14 @@
    "match": "izunarecomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Ninja Gaiden II"
+   "sgdb": "Ninja Gaiden II",
+   "art": {
+    "id": 5253715,
+    "name": "Ninja Gaiden II",
+    "icon": "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/2b763a9f0c775cd353c1bea1c613ef49.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png"
+   }
   },
   {
    "id": "pgr4-recomp",
@@ -858,7 +1383,14 @@
    "match": "pgr4[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Project Gotham Racing 4"
+   "sgdb": "Project Gotham Racing 4",
+   "art": {
+    "id": 5253137,
+    "name": "Project Gotham Racing 4",
+    "icon": "https://cdn2.steamgriddb.com/grid/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/0dbb3fb9a5cd1d5f8a9075b5bb8070aa.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/7c6c82bb528ebd24198e2d387d207f80.png"
+   }
   },
   {
    "id": "pgr4-regpu",
@@ -869,7 +1401,14 @@
    "match": "pgr4[\\s_-]*regpu",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Project Gotham Racing 4"
+   "sgdb": "Project Gotham Racing 4",
+   "art": {
+    "id": 5253137,
+    "name": "Project Gotham Racing 4",
+    "icon": "https://cdn2.steamgriddb.com/grid/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/0dbb3fb9a5cd1d5f8a9075b5bb8070aa.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/7c6c82bb528ebd24198e2d387d207f80.png"
+   }
   },
   {
    "id": "mcla-recomp",
@@ -880,7 +1419,14 @@
    "match": "mcla[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Midnight Club: Los Angeles"
+   "sgdb": "Midnight Club: Los Angeles",
+   "art": {
+    "id": 5253393,
+    "name": "Midnight Club: Los Angeles",
+    "icon": "https://cdn2.steamgriddb.com/grid/6fbbe2af9cb6f03648c712cd1cd3338b.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/fed81424fe722056a097c5fb8c1bcac8.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/4e154dfcbc093f28b47a9bc43c091e62.png"
+   }
   },
   {
    "id": "larecomp",
@@ -891,7 +1437,14 @@
    "match": "larecomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Midnight Club: Los Angeles"
+   "sgdb": "Midnight Club: Los Angeles",
+   "art": {
+    "id": 5253393,
+    "name": "Midnight Club: Los Angeles",
+    "icon": "https://cdn2.steamgriddb.com/grid/6fbbe2af9cb6f03648c712cd1cd3338b.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/fed81424fe722056a097c5fb8c1bcac8.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/4e154dfcbc093f28b47a9bc43c091e62.png"
+   }
   },
   {
    "id": "strikers",
@@ -902,7 +1455,14 @@
    "match": "",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Super Mario Strikers"
+   "sgdb": "Super Mario Strikers",
+   "art": {
+    "id": 37586,
+    "name": "Super Mario Strikers",
+    "icon": "https://cdn2.steamgriddb.com/grid/def28729fb032356f89414f225004a6e.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/ada822e604972569cda7a8cddc045c0d.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/a1140a3d0df1c81e24ae954d935e8926.png"
+   }
   },
   {
    "id": "eternaldarknessrecomp",
@@ -913,7 +1473,14 @@
    "match": "eternaldarknessrecomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Eternal Darkness: Sanity's Requiem"
+   "sgdb": "Eternal Darkness: Sanity's Requiem",
+   "art": {
+    "id": 17,
+    "name": "Eternal Darkness: Sanity's Requiem",
+    "icon": "https://cdn2.steamgriddb.com/grid/dce5eb1f56dd8dd4e1b9a1e22c0e1be0.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/be767243ca8f574c740fb4c26cc6dceb.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/d03a857a23b5285736c4d55e0bb067c8.png"
+   }
   },
   {
    "id": "sms-pc-port",
@@ -924,7 +1491,14 @@
    "match": "sms[\\s_-]*pc[\\s_-]*port",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Super Mario Sunshine"
+   "sgdb": "Super Mario Sunshine",
+   "art": {
+    "id": 34899,
+    "name": "Super Mario Sunshine",
+    "icon": "https://cdn2.steamgriddb.com/grid/57163833043dc410f02c3d7049c05355.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/3e04f019562baeb10f41e7b9fb14c6be.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/b33128cb0089003ddfb5199e1b679652.png"
+   }
   },
   {
    "id": "sunpad",
@@ -935,7 +1509,14 @@
    "match": "",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Super Mario Sunshine"
+   "sgdb": "Super Mario Sunshine",
+   "art": {
+    "id": 34899,
+    "name": "Super Mario Sunshine",
+    "icon": "https://cdn2.steamgriddb.com/grid/57163833043dc410f02c3d7049c05355.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/3e04f019562baeb10f41e7b9fb14c6be.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/b33128cb0089003ddfb5199e1b679652.png"
+   }
   },
   {
    "id": "melee-pc",
@@ -946,7 +1527,14 @@
    "match": "",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Super Smash Bros. Melee"
+   "sgdb": "Super Smash Bros. Melee",
+   "art": {
+    "id": 37285,
+    "name": "Super Smash Bros. Melee",
+    "icon": "https://cdn2.steamgriddb.com/grid/93cf926bddbd6a2c7c7f10cbecff1faf.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/d1a2a78180205c620020b4a4629607b2.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/20f817b9520d57dd7b9f725537816cbb.png"
+   }
   },
   {
    "id": "nsmb-wii-multiplayer-recompilation",
@@ -957,7 +1545,14 @@
    "match": "nsmb[\\s_-]*wii[\\s_-]*multiplayer[\\s_-]*recompilation",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "New Super Mario Bros. Wii"
+   "sgdb": "New Super Mario Bros. Wii",
+   "art": {
+    "id": 37961,
+    "name": "New Super Mario Bros. Wii",
+    "icon": "https://cdn2.steamgriddb.com/grid/fef30dc904979d70213ed4c220efbd77.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/231141b34c82aa95e48810a9d1b33a79.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/0094eb7d9dc080e6fe137bbc8bbbbc74.png"
+   }
   },
   {
    "id": "newsuperpaperbros",
@@ -968,7 +1563,14 @@
    "match": "newsuperpaperbros",
    "status": "플레이 가능",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Super Paper Mario"
+   "sgdb": "Super Paper Mario",
+   "art": {
+    "id": 38613,
+    "name": "Super Paper Mario",
+    "icon": "https://cdn2.steamgriddb.com/grid/9b30ef7cdb29abddddf52e6647f05c78.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/dd3e603fa01e796f96a0e6916082d00b.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/5f15805708a114ef82febede1e7419ac.png"
+   }
   },
   {
    "id": "zeldawwhdrecomp",
@@ -979,7 +1581,14 @@
    "match": "zeldawwhdrecomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "The Legend of Zelda: The Wind Waker HD"
+   "sgdb": "The Legend of Zelda: The Wind Waker HD",
+   "art": {
+    "id": 35048,
+    "name": "The Legend of Zelda: The Wind Waker HD",
+    "icon": "https://cdn2.steamgriddb.com/grid/c784c9b23047df7514ce00144b624932.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/f3a3a63a79eb1831b0a2776bfd20d838.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/f37c4630c796617ace93e19c350c321e.png"
+   }
   },
   {
    "id": "metroid-dread-recomp",
@@ -990,7 +1599,14 @@
    "match": "metroid[\\s_-]*dread[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Metroid Dread"
+   "sgdb": "Metroid Dread",
+   "art": {
+    "id": 5257930,
+    "name": "Metroid Dread",
+    "icon": "https://cdn2.steamgriddb.com/grid/5cab5f84e939ed4cef063af9c69ed5fc.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/aa5d5b1b36318c95dffe1d6c4e153f2d.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/feb78ee29377237a3bfa93e3b61c1655.png"
+   }
   },
   {
    "id": "mp4-recomp",
@@ -1001,7 +1617,14 @@
    "match": "mp4[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Metroid Prime 4: Beyond"
+   "sgdb": "Metroid Prime 4: Beyond",
+   "art": {
+    "id": 5374202,
+    "name": "Metroid Prime 4: Beyond",
+    "icon": "https://cdn2.steamgriddb.com/grid/0912daaf48a95ffe554c3fc6b8ee1eeb.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/cbf4fcaa1ff6715bc78e0b76043d35e7.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/5a226c0a768ad5ff4a1f9c169c6cb3bb.png"
+   }
   },
   {
    "id": "letsgo-recomp",
@@ -1012,7 +1635,14 @@
    "match": "letsgo[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Pokémon: Let's Go, Pikachu!"
+   "sgdb": "Pokémon: Let's Go, Pikachu!",
+   "art": {
+    "id": 5246182,
+    "name": "Pokémon: Let's Go, Pikachu!",
+    "icon": "https://cdn2.steamgriddb.com/grid/267a5b12ffd722132f20df799085eddf.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/ab7a710458b8378b523e39143a6764d6.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/b37242925ffe0da400d9b98c254b9fcd.png"
+   }
   },
   {
    "id": "recompia",
@@ -1023,7 +1653,14 @@
    "match": "recompia",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Pokémon Pokopia"
+   "sgdb": "Pokémon Pokopia",
+   "art": {
+    "id": 5503567,
+    "name": "Pokémon Pokopia",
+    "icon": "https://cdn2.steamgriddb.com/grid/fb21a44e72c537ccbba78f318fb1a86e.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/4451fa5f04be94bb9bf84086319bada0.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/b2169bea68921bc0f0bfa9a964494a6b.png"
+   }
   },
   {
    "id": "super-odyssey-pc-recomp",
@@ -1034,7 +1671,14 @@
    "match": "super[\\s_-]*odyssey[\\s_-]*pc[\\s_-]*recomp",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Super Mario Odyssey"
+   "sgdb": "Super Mario Odyssey",
+   "art": {
+    "id": 5245268,
+    "name": "Super Mario Odyssey",
+    "icon": "https://cdn2.steamgriddb.com/grid/c3fb3726b0ddc215dbd5e7f611eedfc3.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/c4f3d709fb9f0df27c833911dac733eb.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/9baf82afda5f7d560678a1cc313189ba.png"
+   }
   },
   {
    "id": "smo-recomp",
@@ -1045,7 +1689,14 @@
    "match": "smo[\\s_-]*recomp",
    "status": "초기",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Super Mario Odyssey"
+   "sgdb": "Super Mario Odyssey",
+   "art": {
+    "id": 5245268,
+    "name": "Super Mario Odyssey",
+    "icon": "https://cdn2.steamgriddb.com/grid/c3fb3726b0ddc215dbd5e7f611eedfc3.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/c4f3d709fb9f0df27c833911dac733eb.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/9baf82afda5f7d560678a1cc313189ba.png"
+   }
   },
   {
    "id": "xc2-recomp",
@@ -1056,7 +1707,14 @@
    "match": "xc2[\\s_-]*recomp",
    "status": "초기",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Xenoblade Chronicles 2"
+   "sgdb": "Xenoblade Chronicles 2",
+   "art": {
+    "id": 5248288,
+    "name": "Xenoblade Chronicles 2",
+    "icon": "https://cdn2.steamgriddb.com/grid/a542f1320e872babf3b50aecdabbadae.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/0baa10f95ef302bf877f1f11e8ffef58.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/8ccf849734993abe369360d16d262328.png"
+   }
   },
   {
    "id": "xcx-recomp",
@@ -1067,7 +1725,14 @@
    "match": "xcx[\\s_-]*recomp",
    "status": "초기",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "Xenoblade Chronicles X: Definitive Edition"
+   "sgdb": "Xenoblade Chronicles X: Definitive Edition",
+   "art": {
+    "id": 5482273,
+    "name": "Xenoblade Chronicles X: Definitive Edition",
+    "icon": "https://cdn2.steamgriddb.com/grid/04df874cff3f2785294af2c5eeacc341.png",
+    "bg": "https://cdn2.steamgriddb.com/hero/5ec4db6c6a3e8cb9a5fb34c44a09d751.png",
+    "logo": "https://cdn2.steamgriddb.com/logo/01e734c3c316a4d25b360090625068dc.png"
+   }
   },
   {
    "id": "longshot",
@@ -1079,7 +1744,14 @@
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비 · Longshot Launcher로 빌드·업데이트 · Hookshot 포크",
    "sgdb": "The Legend of Zelda: Ocarina of Time",
-   "sgdbYear": 2026
+   "sgdbYear": 2026,
+   "art": {
+    "id": 5532594,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+   }
   },
   {
    "id": "heylisten",
@@ -1091,7 +1763,14 @@
    "status": "",
    "note": "원작 게임 데이터 직접 준비 · HeyListenBuilder로 빌드 · Hookshot 성능 개선 포크",
    "sgdb": "The Legend of Zelda: Ocarina of Time",
-   "sgdbYear": 2026
+   "sgdbYear": 2026,
+   "art": {
+    "id": 5532594,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+   }
   },
   {
    "id": "relink",
@@ -1103,7 +1782,14 @@
    "status": "",
    "note": "원작 게임 데이터 직접 준비 · ReLink-Setup으로 설치",
    "sgdb": "The Legend of Zelda: Ocarina of Time",
-   "sgdbYear": 2026
+   "sgdbYear": 2026,
+   "art": {
+    "id": 5532594,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+   }
   },
   {
    "id": "nx2navi",
@@ -1115,7 +1801,14 @@
    "status": "",
    "note": "원작 게임 데이터(1.1.1) 직접 준비",
    "sgdb": "The Legend of Zelda: Ocarina of Time",
-   "sgdbYear": 2026
+   "sgdbYear": 2026,
+   "art": {
+    "id": 5532594,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+   }
   },
   {
    "id": "rekarina",
@@ -1135,7 +1828,14 @@
     "download": "https://rekarina.dev/download"
    },
    "sgdb": "The Legend of Zelda: Ocarina of Time",
-   "sgdbYear": 2026
+   "sgdbYear": 2026,
+   "art": {
+    "id": 5532594,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+   }
   },
   {
    "id": "triforce",
@@ -1147,7 +1847,14 @@
    "status": "",
    "note": "웹사이트만 확인됨(저장소·다운로드 주소 미공개) · 버전 자동 확인 없음",
    "sgdb": "The Legend of Zelda: Ocarina of Time",
-   "sgdbYear": 2026
+   "sgdbYear": 2026,
+   "art": {
+    "id": 5532594,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+   }
   },
   {
    "id": "ocpcnative",
@@ -1159,7 +1866,14 @@
    "status": "초기",
    "note": "플레이 가능한 릴리스 없음(개발 중)",
    "sgdb": "The Legend of Zelda: Ocarina of Time",
-   "sgdbYear": 2026
+   "sgdbYear": 2026,
+   "art": {
+    "id": 5532594,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+    "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+   }
   }
  ]
 }
