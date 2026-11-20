@@ -2331,7 +2331,11 @@
     "logo": "https://cdn2.steamgriddb.com/logo/5c939751a356d66af37a9e339980c9b7.png",
     "icons": [
      "https://cdn2.steamgriddb.com/grid/e453f5727f6997393053313e2c6474d9.png",
-     "https://cdn2.steamgriddb.com/grid/18e96374e63bb61459e97eccc12995a3.png"
+     "https://cdn2.steamgriddb.com/grid/18e96374e63bb61459e97eccc12995a3.png",
+     "https://cdn2.steamgriddb.com/icon/e3e070840f86ee3f6273e64349500a7b.png",
+     "https://cdn2.steamgriddb.com/icon/b7da6c184018c1c085e1e025ba678014.png",
+     "https://cdn2.steamgriddb.com/icon/6e28943943dbed3c7f82fc05f269947a.png",
+     "https://cdn2.steamgriddb.com/icon/566f0ea4f6c2e947f36795c8f58ba901.png"
     ],
     "bgs": [
      "https://cdn2.steamgriddb.com/hero/df132656c11853d6118fe9d36eaba5e1.png"
