@@ -1,7 +1,7 @@
 {
  "v": 1,
- "updated": "2026-11-20a",
- "about": "라이브러리 목록. name=프로젝트 이름, orig=원작(같은 원작끼리 묶여 GitHub 별 많은 순으로 정렬), platform=원작 기종, repo=저장소(GitHub '소유자/저장소' 또는 다른 호스트 주소), match=실행 파일 경로 감지 규칙(정규식, 대소문자 무시), status=개발 단계(플레이 가능/베타/초기), note=필요한 것, cover=대표 이미지 주소(선택, 비우면 저장소의 소셜 미리보기 이미지). web=저장소 없이 웹사이트로만 배포할 때 버전을 읽는 규칙(url: 읽을 페이지, re: 정규식 목록·첫 괄호가 버전·가장 높은 버전 사용, download: 받는 곳). repo에는 사이트 주소(https://호스트)를 넣음. 모르는 칸은 비워 둠. 출처: portedgames.com·readonlymemo.com 공개 목록(2026-11) sgdb=SteamGridDB에서 원작 그림(박스아트·배경·로고)을 찾을 영어 제목(또는 숫자 게임 ID).",
+ "updated": "2026-11-20b",
+ "about": "라이브러리 목록. name=프로젝트 이름, orig=원작(같은 원작끼리 묶여 GitHub 별 많은 순으로 정렬), platform=원작 기종, repo=저장소(GitHub '소유자/저장소' 또는 다른 호스트 주소), match=실행 파일 경로 감지 규칙(정규식, 대소문자 무시), status=개발 단계(플레이 가능/베타/초기), note=필요한 것, cover=대표 이미지 주소(선택, 비우면 저장소의 소셜 미리보기 이미지). web=저장소 없이 웹사이트로만 배포할 때 버전을 읽는 규칙(url: 읽을 페이지, re: 정규식 목록·첫 괄호가 버전·가장 높은 버전 사용, download: 받는 곳). repo에는 사이트 주소(https://호스트)를 넣음. 모르는 칸은 비워 둠. 출처: portedgames.com·readonlymemo.com 공개 목록(2026-11) sgdb=SteamGridDB에서 원작 그림(박스아트·배경·로고)을 찾을 영어 제목(또는 숫자 게임 ID). sgdbYear=같은 제목이 여러 개일 때 고를 출시 연도(예: 시간의 오카리나 리메이크 2026), sgdbId=SteamGridDB 게임 ID로 직접 지정. art=빌드 때 넣는 원작 그림 주소(손대지 않음).",
  "games": [
   {
    "id": "savagewind",
@@ -34,7 +34,8 @@
    "match": "hookshot",
    "status": "",
    "note": "원작 게임 데이터 직접 준비",
-   "sgdb": "The Legend of Zelda: Ocarina of Time"
+   "sgdb": "The Legend of Zelda: Ocarina of Time",
+   "sgdbYear": 2026
   },
   {
    "id": "totkpc",
@@ -1077,7 +1078,8 @@
    "match": "longshot",
    "status": "베타",
    "note": "원작 게임 데이터 직접 준비 · Longshot Launcher로 빌드·업데이트 · Hookshot 포크",
-   "sgdb": "The Legend of Zelda: Ocarina of Time"
+   "sgdb": "The Legend of Zelda: Ocarina of Time",
+   "sgdbYear": 2026
   },
   {
    "id": "heylisten",
@@ -1088,7 +1090,8 @@
    "match": "hey[\\s_-]*listen",
    "status": "",
    "note": "원작 게임 데이터 직접 준비 · HeyListenBuilder로 빌드 · Hookshot 성능 개선 포크",
-   "sgdb": "The Legend of Zelda: Ocarina of Time"
+   "sgdb": "The Legend of Zelda: Ocarina of Time",
+   "sgdbYear": 2026
   },
   {
    "id": "relink",
@@ -1099,7 +1102,8 @@
    "match": "project[\\s_-]*re[\\s_-]*link|(^|\\s)relink(-setup)?\\.exe$",
    "status": "",
    "note": "원작 게임 데이터 직접 준비 · ReLink-Setup으로 설치",
-   "sgdb": "The Legend of Zelda: Ocarina of Time"
+   "sgdb": "The Legend of Zelda: Ocarina of Time",
+   "sgdbYear": 2026
   },
   {
    "id": "nx2navi",
@@ -1110,7 +1114,8 @@
    "match": "nx2navi",
    "status": "",
    "note": "원작 게임 데이터(1.1.1) 직접 준비",
-   "sgdb": "The Legend of Zelda: Ocarina of Time"
+   "sgdb": "The Legend of Zelda: Ocarina of Time",
+   "sgdbYear": 2026
   },
   {
    "id": "rekarina",
@@ -1129,7 +1134,8 @@
     ],
     "download": "https://rekarina.dev/download"
    },
-   "sgdb": "The Legend of Zelda: Ocarina of Time"
+   "sgdb": "The Legend of Zelda: Ocarina of Time",
+   "sgdbYear": 2026
   },
   {
    "id": "triforce",
@@ -1140,7 +1146,8 @@
    "match": "triforce[\\s_-]*project|(^|\\s)triforce(setup)?\\.exe$",
    "status": "",
    "note": "웹사이트만 확인됨(저장소·다운로드 주소 미공개) · 버전 자동 확인 없음",
-   "sgdb": "The Legend of Zelda: Ocarina of Time"
+   "sgdb": "The Legend of Zelda: Ocarina of Time",
+   "sgdbYear": 2026
   },
   {
    "id": "ocpcnative",
@@ -1151,7 +1158,8 @@
    "match": "ocarina[\\s_-]*pc[\\s_-]*native",
    "status": "초기",
    "note": "플레이 가능한 릴리스 없음(개발 중)",
-   "sgdb": "The Legend of Zelda: Ocarina of Time"
+   "sgdb": "The Legend of Zelda: Ocarina of Time",
+   "sgdbYear": 2026
   }
  ]
 }
