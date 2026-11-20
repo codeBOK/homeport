@@ -18,7 +18,31 @@
     "name": "The Legend of Zelda: Breath of the Wild",
     "icon": "https://cdn2.steamgriddb.com/grid/02504d5e5b523176e8f1851cf9b55bc1.png",
     "bg": "https://cdn2.steamgriddb.com/hero/71d1c0c06e1ab5049644acb5cc69a090.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/24df88ee05eb50db7d1d083a37f49b0b.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/24df88ee05eb50db7d1d083a37f49b0b.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/02504d5e5b523176e8f1851cf9b55bc1.png",
+     "https://cdn2.steamgriddb.com/grid/cf85ef389ec4844abd4ca660d466ade8.png",
+     "https://cdn2.steamgriddb.com/grid/839b40acaddaca6f72e841baec4aec67.png",
+     "https://cdn2.steamgriddb.com/grid/829525ebc1447dee344d33c3dda2aa3b.png",
+     "https://cdn2.steamgriddb.com/grid/8134722f4618d854d1c1e4c6f7f926e3.jpg",
+     "https://cdn2.steamgriddb.com/grid/b5661c9e07dc6359eafe5f77f1c95b3c.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/71d1c0c06e1ab5049644acb5cc69a090.png",
+     "https://cdn2.steamgriddb.com/hero/3463afdcb438dc833d95f8d1814e4b36.png",
+     "https://cdn2.steamgriddb.com/hero/e089b3b5750148e7f7fcc282635fb2d4.png",
+     "https://cdn2.steamgriddb.com/hero/253103347b0d4d622443c8e47c8a8152.png",
+     "https://cdn2.steamgriddb.com/hero/ea1bd5bceddc3fe7c6f9723e81a6345f.png",
+     "https://cdn2.steamgriddb.com/hero/1b290a261e08f3ffc55fa327c60f8953.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/24df88ee05eb50db7d1d083a37f49b0b.png",
+     "https://cdn2.steamgriddb.com/logo/0e0f87ea9efc2a148bec1eae7e7e9265.png",
+     "https://cdn2.steamgriddb.com/logo/f29b9e7e01bf75d0402e969b50992d30.png",
+     "https://cdn2.steamgriddb.com/logo/d67297828dd86c081525a7427b1904a9.png",
+     "https://cdn2.steamgriddb.com/logo/2ff959f710090e867c57546afd4c91c2.png",
+     "https://cdn2.steamgriddb.com/logo/0308c95fe00bbe70c4c2de400d9a180d.png"
+    ]
    }
   },
   {
@@ -36,7 +60,31 @@
     "name": "The Legend of Zelda: Majora's Mask",
     "icon": "https://cdn2.steamgriddb.com/grid/2b6ec430b129d51648254199756b2ca3.png",
     "bg": "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/fe8c15fed5f808006ce95eddb7366e35.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/fe8c15fed5f808006ce95eddb7366e35.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/2b6ec430b129d51648254199756b2ca3.png",
+     "https://cdn2.steamgriddb.com/grid/2e95cf67c0bc0e02e053f0c76d6633ee.png",
+     "https://cdn2.steamgriddb.com/grid/ea950bbd8550e65a1e8fbf4ee210ad73.jpg",
+     "https://cdn2.steamgriddb.com/grid/6c1126f55d5410a472b7a82d623c463d.jpg",
+     "https://cdn2.steamgriddb.com/grid/cb9460f06af02fc5cd82927cf717b546.png",
+     "https://cdn2.steamgriddb.com/grid/3fac785df966282c5fc1e45cc9e8d952.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
+     "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
+     "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
+     "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png",
+     "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
+     "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/fe8c15fed5f808006ce95eddb7366e35.png",
+     "https://cdn2.steamgriddb.com/logo/b391dcdae8abf23933275c40b38102de.png",
+     "https://cdn2.steamgriddb.com/logo/076023edc9187cf1ac1f1163470e479a.png",
+     "https://cdn2.steamgriddb.com/logo/c243f76e036cb859903c4b29581f0572.png",
+     "https://cdn2.steamgriddb.com/logo/cfd3daca5a47693a232babc7d7dbb539.png",
+     "https://cdn2.steamgriddb.com/logo/1ce3de1fa19d09232ae36f8d8a8534ed.png"
+    ]
    }
   },
   {
@@ -55,7 +103,31 @@
     "name": "The Legend of Zelda: Ocarina of Time",
     "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+     "https://cdn2.steamgriddb.com/grid/015c723c08d6a18dace28511389ae8ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/a35042f06ced21ea32707894c9469b4c.png",
+     "https://cdn2.steamgriddb.com/grid/23049c7f95172d4ff35f659d4cd0beb3.png",
+     "https://cdn2.steamgriddb.com/grid/9ff04ae82ef6f710c5955c478a69bec1.png",
+     "https://cdn2.steamgriddb.com/grid/edc91a64d29e7799e2e9499fca902bb9.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+     "https://cdn2.steamgriddb.com/hero/e1557e72fd5a8da1b41dff46f228cf28.png",
+     "https://cdn2.steamgriddb.com/hero/eb11b24c94896528ce273c400871db70.jpg",
+     "https://cdn2.steamgriddb.com/hero/f73e8ce225cd2f7a04b3d9c8343e5cf6.jpg",
+     "https://cdn2.steamgriddb.com/hero/60bf55799d38c1e4f24796b9633fe6db.png",
+     "https://cdn2.steamgriddb.com/hero/747dc04bd53f1fa98755eaca2b6e6346.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+     "https://cdn2.steamgriddb.com/logo/457b8ab6e22b010780b02fab2d09eaef.png",
+     "https://cdn2.steamgriddb.com/logo/9b365fc974033bf672cdec24386948e3.png",
+     "https://cdn2.steamgriddb.com/logo/d82a75fcfc7578ccf50aad082c2ee9cb.png",
+     "https://cdn2.steamgriddb.com/logo/a307fe6bfbd0ef11c03bbc593e617702.png",
+     "https://cdn2.steamgriddb.com/logo/98e82dc2279b1e5fee310c8adefe5bc7.png"
+    ]
    }
   },
   {
@@ -73,7 +145,31 @@
     "name": "The Legend of Zelda: Tears of the Kingdom",
     "icon": "https://cdn2.steamgriddb.com/grid/72654158f52bf25f9a8101f78aceaa2f.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/72654158f52bf25f9a8101f78aceaa2f.jpg",
+     "https://cdn2.steamgriddb.com/grid/f1ae16b005517a574e5e359ac3b6fd8a.png",
+     "https://cdn2.steamgriddb.com/grid/9d1f922bbccc5c5a49b145fd1ea2b991.png",
+     "https://cdn2.steamgriddb.com/grid/916bcaa4ced3100e588e1ec32140d2bd.png",
+     "https://cdn2.steamgriddb.com/grid/5bf645707e66e44444617405ce2a7a11.jpg",
+     "https://cdn2.steamgriddb.com/grid/8a5650311a749b7fffee6c106992ed81.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+     "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
+     "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
+     "https://cdn2.steamgriddb.com/hero/3ae5ba3e64e635a305fa740a62954d75.png",
+     "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
+     "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png",
+     "https://cdn2.steamgriddb.com/logo/40c07536870447fe59615aced8e2270c.png",
+     "https://cdn2.steamgriddb.com/logo/74349b40e9dd00da7d5770fea1c6f163.png",
+     "https://cdn2.steamgriddb.com/logo/6a7879a1fbe35be8811f6a936f50db4e.png",
+     "https://cdn2.steamgriddb.com/logo/46c6513cbac47017472634e3916423f7.png",
+     "https://cdn2.steamgriddb.com/logo/8ebcd7af520c5bf0ddb650e2e5b5d24a.png"
+    ]
    }
   },
   {
@@ -91,7 +187,31 @@
     "name": "The Legend of Zelda: Tears of the Kingdom",
     "icon": "https://cdn2.steamgriddb.com/grid/72654158f52bf25f9a8101f78aceaa2f.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/72654158f52bf25f9a8101f78aceaa2f.jpg",
+     "https://cdn2.steamgriddb.com/grid/f1ae16b005517a574e5e359ac3b6fd8a.png",
+     "https://cdn2.steamgriddb.com/grid/9d1f922bbccc5c5a49b145fd1ea2b991.png",
+     "https://cdn2.steamgriddb.com/grid/916bcaa4ced3100e588e1ec32140d2bd.png",
+     "https://cdn2.steamgriddb.com/grid/5bf645707e66e44444617405ce2a7a11.jpg",
+     "https://cdn2.steamgriddb.com/grid/8a5650311a749b7fffee6c106992ed81.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+     "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
+     "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
+     "https://cdn2.steamgriddb.com/hero/3ae5ba3e64e635a305fa740a62954d75.png",
+     "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
+     "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png",
+     "https://cdn2.steamgriddb.com/logo/40c07536870447fe59615aced8e2270c.png",
+     "https://cdn2.steamgriddb.com/logo/74349b40e9dd00da7d5770fea1c6f163.png",
+     "https://cdn2.steamgriddb.com/logo/6a7879a1fbe35be8811f6a936f50db4e.png",
+     "https://cdn2.steamgriddb.com/logo/46c6513cbac47017472634e3916423f7.png",
+     "https://cdn2.steamgriddb.com/logo/8ebcd7af520c5bf0ddb650e2e5b5d24a.png"
+    ]
    }
   },
   {
@@ -109,7 +229,31 @@
     "name": "The Legend of Zelda: Tears of the Kingdom",
     "icon": "https://cdn2.steamgriddb.com/grid/72654158f52bf25f9a8101f78aceaa2f.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/72654158f52bf25f9a8101f78aceaa2f.jpg",
+     "https://cdn2.steamgriddb.com/grid/f1ae16b005517a574e5e359ac3b6fd8a.png",
+     "https://cdn2.steamgriddb.com/grid/9d1f922bbccc5c5a49b145fd1ea2b991.png",
+     "https://cdn2.steamgriddb.com/grid/916bcaa4ced3100e588e1ec32140d2bd.png",
+     "https://cdn2.steamgriddb.com/grid/5bf645707e66e44444617405ce2a7a11.jpg",
+     "https://cdn2.steamgriddb.com/grid/8a5650311a749b7fffee6c106992ed81.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+     "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
+     "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
+     "https://cdn2.steamgriddb.com/hero/3ae5ba3e64e635a305fa740a62954d75.png",
+     "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
+     "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/19e524e7aa887f6311e8b6ae061bf5d7.png",
+     "https://cdn2.steamgriddb.com/logo/40c07536870447fe59615aced8e2270c.png",
+     "https://cdn2.steamgriddb.com/logo/74349b40e9dd00da7d5770fea1c6f163.png",
+     "https://cdn2.steamgriddb.com/logo/6a7879a1fbe35be8811f6a936f50db4e.png",
+     "https://cdn2.steamgriddb.com/logo/46c6513cbac47017472634e3916423f7.png",
+     "https://cdn2.steamgriddb.com/logo/8ebcd7af520c5bf0ddb650e2e5b5d24a.png"
+    ]
    }
   },
   {
@@ -127,7 +271,31 @@
     "name": "Sonic Unleashed",
     "icon": "https://cdn2.steamgriddb.com/grid/11015ee7c6d6ecc29b72ac382fded621.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/2fc1df7ac6e00ffac3509b070b117ddc.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/ce3b5506fc4151c97d646dc6fce8b1f5.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/ce3b5506fc4151c97d646dc6fce8b1f5.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/11015ee7c6d6ecc29b72ac382fded621.jpg",
+     "https://cdn2.steamgriddb.com/grid/8c395e828615ebd331780bd851b2c82e.png",
+     "https://cdn2.steamgriddb.com/grid/bc18f89cd8f4ce102ab288e9b9bcbf1c.jpg",
+     "https://cdn2.steamgriddb.com/grid/25c2624c31720b30f7ace75fad77948c.png",
+     "https://cdn2.steamgriddb.com/grid/bff4041ebc3008ecb3e83417a9bd2821.png",
+     "https://cdn2.steamgriddb.com/grid/2ccf7e7a6ee623e65403ee46473dffa8.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/2fc1df7ac6e00ffac3509b070b117ddc.png",
+     "https://cdn2.steamgriddb.com/hero/99bfc8be8c7b90ab90aae29dca58fbe6.png",
+     "https://cdn2.steamgriddb.com/hero/fbb5d2cf4558b47551ad4a26ce3f11a0.png",
+     "https://cdn2.steamgriddb.com/hero/c7ca2560d00603640b9d448885cefaf7.png",
+     "https://cdn2.steamgriddb.com/hero/29458eca2dfee3886ffebf7003111e62.jpg",
+     "https://cdn2.steamgriddb.com/hero/de4126c76f3eb0581535c6900635bc17.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/ce3b5506fc4151c97d646dc6fce8b1f5.png",
+     "https://cdn2.steamgriddb.com/logo/995f5e03890b029865f402e83a81c29d.png",
+     "https://cdn2.steamgriddb.com/logo/022fbafc2387faef4cbaff6074ccb31c.png",
+     "https://cdn2.steamgriddb.com/logo/8a27c2ddc3d3fe74aa037f4b7d262e34.png",
+     "https://cdn2.steamgriddb.com/logo/326a0c6ef56a9d097696486b8e2a3690.png",
+     "https://cdn2.steamgriddb.com/logo/dbc52e4cacdf6537676c04fbcfca8941.png"
+    ]
    }
   },
   {
@@ -145,7 +313,27 @@
     "name": "Dinosaur Planet",
     "icon": "https://cdn2.steamgriddb.com/grid/b4b3437e19503646e635713c055b537c.png",
     "bg": "https://cdn2.steamgriddb.com/hero/417cce83a9373223e4aae3b833114354.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/bb4acfc3f18743bfd00e09c18b65e474.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/bb4acfc3f18743bfd00e09c18b65e474.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/b4b3437e19503646e635713c055b537c.png",
+     "https://cdn2.steamgriddb.com/icon/1134604ead16f77309235aa3d327bb59.png",
+     "https://cdn2.steamgriddb.com/icon/f69ab7c12f21818d6d3ddb18cabf873b.ico",
+     "https://cdn2.steamgriddb.com/icon/368afd895ea0487a5a2691fe08a05513.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/417cce83a9373223e4aae3b833114354.jpg",
+     "https://cdn2.steamgriddb.com/hero/9a1e683988210250b353c78039eb33e8.png",
+     "https://cdn2.steamgriddb.com/hero/e74815fb48307680a380e58f2bf460d7.png",
+     "https://cdn2.steamgriddb.com/hero/7aa8d02516f5e646008f4060a06f7689.png",
+     "https://cdn2.steamgriddb.com/hero/93a6d451d7b3a734de387ba1038b1357.png",
+     "https://cdn2.steamgriddb.com/hero/453967200e1a3da44c065d694e98a58b.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/bb4acfc3f18743bfd00e09c18b65e474.png",
+     "https://cdn2.steamgriddb.com/logo/b3e8cbfb85502744feeea93512913608.png",
+     "https://cdn2.steamgriddb.com/logo/bed8062494421470c1c46f8828524d20.png",
+     "https://cdn2.steamgriddb.com/logo/a1a05390dd5369e6ac2406beddd95663.png"
+    ]
    }
   },
   {
@@ -163,7 +351,27 @@
     "name": "Mystical Ninja Starring Goemon (Nintendo 64)",
     "icon": "https://cdn2.steamgriddb.com/grid/5c2df83eafbe505c6c735097f95d9204.png",
     "bg": "https://cdn2.steamgriddb.com/hero/058a4a63fccbdb3d0b0ab0e8f7a8951c.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/421740375847b6249d9383615831c23b.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/421740375847b6249d9383615831c23b.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5c2df83eafbe505c6c735097f95d9204.png",
+     "https://cdn2.steamgriddb.com/icon/5cbd31d6a0809f253c2679d508ecb6c2.png",
+     "https://cdn2.steamgriddb.com/icon/a5cd92b1a01bd0ea521e760bae04ef7d.png",
+     "https://cdn2.steamgriddb.com/icon/21a94c7628fa8d17e41908412fa89cce.ico",
+     "https://cdn2.steamgriddb.com/icon/92ae5cfef57d9ef9a523753e45fc9b0b.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/058a4a63fccbdb3d0b0ab0e8f7a8951c.png",
+     "https://cdn2.steamgriddb.com/hero/83ed81cc4587f56b7897dac5083bfe2c.png",
+     "https://cdn2.steamgriddb.com/hero/03b6e2856f286e362632584b8574146e.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/421740375847b6249d9383615831c23b.png",
+     "https://cdn2.steamgriddb.com/logo/d5bd21d09718d44858788fb113e74e69.png",
+     "https://cdn2.steamgriddb.com/logo/d7a6ce321f5dc0ba0ed78913401ce065.png",
+     "https://cdn2.steamgriddb.com/logo/78f7edf224fe456c2cbb68ce72662f9e.png",
+     "https://cdn2.steamgriddb.com/logo/66b2dbdbe2e68ab8e51b5af3d6e360ae.png",
+     "https://cdn2.steamgriddb.com/logo/78cc023ff7fd28abfdd2580956ed889c.png"
+    ]
    }
   },
   {
@@ -181,7 +389,31 @@
     "name": "Castlevania",
     "icon": "https://cdn2.steamgriddb.com/grid/6cd8289ca251a7db8841a6ca6459de7c.png",
     "bg": "https://cdn2.steamgriddb.com/hero/8497c3b1d034ce7aaf059804b5c88db6.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/770c0e7e2af0db73409aa2431aa8f33e.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/770c0e7e2af0db73409aa2431aa8f33e.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/6cd8289ca251a7db8841a6ca6459de7c.png",
+     "https://cdn2.steamgriddb.com/grid/82ae8b3c42002bc2c8e1e56cb7595fad.jpg",
+     "https://cdn2.steamgriddb.com/grid/533d21de84d26488c1d2972ce53a5be0.png",
+     "https://cdn2.steamgriddb.com/grid/944cea80628918f7f91ee1765a202d60.png",
+     "https://cdn2.steamgriddb.com/grid/3ca13aa56fb645732a56aa79421d4404.png",
+     "https://cdn2.steamgriddb.com/grid/8b780518215423ad12c4b6d2eac04230.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/8497c3b1d034ce7aaf059804b5c88db6.jpg",
+     "https://cdn2.steamgriddb.com/hero/0c72cb7ee1512f800abe27823a792d03.png",
+     "https://cdn2.steamgriddb.com/hero/c970d2e501966677c6f59f3ca29a3fc3.jpg",
+     "https://cdn2.steamgriddb.com/hero/cd9adc741133e54e0f7e71ddf2bbd71f.jpg",
+     "https://cdn2.steamgriddb.com/hero/4af105d6a1f7f07abde2998c865fd570.png",
+     "https://cdn2.steamgriddb.com/hero/fc387d4ea3e5e0d30944070a3bffb572.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/770c0e7e2af0db73409aa2431aa8f33e.png",
+     "https://cdn2.steamgriddb.com/logo/5361754d7fa731dc4608adc1ec4c335f.png",
+     "https://cdn2.steamgriddb.com/logo/a8240cb8235e9c493a0c30607586166c.png",
+     "https://cdn2.steamgriddb.com/logo/9288e7d7c367bdea1f049b71ddc3a4b5.png",
+     "https://cdn2.steamgriddb.com/logo/60ac4f31ab5b2ee3e0372030eb2a19de.png",
+     "https://cdn2.steamgriddb.com/logo/37ce349008efb55b22c8594ca047413c.png"
+    ]
    }
   },
   {
@@ -199,7 +431,31 @@
     "name": "Pokémon Snap",
     "icon": "https://cdn2.steamgriddb.com/grid/d6ec02e8e7de5de45e4d2d3c6843b18b.png",
     "bg": "https://cdn2.steamgriddb.com/hero/4c07fe24771249c343e70c32289c1192.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/2f635a9fe4a4d8d1ec9e3a111cc02f4b.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/2f635a9fe4a4d8d1ec9e3a111cc02f4b.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/d6ec02e8e7de5de45e4d2d3c6843b18b.png",
+     "https://cdn2.steamgriddb.com/grid/9be47cd3701f815cd2e95104ab903cf9.png",
+     "https://cdn2.steamgriddb.com/grid/4426e26b5f6bfa625eaef988fed5a4bd.png",
+     "https://cdn2.steamgriddb.com/grid/428e1b41e81cf35765f82b55f32a97c0.png",
+     "https://cdn2.steamgriddb.com/grid/732d5d53051127c79a9ff200bccde597.png",
+     "https://cdn2.steamgriddb.com/grid/27f1b5e63b7677978de9127f3ffe15c8.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/4c07fe24771249c343e70c32289c1192.png",
+     "https://cdn2.steamgriddb.com/hero/33853141e0873909be88f5c3e6144cc6.png",
+     "https://cdn2.steamgriddb.com/hero/3103367f91522bbc87cf681e9a8f058a.png",
+     "https://cdn2.steamgriddb.com/hero/4602fc349ffc0ad649190e937f2a5f14.png",
+     "https://cdn2.steamgriddb.com/hero/b0a192239a5bbbd7eb5461f62e2f0ade.png",
+     "https://cdn2.steamgriddb.com/hero/6f6190a2033f503dd1b4dc387346e32f.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/2f635a9fe4a4d8d1ec9e3a111cc02f4b.png",
+     "https://cdn2.steamgriddb.com/logo/c5df4f4eabf1cbcfeb50fbbf97c5289f.png",
+     "https://cdn2.steamgriddb.com/logo/e87713e710083c4971b891adc76e2d6a.png",
+     "https://cdn2.steamgriddb.com/logo/c499062dc340215e783bb8bd28ec03d5.png",
+     "https://cdn2.steamgriddb.com/logo/f93ce0f4aa7a7eee8cc5f59115ee55bf.png",
+     "https://cdn2.steamgriddb.com/logo/4688f1627d07bec8201579bfdf663d0c.png"
+    ]
    }
   },
   {
@@ -217,7 +473,28 @@
     "name": "Tomba!",
     "icon": "https://cdn2.steamgriddb.com/grid/d2266cbbc297cb8f4e96fb08456ac626.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/d37a5f293c9e1666e6b1a4079cdf5774.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/2efeb41a1a7085a1dbd469c4895ac23e.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/2efeb41a1a7085a1dbd469c4895ac23e.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/d2266cbbc297cb8f4e96fb08456ac626.jpg",
+     "https://cdn2.steamgriddb.com/grid/1650800e86553a4c7054e149bcce5a8a.png",
+     "https://cdn2.steamgriddb.com/grid/3d54b0b313e4da42bfb18b1998255efe.jpg",
+     "https://cdn2.steamgriddb.com/grid/e17a9545367fadc4e922e4a5381ac557.png",
+     "https://cdn2.steamgriddb.com/icon/45713f6ff2041d3fdfae927b82488db8.ico",
+     "https://cdn2.steamgriddb.com/icon/752d2c9ecfe079e5e5f3539f4d750e5c.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/d37a5f293c9e1666e6b1a4079cdf5774.png",
+     "https://cdn2.steamgriddb.com/hero/dc20d1211f3e7a99d775b26052e0163e.png",
+     "https://cdn2.steamgriddb.com/hero/1343022fc4003e2cf16f0368302d86e8.png",
+     "https://cdn2.steamgriddb.com/hero/f51db9cd7699563f9da3288da9aa07b3.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/2efeb41a1a7085a1dbd469c4895ac23e.png",
+     "https://cdn2.steamgriddb.com/logo/a979ca72826d945a5ac992029145141c.png",
+     "https://cdn2.steamgriddb.com/logo/eb9b3146ac7042327c1378baf6241435.png",
+     "https://cdn2.steamgriddb.com/logo/bcafa9f88e1528d8bd2873c7d9228902.png",
+     "https://cdn2.steamgriddb.com/logo/de6214d6fcff27e9c373bb0227fe53af.png"
+    ]
    }
   },
   {
@@ -235,7 +512,31 @@
     "name": "Mega Man X4",
     "icon": "https://cdn2.steamgriddb.com/grid/5bdb766a15786a6daf679d34cdac6602.png",
     "bg": "https://cdn2.steamgriddb.com/hero/910c8aa6d76100df69a6ea11c2a39ed1.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/b13245211331d16e2a04423665d4b3a8.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/b13245211331d16e2a04423665d4b3a8.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5bdb766a15786a6daf679d34cdac6602.png",
+     "https://cdn2.steamgriddb.com/grid/7d04f21620c1e7e6c5addbed6ccd6b90.png",
+     "https://cdn2.steamgriddb.com/grid/3288aad7618af622d46172801c6c3422.png",
+     "https://cdn2.steamgriddb.com/grid/4f3ebce2bc44a738f044a757819ab2f4.png",
+     "https://cdn2.steamgriddb.com/grid/14b3aca497d396cc90401ecc40d29c5b.png",
+     "https://cdn2.steamgriddb.com/grid/ee8f208b135d4940dbb80d0335e20a1f.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/910c8aa6d76100df69a6ea11c2a39ed1.png",
+     "https://cdn2.steamgriddb.com/hero/9587ede49c81bb291a69417b41e35d46.png",
+     "https://cdn2.steamgriddb.com/hero/514652eb7c80cb3be3e5cec5352dc855.png",
+     "https://cdn2.steamgriddb.com/hero/eac146299588e3fb650ef838b0e0ac86.png",
+     "https://cdn2.steamgriddb.com/hero/30242cff0f775d3e3bb483f48e6849a8.png",
+     "https://cdn2.steamgriddb.com/hero/05e75c658bc2a1a08f862c91bee30e47.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/b13245211331d16e2a04423665d4b3a8.png",
+     "https://cdn2.steamgriddb.com/logo/3bb585ea00014b0e3ebe4c6dd165a358.png",
+     "https://cdn2.steamgriddb.com/logo/2df294cb775ed89e0e12717595fa4d60.png",
+     "https://cdn2.steamgriddb.com/logo/9cface30380c38313f90b7d85a2bb413.png",
+     "https://cdn2.steamgriddb.com/logo/311be2559119007abcccd19667e701e9.png",
+     "https://cdn2.steamgriddb.com/logo/4632e96c98e8b9f54c55a096f37fff51.png"
+    ]
    }
   },
   {
@@ -253,7 +554,31 @@
     "name": "Mega Man X6",
     "icon": "https://cdn2.steamgriddb.com/grid/df8ca647ec048efd0cd4d6c6363513a7.png",
     "bg": "https://cdn2.steamgriddb.com/hero/449813ff3f5a8a8d9fbc3fc03edce90b.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/d9ff4e5efa087c26ac440ffcf4ad83f9.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/d9ff4e5efa087c26ac440ffcf4ad83f9.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/df8ca647ec048efd0cd4d6c6363513a7.png",
+     "https://cdn2.steamgriddb.com/grid/be6ded629899a1c493eb56b4df276103.jpg",
+     "https://cdn2.steamgriddb.com/grid/f1c4355468c2df537916515d8a3939e2.jpg",
+     "https://cdn2.steamgriddb.com/grid/174d10d8134ad94a2fefe3af422bc039.png",
+     "https://cdn2.steamgriddb.com/grid/94f7744d2e2dbb4d1d8b8d95a203207f.png",
+     "https://cdn2.steamgriddb.com/grid/a659783205ef3b0999b48880b655a8fa.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/449813ff3f5a8a8d9fbc3fc03edce90b.png",
+     "https://cdn2.steamgriddb.com/hero/f0ff6a6ed5127a1ab6817f3f38f9ebdc.png",
+     "https://cdn2.steamgriddb.com/hero/55fbc366e0beb63e08ffc35e56e44242.png",
+     "https://cdn2.steamgriddb.com/hero/2979d1871f7206c72c1d2cf32e0c79ef.png",
+     "https://cdn2.steamgriddb.com/hero/b98226f01fcfe0ae7a1598c2eb957aeb.png",
+     "https://cdn2.steamgriddb.com/hero/e190e3570be89ad2f63eb01681701ba0.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/d9ff4e5efa087c26ac440ffcf4ad83f9.png",
+     "https://cdn2.steamgriddb.com/logo/e92b755eb0d8800175a02a35c2bf44fe.png",
+     "https://cdn2.steamgriddb.com/logo/3abb37944846f22e2f08f0457e26a1cf.png",
+     "https://cdn2.steamgriddb.com/logo/75b8ee2d6706e8a4fe51b59c7b26a624.png",
+     "https://cdn2.steamgriddb.com/logo/b92ea07beda110237a0e04d329385795.png",
+     "https://cdn2.steamgriddb.com/logo/46fd94ff0c91269a664fe29b7c9a40d9.png"
+    ]
    }
   },
   {
@@ -271,7 +596,31 @@
     "name": "Bayonetta 2",
     "icon": "https://cdn2.steamgriddb.com/grid/8f0301704d80a88b83a7cb0440551f6a.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/e6b741b920fcdeed483dcda19d9178ff.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/77f52c94881bfc50ac293ee00abe70e1.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/77f52c94881bfc50ac293ee00abe70e1.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/8f0301704d80a88b83a7cb0440551f6a.jpg",
+     "https://cdn2.steamgriddb.com/grid/ee795865d65db9a957a00bd8d7b1ded4.png",
+     "https://cdn2.steamgriddb.com/grid/2c48c3357dfe8392f6dd727aa54d1424.png",
+     "https://cdn2.steamgriddb.com/grid/0b695d8201c09f4aabb0da5a25678534.jpg",
+     "https://cdn2.steamgriddb.com/grid/03573ace6f833ebbc21380d0f6eb6ad8.jpg",
+     "https://cdn2.steamgriddb.com/grid/4ccf2e2e13357159a8b94030b02f7d87.jpg"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/e6b741b920fcdeed483dcda19d9178ff.jpg",
+     "https://cdn2.steamgriddb.com/hero/0068a01b6545c1e5a4cfef3ad4951a95.jpg",
+     "https://cdn2.steamgriddb.com/hero/051e4e127b92f5d98d3c79b195f2b291.png",
+     "https://cdn2.steamgriddb.com/hero/da133db32381118b52f46310e1686a37.png",
+     "https://cdn2.steamgriddb.com/hero/a9fa34b067b19c21e33f71497b73ae59.jpg",
+     "https://cdn2.steamgriddb.com/hero/37e584b2c104e470997a46c5b3d549c0.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/77f52c94881bfc50ac293ee00abe70e1.png",
+     "https://cdn2.steamgriddb.com/logo/3de2334a314a7a72721f1f74a6cb4cee.png",
+     "https://cdn2.steamgriddb.com/logo/5661d51302b11fd028a26cd330b066bf.png",
+     "https://cdn2.steamgriddb.com/logo/f289b5099c282c88399103ce6326e043.png",
+     "https://cdn2.steamgriddb.com/logo/06a529543f3b631a5a9e898eeaab3d2e.png",
+     "https://cdn2.steamgriddb.com/logo/e2f23fb999a9402d878a0f5a1f62dbd6.png"
+    ]
    }
   },
   {
@@ -309,7 +658,31 @@
     "name": "Banjo-Kazooie",
     "icon": "https://cdn2.steamgriddb.com/grid/a4f931b93061058145e9612769c3139e.png",
     "bg": "https://cdn2.steamgriddb.com/hero/17326d10d511828f6b34fa6d751739e2.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/ce5193a069bea027a60e06c57a106eb6.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/ce5193a069bea027a60e06c57a106eb6.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/a4f931b93061058145e9612769c3139e.png",
+     "https://cdn2.steamgriddb.com/grid/7f462bb1b2f4528dd602bf08018e39ba.png",
+     "https://cdn2.steamgriddb.com/grid/e076f1046924ab3a50613b8f68c7f861.png",
+     "https://cdn2.steamgriddb.com/grid/c5a4d2b05ecfab651c7d7c8d8798a32f.png",
+     "https://cdn2.steamgriddb.com/grid/5fe9088d8e323d7088c38ec4f4eae61b.jpg",
+     "https://cdn2.steamgriddb.com/grid/b5228b3cf94ccf1ee6071fde002c1c9f.jpg"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/17326d10d511828f6b34fa6d751739e2.png",
+     "https://cdn2.steamgriddb.com/hero/6e9187ba0044ab240088a05dc8c15152.png",
+     "https://cdn2.steamgriddb.com/hero/2abc24fbddeb5ccc6b22d37b4a331500.png",
+     "https://cdn2.steamgriddb.com/hero/51457b3eb9b6f738d1a16b8e8e6ce08d.png",
+     "https://cdn2.steamgriddb.com/hero/38a163898868402b6f6f114865856f74.png",
+     "https://cdn2.steamgriddb.com/hero/d02348926f8e8dd30744a1c4eebc098e.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/ce5193a069bea027a60e06c57a106eb6.png",
+     "https://cdn2.steamgriddb.com/logo/5686a8cf9fcd6b52ef02d3aa8407c2ac.png",
+     "https://cdn2.steamgriddb.com/logo/7bd28f15a49d5e5848d6ec70e584e625.png",
+     "https://cdn2.steamgriddb.com/logo/c5f0f51dbd5f8f9d0eabcea943a9a513.png",
+     "https://cdn2.steamgriddb.com/logo/18ddff2a956e546601bcf8785619e653.png",
+     "https://cdn2.steamgriddb.com/logo/d88996180f92d3c85a620a705f1d289d.png"
+    ]
    }
   },
   {
@@ -327,7 +700,31 @@
     "name": "Banjo-Tooie",
     "icon": "https://cdn2.steamgriddb.com/grid/fca67d5cfe0513619a14f066e149099c.png",
     "bg": "https://cdn2.steamgriddb.com/hero/5c34dc67a4178be566ff98512d6721d5.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/000c076c390a4c357313fca29e390ece.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/000c076c390a4c357313fca29e390ece.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/fca67d5cfe0513619a14f066e149099c.png",
+     "https://cdn2.steamgriddb.com/grid/4b898eeda45b5c36f28e3d0f0ad30e72.jpg",
+     "https://cdn2.steamgriddb.com/grid/962036eafd07441d254610e74f74db46.jpg",
+     "https://cdn2.steamgriddb.com/grid/e53b83cbe5b2ad2ae906ba69f50551cb.png",
+     "https://cdn2.steamgriddb.com/grid/ef65dbed773713ed708e53cd12676e86.png",
+     "https://cdn2.steamgriddb.com/grid/d9812e90a0f9626d74234e94425d4c7a.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/5c34dc67a4178be566ff98512d6721d5.png",
+     "https://cdn2.steamgriddb.com/hero/e48e13207341b6bffb7fb1622282247b.png",
+     "https://cdn2.steamgriddb.com/hero/666c0c9957e2bfe09a12c89c59a443e6.png",
+     "https://cdn2.steamgriddb.com/hero/788a2a21048346d74a8bba1dfdff33c5.png",
+     "https://cdn2.steamgriddb.com/hero/e17db4182f16eff00bdf15243d58e75a.png",
+     "https://cdn2.steamgriddb.com/hero/7402d116fb181326f809d4ee2c8a5bf4.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/000c076c390a4c357313fca29e390ece.png",
+     "https://cdn2.steamgriddb.com/logo/452bf208bf901322968557227b8f6efe.png",
+     "https://cdn2.steamgriddb.com/logo/c6174d437971406e618bd85fb2b9e9f7.png",
+     "https://cdn2.steamgriddb.com/logo/7ed3abe077a4a710aba4e8a7f38bc11b.png",
+     "https://cdn2.steamgriddb.com/logo/77f8c9f92d35ba4fa73663055e802093.png",
+     "https://cdn2.steamgriddb.com/logo/be031b3784c94a432c717237e7e0ed79.png"
+    ]
    }
   },
   {
@@ -345,7 +742,22 @@
     "name": "Blast Corps",
     "icon": "https://cdn2.steamgriddb.com/grid/fff2714a6a933c57e478251f31466ac4.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/e14f2c0c9152f1c78681652ff1189f2b.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/b6bf0bd978e378e1d2090c9b74859d43.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/b6bf0bd978e378e1d2090c9b74859d43.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/fff2714a6a933c57e478251f31466ac4.jpg",
+     "https://cdn2.steamgriddb.com/icon/8aaa8d9517b862109ff3db1bc4ef4c1a.png",
+     "https://cdn2.steamgriddb.com/icon/a56b6ea9b986428c2ab2fb458f5da882.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/e14f2c0c9152f1c78681652ff1189f2b.png",
+     "https://cdn2.steamgriddb.com/hero/f85c42d6294068b7dac7cb5cba271c87.png",
+     "https://cdn2.steamgriddb.com/hero/7eca6641c66b11e7ae9e804838a35c96.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/b6bf0bd978e378e1d2090c9b74859d43.png",
+     "https://cdn2.steamgriddb.com/logo/2d6c9ea0d4e57bea0bfbed02521237cc.png",
+     "https://cdn2.steamgriddb.com/logo/e7dfca01f394755c11f853602cb2608a.png"
+    ]
    }
   },
   {
@@ -363,7 +775,28 @@
     "name": "Bomberman 64",
     "icon": "https://cdn2.steamgriddb.com/grid/cf63647cedce27a4b34a5501855f6f52.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3a06105cf87a4a0d2b22ca218aca4783.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/afb79a9be5cd9762572a008088d3153e.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/afb79a9be5cd9762572a008088d3153e.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/cf63647cedce27a4b34a5501855f6f52.jpg",
+     "https://cdn2.steamgriddb.com/grid/1474407dd66ea971d21d7c3a3f50bf5a.png",
+     "https://cdn2.steamgriddb.com/grid/27731a832d899d677a60eb4a8b28fb31.png",
+     "https://cdn2.steamgriddb.com/grid/447437bac7c8e16aa4d1f36cc433ba40.png",
+     "https://cdn2.steamgriddb.com/icon/bb6c7fdc54b738a6fdc09a851afa12fb.png",
+     "https://cdn2.steamgriddb.com/icon/30c0a496a57bcc2c7c6c481342526729.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3a06105cf87a4a0d2b22ca218aca4783.png",
+     "https://cdn2.steamgriddb.com/hero/4eaef266eac38c0fa7bbd3673c829a30.png",
+     "https://cdn2.steamgriddb.com/hero/2089ca9ea64aa21893be3cbe134a8a1b.png",
+     "https://cdn2.steamgriddb.com/hero/05b1e3748f7354a2ea9cc70c8cda0a56.png",
+     "https://cdn2.steamgriddb.com/hero/f56fad1da541d60396204de8544a37a5.png",
+     "https://cdn2.steamgriddb.com/hero/c354041dd9cea77af8d12d89650e5685.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/afb79a9be5cd9762572a008088d3153e.png",
+     "https://cdn2.steamgriddb.com/logo/a5a280ea9f10b860c532aeb8a927f2d5.png",
+     "https://cdn2.steamgriddb.com/logo/3e71a3525b5f4563ee6f2ebc59893f17.png"
+    ]
    }
   },
   {
@@ -381,7 +814,26 @@
     "name": "Bomberman Hero",
     "icon": "https://cdn2.steamgriddb.com/grid/eb61d1de6d06c7624acb97262843296e.png",
     "bg": "https://cdn2.steamgriddb.com/hero/2cc18398df2e6692fffc29a610cb72e3.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/34e420f6e47d96669897a45586997a57.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/34e420f6e47d96669897a45586997a57.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/eb61d1de6d06c7624acb97262843296e.png",
+     "https://cdn2.steamgriddb.com/grid/3188157d0ce304af55402488c04c4835.png",
+     "https://cdn2.steamgriddb.com/grid/7b6c7f455d11cf33179d4cde789e696c.png",
+     "https://cdn2.steamgriddb.com/grid/5c083c7e2317a0dcd3e33ec25870043c.png",
+     "https://cdn2.steamgriddb.com/icon/baaedcdb844cfad4d960c9df351fd807.png",
+     "https://cdn2.steamgriddb.com/icon/fa8cdd11992647240408bc1d3c09bc82.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/2cc18398df2e6692fffc29a610cb72e3.png",
+     "https://cdn2.steamgriddb.com/hero/c127e72f8b87d565fa44bf00c5574a9b.png",
+     "https://cdn2.steamgriddb.com/hero/1aa7622e223c7eee981a7776fe70000c.png",
+     "https://cdn2.steamgriddb.com/hero/dacbfb40ca8606ed7040dba3b1b77b64.png",
+     "https://cdn2.steamgriddb.com/hero/fd51b2778db2a0e228a23be4053aa9a4.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/34e420f6e47d96669897a45586997a57.png",
+     "https://cdn2.steamgriddb.com/logo/eeeb942be2061263abfa942962627345.png"
+    ]
    }
   },
   {
@@ -399,7 +851,31 @@
     "name": "Conker's Bad Fur Day",
     "icon": "https://cdn2.steamgriddb.com/grid/3d1e2c8e4e54933d739bf0186dac5427.png",
     "bg": "https://cdn2.steamgriddb.com/hero/1a04f965818a8533f5613003c7db243d.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/ce840aa9583592e71f3db26ee6e41703.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/ce840aa9583592e71f3db26ee6e41703.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/3d1e2c8e4e54933d739bf0186dac5427.png",
+     "https://cdn2.steamgriddb.com/grid/5003648596d33dbd63f63db7fd1fbf23.png",
+     "https://cdn2.steamgriddb.com/grid/f5c957f46686fc59bfab0b12ade29e7c.png",
+     "https://cdn2.steamgriddb.com/grid/d85c47f83fdcecc830c32074a47a2168.jpg",
+     "https://cdn2.steamgriddb.com/grid/9f6ec09be00e41b3eda702b1d6b866b2.png",
+     "https://cdn2.steamgriddb.com/grid/ecf80473cfa10a202f6be864e61cef06.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/1a04f965818a8533f5613003c7db243d.png",
+     "https://cdn2.steamgriddb.com/hero/37f0f323659381a4d369301768a71439.png",
+     "https://cdn2.steamgriddb.com/hero/0655f117444fc1911ab9c6f6b0139051.png",
+     "https://cdn2.steamgriddb.com/hero/55eba08063b0747e346823ae774ae876.png",
+     "https://cdn2.steamgriddb.com/hero/fbc84e1193111af8fc9e30bbcae12fd8.png",
+     "https://cdn2.steamgriddb.com/hero/00043ad3146f033d4bf1beb502fa6e09.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/ce840aa9583592e71f3db26ee6e41703.png",
+     "https://cdn2.steamgriddb.com/logo/cfbce4c1d7c425baf21d6b6f2babe6be.png",
+     "https://cdn2.steamgriddb.com/logo/e99687e0fd1a8b0023b6e77497eb8309.png",
+     "https://cdn2.steamgriddb.com/logo/85b45ef5e19389d81d4744a69462df56.png",
+     "https://cdn2.steamgriddb.com/logo/0f416a6c2a8e549135a9bc2a6c1c63c1.png",
+     "https://cdn2.steamgriddb.com/logo/39fc4eb8835fb25c8a27a30ca82638ff.png"
+    ]
    }
   },
   {
@@ -417,7 +893,31 @@
     "name": "Donkey Kong 64",
     "icon": "https://cdn2.steamgriddb.com/grid/dd2e3866518f6b1498e2a69f2118491b.png",
     "bg": "https://cdn2.steamgriddb.com/hero/dd6e83b6da55d90f5740e0dd3f3e5a13.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/6933b5648c59d618bbb30986c84080fe.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/6933b5648c59d618bbb30986c84080fe.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/dd2e3866518f6b1498e2a69f2118491b.png",
+     "https://cdn2.steamgriddb.com/grid/6aa7c4fe1af5beb9a08ff1c6a76751fb.jpg",
+     "https://cdn2.steamgriddb.com/grid/ea24f27ced375e1daa45fa622ab10bc0.jpg",
+     "https://cdn2.steamgriddb.com/grid/a0cc29da4c564081f69648a3f6d13142.png",
+     "https://cdn2.steamgriddb.com/grid/7339f16ec552ff9044001a8a61fa065f.png",
+     "https://cdn2.steamgriddb.com/grid/9ce4f4e25570f5855cb48c9985329075.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/dd6e83b6da55d90f5740e0dd3f3e5a13.png",
+     "https://cdn2.steamgriddb.com/hero/2b436d084a19d79ad3fbbff4245fc7c6.png",
+     "https://cdn2.steamgriddb.com/hero/dc4c44f624d600aa568390f1f1104aa0.png",
+     "https://cdn2.steamgriddb.com/hero/a7abe5b03718c89f0e82d7a4a228aab6.png",
+     "https://cdn2.steamgriddb.com/hero/f590ad7f681d5cf0b57f2a38f4874883.png",
+     "https://cdn2.steamgriddb.com/hero/282cd52413cf7424513e21083aba4f99.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/6933b5648c59d618bbb30986c84080fe.png",
+     "https://cdn2.steamgriddb.com/logo/d7b2c90cf600716dd3b9e774c72484d5.png",
+     "https://cdn2.steamgriddb.com/logo/c29ab53d268800211da37795dfb6ddeb.png",
+     "https://cdn2.steamgriddb.com/logo/0620239c9952d3ae38aae38315d5759f.png",
+     "https://cdn2.steamgriddb.com/logo/02107ce897bd8e0c55a3f6e4afb96634.png",
+     "https://cdn2.steamgriddb.com/logo/0477dee948ac714571248b22f1abea78.png"
+    ]
    }
   },
   {
@@ -435,7 +935,28 @@
     "name": "Dr. Mario 64",
     "icon": "https://cdn2.steamgriddb.com/grid/fd912a0d80d4bc677d6bbde64658342e.png",
     "bg": "https://cdn2.steamgriddb.com/hero/3a0d1535e1f1929f76f28f007a57584c.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/6052639706e0beb2fabeaf09d667f9b9.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/6052639706e0beb2fabeaf09d667f9b9.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/fd912a0d80d4bc677d6bbde64658342e.png",
+     "https://cdn2.steamgriddb.com/grid/0e5ff77b3fd662fe52b007ea274a179b.png",
+     "https://cdn2.steamgriddb.com/icon/f665651bcc641391820b462874c05e16.png",
+     "https://cdn2.steamgriddb.com/icon/6e1ff1976ef507dfe2693cfcbdd9aae6.png",
+     "https://cdn2.steamgriddb.com/icon/a730d98bd8e325260bfc8ba46daeed16.ico",
+     "https://cdn2.steamgriddb.com/icon/e165ee6dc3af5be111ae2800b489bb4c.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3a0d1535e1f1929f76f28f007a57584c.jpg",
+     "https://cdn2.steamgriddb.com/hero/ceed017650a7d22d2f5c86276f7bcd4e.png",
+     "https://cdn2.steamgriddb.com/hero/12452dd35f55e1556457ff81819baf53.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/6052639706e0beb2fabeaf09d667f9b9.png",
+     "https://cdn2.steamgriddb.com/logo/740361d688affdb44a0a2193ece61397.png",
+     "https://cdn2.steamgriddb.com/logo/5b9beb4e2241f68aecd149b7aa5c9e33.png",
+     "https://cdn2.steamgriddb.com/logo/31b4d3477e6870b8034012ac32add36d.png",
+     "https://cdn2.steamgriddb.com/logo/51a1c1307703d06f45bf3178b91d4546.png",
+     "https://cdn2.steamgriddb.com/logo/8bca867786b0dfc4f1963ea6bcf2557d.png"
+    ]
    }
   },
   {
@@ -453,7 +974,31 @@
     "name": "Duke Nukem: Zero Hour",
     "icon": "https://cdn2.steamgriddb.com/grid/019817c39eff50638b38ed8acfc65986.png",
     "bg": "https://cdn2.steamgriddb.com/hero/359a6b7d32b10e400dcb805c340dfc73.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/b901ad8e8c03a6f22f40b7de9a5041be.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/b901ad8e8c03a6f22f40b7de9a5041be.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/019817c39eff50638b38ed8acfc65986.png",
+     "https://cdn2.steamgriddb.com/icon/82be39f2fca162b016567e5014b81e3f.ico",
+     "https://cdn2.steamgriddb.com/icon/5a730579ebe031843c2cda200a47bb67.ico",
+     "https://cdn2.steamgriddb.com/icon/6bbbc0dab77dd4f445626d41c2fba9a5.ico",
+     "https://cdn2.steamgriddb.com/icon/5ddddfa620c792571675a330752735b0.png",
+     "https://cdn2.steamgriddb.com/icon/c146379747fc89b93bb6665febeb7c23.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/359a6b7d32b10e400dcb805c340dfc73.jpg",
+     "https://cdn2.steamgriddb.com/hero/4f5dd3a39f66fa2e54bb98577ffb4ff0.jpg",
+     "https://cdn2.steamgriddb.com/hero/e77886b048923d72baf93c668c68124c.jpg",
+     "https://cdn2.steamgriddb.com/hero/c379f77191efa795499f11bee14bed55.jpg",
+     "https://cdn2.steamgriddb.com/hero/c5a27a52cb0c0213c031a68bdd5439e2.png",
+     "https://cdn2.steamgriddb.com/hero/216affb7ef127f19f74a5a50e4d2907e.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/b901ad8e8c03a6f22f40b7de9a5041be.png",
+     "https://cdn2.steamgriddb.com/logo/2782341594899d3c425b4fbfbb532d32.png",
+     "https://cdn2.steamgriddb.com/logo/84069d41a042684dd176a305d5899c03.png",
+     "https://cdn2.steamgriddb.com/logo/dda7e58ab4783e418941af33eb4a6541.png",
+     "https://cdn2.steamgriddb.com/logo/7921655491632f778898fff73ed5710a.png",
+     "https://cdn2.steamgriddb.com/logo/6bec263f43d149f7db8db136b943b8b9.png"
+    ]
    }
   },
   {
@@ -471,7 +1016,27 @@
     "name": "Harvest Moon 64",
     "icon": "https://cdn2.steamgriddb.com/grid/6cc092afb19ec0e445c145deb1d12be1.png",
     "bg": "https://cdn2.steamgriddb.com/hero/4a65fd714997aaca6455b8d338cc61c6.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/609a199881ca4ba9c95688235cd6ac5c.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/609a199881ca4ba9c95688235cd6ac5c.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/6cc092afb19ec0e445c145deb1d12be1.png",
+     "https://cdn2.steamgriddb.com/grid/cb234bb93fff56aa49ee78180bafd455.png",
+     "https://cdn2.steamgriddb.com/grid/fe268269c1f3e82801aee17eaf43da1f.jpg",
+     "https://cdn2.steamgriddb.com/icon/4a15fc6d75970e9607efa44697977f2b.ico",
+     "https://cdn2.steamgriddb.com/icon/d093b4a150384ffc0b1bb5d5042c0df4.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/4a65fd714997aaca6455b8d338cc61c6.png",
+     "https://cdn2.steamgriddb.com/hero/548e1e31de1bdc7996d4798cfd4187af.png",
+     "https://cdn2.steamgriddb.com/hero/9805d93f9b7557304e1b2a89d531b11b.png",
+     "https://cdn2.steamgriddb.com/hero/9970ae0c6558c5bd6b4028f6117d40c3.png",
+     "https://cdn2.steamgriddb.com/hero/c1e2386e45a35074ad29aa562c207b15.png",
+     "https://cdn2.steamgriddb.com/hero/77bd8919603ba3c00e26d92710171b8c.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/609a199881ca4ba9c95688235cd6ac5c.png",
+     "https://cdn2.steamgriddb.com/logo/68f2b3c46595208f0c86a9e909262be7.png",
+     "https://cdn2.steamgriddb.com/logo/523334a097e637805ccc5f32242c72f4.png"
+    ]
    }
   },
   {
@@ -489,7 +1054,31 @@
     "name": "Mario Kart 64",
     "icon": "https://cdn2.steamgriddb.com/grid/e5494d23b18b5c822bcaa9fe8fd077bf.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/abdeb6f575ac5c6676b747bca8d09cc2.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/1755c118e8859eb000eb6eca25369407.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/1755c118e8859eb000eb6eca25369407.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/e5494d23b18b5c822bcaa9fe8fd077bf.jpg",
+     "https://cdn2.steamgriddb.com/grid/f423aaa207fc67492a39404d51a5433d.png",
+     "https://cdn2.steamgriddb.com/grid/148d146af1bbe17b119cf1e6e19b318d.jpg",
+     "https://cdn2.steamgriddb.com/grid/d38dbc4638719893de6686537ffc69ab.png",
+     "https://cdn2.steamgriddb.com/grid/8eb7aaaeb3b3a7df8955eb17fa767573.png",
+     "https://cdn2.steamgriddb.com/grid/dc57ae67a89ed3b85f394f5ca5b9ba1d.jpg"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/abdeb6f575ac5c6676b747bca8d09cc2.png",
+     "https://cdn2.steamgriddb.com/hero/c5c5c49476b6a334f7242147ce82eb07.png",
+     "https://cdn2.steamgriddb.com/hero/4744974da867bdb3e3e3a52691f6e8eb.png",
+     "https://cdn2.steamgriddb.com/hero/01bcff35c845f488ba8bfcfa8061723c.jpg",
+     "https://cdn2.steamgriddb.com/hero/ec14fe5b3b9b9140e24d1e05046b3d85.jpg",
+     "https://cdn2.steamgriddb.com/hero/0f54ed24f89e5c8f67f4261d1ca7e18d.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/1755c118e8859eb000eb6eca25369407.png",
+     "https://cdn2.steamgriddb.com/logo/8ab09aae98c8cb0f56604c23e9fb50df.png",
+     "https://cdn2.steamgriddb.com/logo/4911ccc4c8fdea845742412e24fdaa79.png",
+     "https://cdn2.steamgriddb.com/logo/aa85063fd4226696b28e7bfbb513109a.png",
+     "https://cdn2.steamgriddb.com/logo/644994b73cb1af4008b6cd08cfdae6ca.png",
+     "https://cdn2.steamgriddb.com/logo/52947e0ade57a09e4a1386d08f17b656.png"
+    ]
    }
   },
   {
@@ -507,7 +1096,31 @@
     "name": "Mario Party",
     "icon": "https://cdn2.steamgriddb.com/grid/199623c6583e76576b861cfdca19da65.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/baa67ffe986af10906830246751f8246.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/03fcd68e5673f08be96d2b6bb5be8261.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/03fcd68e5673f08be96d2b6bb5be8261.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/199623c6583e76576b861cfdca19da65.jpg",
+     "https://cdn2.steamgriddb.com/grid/4c33368ac362c98bb81da43899c51e21.png",
+     "https://cdn2.steamgriddb.com/grid/a1a13f67aa0ecf1712647d82771004f0.png",
+     "https://cdn2.steamgriddb.com/grid/c2b43c3136516d8f77d6c86c6336e58b.png",
+     "https://cdn2.steamgriddb.com/grid/22523e528a319b47f0cd2fab46e347ee.jpg",
+     "https://cdn2.steamgriddb.com/grid/ad4f4a1767ebb9abd1eb2d6ebe469c42.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/baa67ffe986af10906830246751f8246.png",
+     "https://cdn2.steamgriddb.com/hero/32cfba8a13694631a8418e4d246e55fa.png",
+     "https://cdn2.steamgriddb.com/hero/2ce02ac4b13a2e9c3b99f59ffbbbd7f9.png",
+     "https://cdn2.steamgriddb.com/hero/77e02887fc8719ae5d273c6ceb196d0a.png",
+     "https://cdn2.steamgriddb.com/hero/16b88c4db6ea7cb431e96c118b97939a.png",
+     "https://cdn2.steamgriddb.com/hero/63dc005a91819e3ddc25046e9039a928.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/03fcd68e5673f08be96d2b6bb5be8261.png",
+     "https://cdn2.steamgriddb.com/logo/cfa258af990f9cb188d36ddb5c6eb650.png",
+     "https://cdn2.steamgriddb.com/logo/e28ffb4906c572d750bac8d1ae486814.png",
+     "https://cdn2.steamgriddb.com/logo/bbf4d025de913eb4bc80879a23b30924.png",
+     "https://cdn2.steamgriddb.com/logo/9bd85ebaeefee6a180645f573d8765fd.png",
+     "https://cdn2.steamgriddb.com/logo/e525f6ca1816f1bd603728810c48f70d.png"
+    ]
    }
   },
   {
@@ -525,7 +1138,24 @@
     "name": "Ogre Battle 64: Person of Lordly Caliber",
     "icon": "https://cdn2.steamgriddb.com/grid/c15c50b3ae06c46433bab2e593d9a8db.png",
     "bg": "https://cdn2.steamgriddb.com/hero/57d69b8c4d53a3fdcae582b026285ca9.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/059def4514ca1bc7ff5781ac48428572.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/059def4514ca1bc7ff5781ac48428572.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/c15c50b3ae06c46433bab2e593d9a8db.png",
+     "https://cdn2.steamgriddb.com/grid/1f1c04cb744e61ea58af984266cabd52.png",
+     "https://cdn2.steamgriddb.com/grid/50894e47028d56c7cdec8eac415fa1be.png",
+     "https://cdn2.steamgriddb.com/grid/2b9a508509d588b461f8d7c49b7c092a.png",
+     "https://cdn2.steamgriddb.com/grid/628da28390fccb9ec264a9c6952a3427.png",
+     "https://cdn2.steamgriddb.com/icon/7e44f6169f0ae75b943cafb5acdb4449.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/57d69b8c4d53a3fdcae582b026285ca9.jpg",
+     "https://cdn2.steamgriddb.com/hero/702587d94e07aed87459712572b3fc8d.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/059def4514ca1bc7ff5781ac48428572.png",
+     "https://cdn2.steamgriddb.com/logo/9570efef719d705326f0ff817ef084e6.png",
+     "https://cdn2.steamgriddb.com/logo/519471698360d710b3b48cc0bb81bf8c.png"
+    ]
    }
   },
   {
@@ -543,7 +1173,24 @@
     "name": "Pilotwings 64",
     "icon": "https://cdn2.steamgriddb.com/grid/b80f3444a28cf2622ea30e0680867222.png",
     "bg": "https://cdn2.steamgriddb.com/hero/590cb2d85e88de9793e89b7209370c72.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/392526094bcba21af9fd4102ce5ed092.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/392526094bcba21af9fd4102ce5ed092.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/b80f3444a28cf2622ea30e0680867222.png",
+     "https://cdn2.steamgriddb.com/grid/be276ed706ba2317eb774c1d78bec694.jpg",
+     "https://cdn2.steamgriddb.com/grid/c8c9e7560aa7618e6301a7c7d70fc5d4.png",
+     "https://cdn2.steamgriddb.com/grid/ed06e7a62bb55904efd9e37e8382d7ec.png",
+     "https://cdn2.steamgriddb.com/grid/35bc2357725db37ac861c43ac2a30c62.png",
+     "https://cdn2.steamgriddb.com/icon/c6d1db3b8c9c598d7c810afee405b57c.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/590cb2d85e88de9793e89b7209370c72.png",
+     "https://cdn2.steamgriddb.com/hero/2b12a84466d35eee6f84649d1c0ac8a5.jpg",
+     "https://cdn2.steamgriddb.com/hero/b0bf88a7e99ac3df16c7ff77eb080557.png",
+     "https://cdn2.steamgriddb.com/hero/cfff85e805665aa8244ebfb641ed683a.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/392526094bcba21af9fd4102ce5ed092.png"
+    ]
    }
   },
   {
@@ -561,7 +1208,24 @@
     "name": "Pilotwings 64",
     "icon": "https://cdn2.steamgriddb.com/grid/b80f3444a28cf2622ea30e0680867222.png",
     "bg": "https://cdn2.steamgriddb.com/hero/590cb2d85e88de9793e89b7209370c72.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/392526094bcba21af9fd4102ce5ed092.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/392526094bcba21af9fd4102ce5ed092.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/b80f3444a28cf2622ea30e0680867222.png",
+     "https://cdn2.steamgriddb.com/grid/be276ed706ba2317eb774c1d78bec694.jpg",
+     "https://cdn2.steamgriddb.com/grid/c8c9e7560aa7618e6301a7c7d70fc5d4.png",
+     "https://cdn2.steamgriddb.com/grid/ed06e7a62bb55904efd9e37e8382d7ec.png",
+     "https://cdn2.steamgriddb.com/grid/35bc2357725db37ac861c43ac2a30c62.png",
+     "https://cdn2.steamgriddb.com/icon/c6d1db3b8c9c598d7c810afee405b57c.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/590cb2d85e88de9793e89b7209370c72.png",
+     "https://cdn2.steamgriddb.com/hero/2b12a84466d35eee6f84649d1c0ac8a5.jpg",
+     "https://cdn2.steamgriddb.com/hero/b0bf88a7e99ac3df16c7ff77eb080557.png",
+     "https://cdn2.steamgriddb.com/hero/cfff85e805665aa8244ebfb641ed683a.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/392526094bcba21af9fd4102ce5ed092.png"
+    ]
    }
   },
   {
@@ -579,7 +1243,25 @@
     "name": "Quest 64",
     "icon": "https://cdn2.steamgriddb.com/grid/66d3d6dcb181e6872ac138e837cba5c6.png",
     "bg": "https://cdn2.steamgriddb.com/hero/4a1d5168500965ca6f5d3022242bb51d.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/226d79aa40ebcb026431aecf47538f22.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/226d79aa40ebcb026431aecf47538f22.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/66d3d6dcb181e6872ac138e837cba5c6.png",
+     "https://cdn2.steamgriddb.com/grid/c338317e8f18c7cc78b898d27a246303.png",
+     "https://cdn2.steamgriddb.com/grid/3e653bd40eec51f194f8a664fd64fdcf.jpg",
+     "https://cdn2.steamgriddb.com/icon/cb11a12474e34b83e38e06d2ef1b2830.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/4a1d5168500965ca6f5d3022242bb51d.jpg",
+     "https://cdn2.steamgriddb.com/hero/41c05bb0f37dfa59e122b5ad6f2da83c.png",
+     "https://cdn2.steamgriddb.com/hero/ef574be2598b8656a2aa4509691196bf.png",
+     "https://cdn2.steamgriddb.com/hero/ec151b6ecbb40275f4ac68bc99635554.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/226d79aa40ebcb026431aecf47538f22.png",
+     "https://cdn2.steamgriddb.com/logo/c1285fcadc52c0d3dc8813fc2c2e2b2a.png",
+     "https://cdn2.steamgriddb.com/logo/11f2e297146f82c901fd996a6d9516f9.png",
+     "https://cdn2.steamgriddb.com/logo/4927480cd40d394844576698f58f7c34.png"
+    ]
    }
   },
   {
@@ -597,7 +1279,20 @@
     "name": "Road Rash 64",
     "icon": "https://cdn2.steamgriddb.com/grid/9eb6460d1c24765d45005f4dde1e5da1.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/b8ba4466c47209f470ae8902069192a6.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/d9c892e2c283d74916880d3190eba780.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/d9c892e2c283d74916880d3190eba780.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/9eb6460d1c24765d45005f4dde1e5da1.jpg",
+     "https://cdn2.steamgriddb.com/icon/84fc80be70d6ffd85f3f172f1f8ea150.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/b8ba4466c47209f470ae8902069192a6.jpg",
+     "https://cdn2.steamgriddb.com/hero/793d2101fe21893b3d463a6600eead38.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/d9c892e2c283d74916880d3190eba780.png",
+     "https://cdn2.steamgriddb.com/logo/2a7dcbbb68dd3cd2890a0f3c2051f7c3.png",
+     "https://cdn2.steamgriddb.com/logo/4b157ec55e41cbff18f668b0f7b232ac.png"
+    ]
    }
   },
   {
@@ -615,7 +1310,21 @@
     "name": "Rush 2: Extreme Racing USA",
     "icon": "https://cdn2.steamgriddb.com/grid/f125da05254e061e4f0669fe9708952e.png",
     "bg": "https://cdn2.steamgriddb.com/hero/f3b3f832928f8dd9dfb647c58b9f66cf.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/b3bf78811f4ad73487e119abc6eeeee3.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/b3bf78811f4ad73487e119abc6eeeee3.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/f125da05254e061e4f0669fe9708952e.png",
+     "https://cdn2.steamgriddb.com/icon/4ad0e28e42a0111151d4336455c3d6a8.png",
+     "https://cdn2.steamgriddb.com/icon/02c1f06978b821b2996ec257932f2947.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/f3b3f832928f8dd9dfb647c58b9f66cf.png",
+     "https://cdn2.steamgriddb.com/hero/57d926503f7734cbfd37436e4f403e2e.png",
+     "https://cdn2.steamgriddb.com/hero/ae5b201527b188809873d2f108db3a79.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/b3bf78811f4ad73487e119abc6eeeee3.png",
+     "https://cdn2.steamgriddb.com/logo/86276d229fb4ffc8fb814ec5a99a260f.png"
+    ]
    }
   },
   {
@@ -633,7 +1342,27 @@
     "name": "Sin and Punishment",
     "icon": "https://cdn2.steamgriddb.com/grid/0139f78123c3d6aed45a5e33411c763e.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/ab44339603db6b7d0ec51150f43a138d.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/13d2b7361a27dbc9960ae158598a6a96.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/13d2b7361a27dbc9960ae158598a6a96.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/0139f78123c3d6aed45a5e33411c763e.jpg",
+     "https://cdn2.steamgriddb.com/grid/571df4f6b7ec165287fd460a8203c4f6.jpg",
+     "https://cdn2.steamgriddb.com/grid/e869614fab4fab9ee412c1470ea584cd.png",
+     "https://cdn2.steamgriddb.com/grid/8d98ffad90a5a126aa9ec817482f51e9.png",
+     "https://cdn2.steamgriddb.com/grid/8e187e2a0185eaaeedded0d7055495f5.png",
+     "https://cdn2.steamgriddb.com/icon/7fe80a4af716a66a48bca24802cd3395.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/ab44339603db6b7d0ec51150f43a138d.png",
+     "https://cdn2.steamgriddb.com/hero/ba3c95c2962d3aab2f6e667932daa3c5.png",
+     "https://cdn2.steamgriddb.com/hero/1cf15839181cac6c06ce7f002f793645.png",
+     "https://cdn2.steamgriddb.com/hero/3d29399f1865033c39423cc4fc04dad2.png",
+     "https://cdn2.steamgriddb.com/hero/d0beb00479544393bbbaef0c735f8b05.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/13d2b7361a27dbc9960ae158598a6a96.png",
+     "https://cdn2.steamgriddb.com/logo/85e65e6138754b6cf6b99f10916325bc.png",
+     "https://cdn2.steamgriddb.com/logo/16d3f097e0d74aa1b35505bc16e33473.png"
+    ]
    }
   },
   {
@@ -651,7 +1380,25 @@
     "name": "Snowboard Kids 2",
     "icon": "https://cdn2.steamgriddb.com/grid/6024374ee77992ecabe96de89492bae8.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/4ee0331f55ba0c795f89feffdfdf1e77.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/3bbf7cb52c81e8125532adff3b21a6b4.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/3bbf7cb52c81e8125532adff3b21a6b4.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/6024374ee77992ecabe96de89492bae8.jpg",
+     "https://cdn2.steamgriddb.com/icon/25780194564b89eb52c5689daa6f3ee9.png",
+     "https://cdn2.steamgriddb.com/icon/b99c61acedb54c5253819b7b4f2d88c6.png",
+     "https://cdn2.steamgriddb.com/icon/4c26f3c294ff6d640721fc6519792840.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/4ee0331f55ba0c795f89feffdfdf1e77.png",
+     "https://cdn2.steamgriddb.com/hero/63aec506bcfd90818d4d4eeed163edf6.png",
+     "https://cdn2.steamgriddb.com/hero/9a2df0715e604dc5b670a2ffcc67dbc7.png",
+     "https://cdn2.steamgriddb.com/hero/6d0ca152a941f960431082ec429f6f11.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/3bbf7cb52c81e8125532adff3b21a6b4.png",
+     "https://cdn2.steamgriddb.com/logo/c6bf6e187ecc94ef5d439c556499dcdd.png",
+     "https://cdn2.steamgriddb.com/logo/e2459ae2cf7921589685a6835ec08a7c.png",
+     "https://cdn2.steamgriddb.com/logo/7d4ba7006351436c35e283b0be8ff56c.png"
+    ]
    }
   },
   {
@@ -669,7 +1416,31 @@
     "name": "Star Fox 64",
     "icon": "https://cdn2.steamgriddb.com/grid/49e9f8423edb066bd96c3b4e70b29cde.png",
     "bg": "https://cdn2.steamgriddb.com/hero/44adaadb095f40b587f4b409ac55799b.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/ad3019b856147c17e82a5bead782d2a8.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/ad3019b856147c17e82a5bead782d2a8.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/49e9f8423edb066bd96c3b4e70b29cde.png",
+     "https://cdn2.steamgriddb.com/grid/c029327a331c4c8655cb70eba01f91dd.png",
+     "https://cdn2.steamgriddb.com/grid/acc4cfc0773695795955f187d86342c3.png",
+     "https://cdn2.steamgriddb.com/grid/07abc3585f80ad84e8ede7fa2f989f8a.png",
+     "https://cdn2.steamgriddb.com/grid/082caba94952850aff270036bd9e4087.png",
+     "https://cdn2.steamgriddb.com/grid/8968e3b4bc8370b509829040ff598191.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/44adaadb095f40b587f4b409ac55799b.png",
+     "https://cdn2.steamgriddb.com/hero/e98f2cd4e9f56a133abed423adb51d83.png",
+     "https://cdn2.steamgriddb.com/hero/f8c6a207291e79a303cd2b3ab3e2c338.png",
+     "https://cdn2.steamgriddb.com/hero/750535b7bdc0d2ee24867a8af9a00eb8.png",
+     "https://cdn2.steamgriddb.com/hero/987581a99586d19c524adc1de15e55fa.jpg",
+     "https://cdn2.steamgriddb.com/hero/419ee836f207c09d92566feaa14320d2.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/ad3019b856147c17e82a5bead782d2a8.png",
+     "https://cdn2.steamgriddb.com/logo/3ae6b1b2983d98afcd8339f505ed3f99.png",
+     "https://cdn2.steamgriddb.com/logo/d6046ef7653a25bc27fb27d25a1a8231.png",
+     "https://cdn2.steamgriddb.com/logo/d57f215a0e98f0f690420a2f74db4a3a.png",
+     "https://cdn2.steamgriddb.com/logo/885ba199275142ac34d3d82df0db23ff.png",
+     "https://cdn2.steamgriddb.com/logo/84e2d85ac232c681a641da1ec663888c.png"
+    ]
    }
   },
   {
@@ -687,7 +1458,31 @@
     "name": "Star Wars: Shadows of the Empire",
     "icon": "https://cdn2.steamgriddb.com/grid/9dcf69917f7c5184ab1b674ef4e16879.png",
     "bg": "https://cdn2.steamgriddb.com/hero/7439aebdba054f0d586d486ef2aff185.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/f072c02ed22738d28a2d25004b7ecabf.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/f072c02ed22738d28a2d25004b7ecabf.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/9dcf69917f7c5184ab1b674ef4e16879.png",
+     "https://cdn2.steamgriddb.com/grid/477314dafdcb99b3a0669df7a332e89b.jpg",
+     "https://cdn2.steamgriddb.com/grid/dd02a1e32f7759c27294add6f7703ba5.png",
+     "https://cdn2.steamgriddb.com/grid/15eb15452880005f308afc2e0fd2cea8.jpg",
+     "https://cdn2.steamgriddb.com/grid/5356a5844174dff8b479b14cacba5a5d.png",
+     "https://cdn2.steamgriddb.com/icon/0a8d0a30ada365aee33dbf72fda7574e.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/7439aebdba054f0d586d486ef2aff185.jpg",
+     "https://cdn2.steamgriddb.com/hero/a1c7060e48b086dff8f6e99abbfb181f.jpg",
+     "https://cdn2.steamgriddb.com/hero/4fb9fcb56f47c3d23af54d8d4f6a1a70.png",
+     "https://cdn2.steamgriddb.com/hero/cb757ef40153ca7301d5333de1be4e06.jpg",
+     "https://cdn2.steamgriddb.com/hero/81331a8cf636255e17bf71774e48d128.png",
+     "https://cdn2.steamgriddb.com/hero/cb7674c0e44a3537195cb842b9618780.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/f072c02ed22738d28a2d25004b7ecabf.png",
+     "https://cdn2.steamgriddb.com/logo/d191679a67bcb50d3488be82cf849b26.png",
+     "https://cdn2.steamgriddb.com/logo/4297ef5f39f4aeb86d80ec9744cd2990.png",
+     "https://cdn2.steamgriddb.com/logo/d8746340fb08cbbcafb862ae4194b236.png",
+     "https://cdn2.steamgriddb.com/logo/d54a0a556dbe9f250c7bb9e9518528ea.png",
+     "https://cdn2.steamgriddb.com/logo/00eb5f6aa567055a9ee5ee9f6ad105a4.png"
+    ]
    }
   },
   {
@@ -705,7 +1500,31 @@
     "name": "Wave Race 64",
     "icon": "https://cdn2.steamgriddb.com/grid/427c739736855e6a017cbb0d316e7de8.png",
     "bg": "https://cdn2.steamgriddb.com/hero/bbe62ff5da2b206721427d943e8ae991.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/92c3b916311a5517d9290576e3ea37ad.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/92c3b916311a5517d9290576e3ea37ad.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/427c739736855e6a017cbb0d316e7de8.png",
+     "https://cdn2.steamgriddb.com/grid/0d9621372e1dd944bcda1e69184fed14.png",
+     "https://cdn2.steamgriddb.com/grid/2d6d5b5738deaf337a35a304c138b3ca.png",
+     "https://cdn2.steamgriddb.com/grid/8ed3822b670ec3b56cad9a5e875a3515.jpg",
+     "https://cdn2.steamgriddb.com/grid/d1b3fdf04ce87059f276a0531fccd947.png",
+     "https://cdn2.steamgriddb.com/icon/65c2dd61d53e765e7c7363dbfe10cdd9.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/bbe62ff5da2b206721427d943e8ae991.jpg",
+     "https://cdn2.steamgriddb.com/hero/531abb77a299a74142b3c5ade535937c.png",
+     "https://cdn2.steamgriddb.com/hero/697351b2772b60009ce9c1c62a795d75.png",
+     "https://cdn2.steamgriddb.com/hero/4941b2c63cd971d8e61161526f87be9d.jpg",
+     "https://cdn2.steamgriddb.com/hero/1f35b4dbae885d0aaf30d1d47cd9781c.jpg",
+     "https://cdn2.steamgriddb.com/hero/faf9479f99fb84e29665b8160235c3cf.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/92c3b916311a5517d9290576e3ea37ad.png",
+     "https://cdn2.steamgriddb.com/logo/756076707ca96bb0c392f56fec0645ca.png",
+     "https://cdn2.steamgriddb.com/logo/a417d3a8bb75bd53319969ecebbd1f06.png",
+     "https://cdn2.steamgriddb.com/logo/a245608ea2bdfd7bd8bb3ea2c8ae094b.png",
+     "https://cdn2.steamgriddb.com/logo/21b8f5e5757e9df89b5f194d7d963f42.png",
+     "https://cdn2.steamgriddb.com/logo/3c69ccff8acc065aa5618b36b74703de.png"
+    ]
    }
   },
   {
@@ -723,7 +1542,30 @@
     "name": "Castlevania: Legacy of Darkness",
     "icon": "https://cdn2.steamgriddb.com/grid/98205b58f3c9541137734ab5d87daaec.png",
     "bg": "https://cdn2.steamgriddb.com/hero/e5b8a279cf6f57a64bef77259348e714.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/83d788e65786046542c9354d17b92450.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/83d788e65786046542c9354d17b92450.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/98205b58f3c9541137734ab5d87daaec.png",
+     "https://cdn2.steamgriddb.com/grid/9310f11ac58d49347a86e983047633b4.jpg",
+     "https://cdn2.steamgriddb.com/grid/74d595a5fa697dbbf5755f35c430f0a1.png",
+     "https://cdn2.steamgriddb.com/grid/7000a6f7d3df068f2f708dcacda6bd2a.png",
+     "https://cdn2.steamgriddb.com/grid/5cd8d04f5a3563888e117d56e9419c0b.png",
+     "https://cdn2.steamgriddb.com/icon/78b643f95b8a60758e226e7a0555dde3.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/e5b8a279cf6f57a64bef77259348e714.png",
+     "https://cdn2.steamgriddb.com/hero/76d0863b5d13a9ed61f7df9149fb93d8.png",
+     "https://cdn2.steamgriddb.com/hero/5432d17da264c7575407733a6c995d2e.png",
+     "https://cdn2.steamgriddb.com/hero/dcced9553f71b6adcbc8e6558cd79ff0.png",
+     "https://cdn2.steamgriddb.com/hero/06a2aff760a42c9a7458eb8273c0666a.png",
+     "https://cdn2.steamgriddb.com/hero/51b2e0cf0cddae62ac04b25ab037a94f.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/83d788e65786046542c9354d17b92450.png",
+     "https://cdn2.steamgriddb.com/logo/2cfa47a65809ea0496bbf9aa363dc5da.png",
+     "https://cdn2.steamgriddb.com/logo/69ca8f0f8fd6572165bbedc3ac5c1427.png",
+     "https://cdn2.steamgriddb.com/logo/e66c5274e6f9934123311dc43ff35097.png",
+     "https://cdn2.steamgriddb.com/logo/e2523181b8f7a75bd731874c36ba0602.png"
+    ]
    }
   },
   {
@@ -741,7 +1583,31 @@
     "name": "Ape Escape",
     "icon": "https://cdn2.steamgriddb.com/grid/498726f0ce401dec046932a7bc75c790.png",
     "bg": "https://cdn2.steamgriddb.com/hero/b19344473680a608f6216314a9df63a2.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/0868dbe2d591f3c1beb2f6dd50bdb72e.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/0868dbe2d591f3c1beb2f6dd50bdb72e.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/498726f0ce401dec046932a7bc75c790.png",
+     "https://cdn2.steamgriddb.com/grid/ad9c21e0ebd7dc8f674bdee676370211.png",
+     "https://cdn2.steamgriddb.com/grid/aa77354f9e349c2ba2174e3c1cc5506d.jpg",
+     "https://cdn2.steamgriddb.com/grid/5d08fd764d25122c278fd9f8616aa11e.jpg",
+     "https://cdn2.steamgriddb.com/grid/50de2672c495981bd573109224906e16.png",
+     "https://cdn2.steamgriddb.com/grid/e65c3c98a7c607e56f5335bcb1a05447.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/b19344473680a608f6216314a9df63a2.png",
+     "https://cdn2.steamgriddb.com/hero/a9cc6694dc40736d7a2ec018ea566113.png",
+     "https://cdn2.steamgriddb.com/hero/254afe6069e6797ec78b87d67b4dfa80.png",
+     "https://cdn2.steamgriddb.com/hero/bc8c57593883fd7683cb01a385774235.png",
+     "https://cdn2.steamgriddb.com/hero/a8be20563f1dc75141732d917b67f4ae.png",
+     "https://cdn2.steamgriddb.com/hero/12e1ecaadbd93c739b46005be17b47cb.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/0868dbe2d591f3c1beb2f6dd50bdb72e.png",
+     "https://cdn2.steamgriddb.com/logo/ed1d136ff42ccec596038ba1c11c8a46.png",
+     "https://cdn2.steamgriddb.com/logo/381d7e267bbd43284231ba428e3fe791.png",
+     "https://cdn2.steamgriddb.com/logo/89c86ad4bb118af4b7d49925b1b319e1.png",
+     "https://cdn2.steamgriddb.com/logo/c15195a2b05a7c71389302876168bc05.png",
+     "https://cdn2.steamgriddb.com/logo/ac54bf81fe9be52192d5bf80d96ff87d.png"
+    ]
    }
   },
   {
@@ -759,7 +1625,31 @@
     "name": "MediEvil",
     "icon": "https://cdn2.steamgriddb.com/grid/95aacba238834b3b2c3d3d2b91476d41.png",
     "bg": "https://cdn2.steamgriddb.com/hero/430579c489bddb6b10e67206face1d18.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/a188af0bc920853d3673ab71c5f2a440.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/a188af0bc920853d3673ab71c5f2a440.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/95aacba238834b3b2c3d3d2b91476d41.png",
+     "https://cdn2.steamgriddb.com/grid/cc6b5bf6d3af6e612c4ff1cf9c941edf.jpg",
+     "https://cdn2.steamgriddb.com/grid/bf88cad89d510e262e9ac363f04b38b5.jpg",
+     "https://cdn2.steamgriddb.com/grid/00f7998d4693bb386c24f1ba44719769.png",
+     "https://cdn2.steamgriddb.com/grid/ea344d61450b6bef6895f42ce3a149ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/c77e675993cc7248393a64abe8831c33.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/430579c489bddb6b10e67206face1d18.jpg",
+     "https://cdn2.steamgriddb.com/hero/d996bee9380f388cb5c3e14ca2a7009d.jpg",
+     "https://cdn2.steamgriddb.com/hero/5a90a1690d1b28d50a651553c9a6958f.png",
+     "https://cdn2.steamgriddb.com/hero/3f8eabe32f7ac2713a9724d5c1914cf7.jpg",
+     "https://cdn2.steamgriddb.com/hero/9302910a7c554feddb7810b9a9e58b79.jpg",
+     "https://cdn2.steamgriddb.com/hero/6e34a860976f17c0cb9ce33ad1c9df4a.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/a188af0bc920853d3673ab71c5f2a440.png",
+     "https://cdn2.steamgriddb.com/logo/5d599fc8f46d75efc30d93e0c500bf6f.png",
+     "https://cdn2.steamgriddb.com/logo/4e44273d7973e629872ce385aa6612d3.png",
+     "https://cdn2.steamgriddb.com/logo/d0f5e5dc5962cf1290819e3814670481.png",
+     "https://cdn2.steamgriddb.com/logo/f386ec0475db6270613db002e5168828.png",
+     "https://cdn2.steamgriddb.com/logo/c54f5f8a49b7aaa610854a9a20092414.png"
+    ]
    }
   },
   {
@@ -777,7 +1667,31 @@
     "name": "MediEvil",
     "icon": "https://cdn2.steamgriddb.com/grid/95aacba238834b3b2c3d3d2b91476d41.png",
     "bg": "https://cdn2.steamgriddb.com/hero/430579c489bddb6b10e67206face1d18.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/a188af0bc920853d3673ab71c5f2a440.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/a188af0bc920853d3673ab71c5f2a440.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/95aacba238834b3b2c3d3d2b91476d41.png",
+     "https://cdn2.steamgriddb.com/grid/cc6b5bf6d3af6e612c4ff1cf9c941edf.jpg",
+     "https://cdn2.steamgriddb.com/grid/bf88cad89d510e262e9ac363f04b38b5.jpg",
+     "https://cdn2.steamgriddb.com/grid/00f7998d4693bb386c24f1ba44719769.png",
+     "https://cdn2.steamgriddb.com/grid/ea344d61450b6bef6895f42ce3a149ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/c77e675993cc7248393a64abe8831c33.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/430579c489bddb6b10e67206face1d18.jpg",
+     "https://cdn2.steamgriddb.com/hero/d996bee9380f388cb5c3e14ca2a7009d.jpg",
+     "https://cdn2.steamgriddb.com/hero/5a90a1690d1b28d50a651553c9a6958f.png",
+     "https://cdn2.steamgriddb.com/hero/3f8eabe32f7ac2713a9724d5c1914cf7.jpg",
+     "https://cdn2.steamgriddb.com/hero/9302910a7c554feddb7810b9a9e58b79.jpg",
+     "https://cdn2.steamgriddb.com/hero/6e34a860976f17c0cb9ce33ad1c9df4a.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/a188af0bc920853d3673ab71c5f2a440.png",
+     "https://cdn2.steamgriddb.com/logo/5d599fc8f46d75efc30d93e0c500bf6f.png",
+     "https://cdn2.steamgriddb.com/logo/4e44273d7973e629872ce385aa6612d3.png",
+     "https://cdn2.steamgriddb.com/logo/d0f5e5dc5962cf1290819e3814670481.png",
+     "https://cdn2.steamgriddb.com/logo/f386ec0475db6270613db002e5168828.png",
+     "https://cdn2.steamgriddb.com/logo/c54f5f8a49b7aaa610854a9a20092414.png"
+    ]
    }
   },
   {
@@ -795,7 +1709,29 @@
     "name": "Twisted Metal",
     "icon": "https://cdn2.steamgriddb.com/grid/893fbe2f4bd5a8d14fd4979d77aba474.png",
     "bg": "https://cdn2.steamgriddb.com/hero/663cbae89ccfbb0ab05119a672fb1b9e.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/8dd27ef9cff2bc385d5ae7ddae409e7f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/8dd27ef9cff2bc385d5ae7ddae409e7f.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/893fbe2f4bd5a8d14fd4979d77aba474.png",
+     "https://cdn2.steamgriddb.com/grid/26c0766f2c4230fcfb52fc81d846c928.png",
+     "https://cdn2.steamgriddb.com/grid/472927925a8f39dca818b8ae38c296a4.png",
+     "https://cdn2.steamgriddb.com/grid/48159acc4c798f0217ce7e40fa83d762.png",
+     "https://cdn2.steamgriddb.com/icon/5fcc629edc0cfa360016263112fe8058.png",
+     "https://cdn2.steamgriddb.com/icon/08860acb2e1ce88385ffe4badc802922.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/663cbae89ccfbb0ab05119a672fb1b9e.png",
+     "https://cdn2.steamgriddb.com/hero/ead81fe8cfe9fda9e4c2093e17e4d024.png",
+     "https://cdn2.steamgriddb.com/hero/61df7864440c5967d0e800581ead1996.png",
+     "https://cdn2.steamgriddb.com/hero/cee654d6bd1522d79347cd77e6e2de99.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/8dd27ef9cff2bc385d5ae7ddae409e7f.png",
+     "https://cdn2.steamgriddb.com/logo/a6a6747117519d0d5a91b57b5d63db32.png",
+     "https://cdn2.steamgriddb.com/logo/a728f25dd7e2fd0c61730a517cb5659e.png",
+     "https://cdn2.steamgriddb.com/logo/dc21753db42f43c29b7afb732f3c921c.png",
+     "https://cdn2.steamgriddb.com/logo/e746ec9d02541b374a9aead8fdb941fe.png",
+     "https://cdn2.steamgriddb.com/logo/4174db5b855b4483941556f9b517fc2a.png"
+    ]
    }
   },
   {
@@ -813,7 +1749,23 @@
     "name": "Twisted Metal 4",
     "icon": "https://cdn2.steamgriddb.com/grid/ee71146fefbfe0e31502f9dbdb39fa0e.png",
     "bg": "https://cdn2.steamgriddb.com/hero/0cd6a652ed1f7811192db1f700c8f0e7.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/9915092855e060669372117f22058ef0.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/9915092855e060669372117f22058ef0.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/ee71146fefbfe0e31502f9dbdb39fa0e.png",
+     "https://cdn2.steamgriddb.com/grid/14a92e36de95cb02f0e7a97fe30e742d.png",
+     "https://cdn2.steamgriddb.com/grid/918e5a4d782ae795501d759aaa05c77d.png",
+     "https://cdn2.steamgriddb.com/grid/831fe2d40589b24be052ff325ceaa020.jpg",
+     "https://cdn2.steamgriddb.com/icon/70de03c5509a35d2dc2d7038bf1f27d2.ico",
+     "https://cdn2.steamgriddb.com/icon/1b2576dc7715a014fc207453d1e52667.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/0cd6a652ed1f7811192db1f700c8f0e7.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/9915092855e060669372117f22058ef0.png",
+     "https://cdn2.steamgriddb.com/logo/9d467a504559e0771ceab58768bfd3fc.png",
+     "https://cdn2.steamgriddb.com/logo/5ef82e9c23e023e93a16e87d09cc76ab.png"
+    ]
    }
   },
   {
@@ -831,7 +1783,19 @@
     "name": "Rage Racer",
     "icon": "https://cdn2.steamgriddb.com/grid/38eef06226c200905c7869da1cad1615.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/9efd228f67d1bffa56c0e5f73bdcc18e.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/f335ec1e9525c9796a1fc264625e7a14.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/f335ec1e9525c9796a1fc264625e7a14.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/38eef06226c200905c7869da1cad1615.jpg",
+     "https://cdn2.steamgriddb.com/icon/780261c4b9a55cd803080619d0cc3e11.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/9efd228f67d1bffa56c0e5f73bdcc18e.png",
+     "https://cdn2.steamgriddb.com/hero/81d37c2fa56c7ed0674b53f766ae3480.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/f335ec1e9525c9796a1fc264625e7a14.png",
+     "https://cdn2.steamgriddb.com/logo/055b2b84296ef4d09438b2b97bfdc6d4.png"
+    ]
    }
   },
   {
@@ -849,7 +1813,26 @@
     "name": "Vigilante 8",
     "icon": "https://cdn2.steamgriddb.com/grid/d16cdf2444876b81bbd0b34bf288955c.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/afab3e9707435d6b0888b566d7ad3ff8.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/a4b27a868352d101e2a7317a3da1de9a.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/a4b27a868352d101e2a7317a3da1de9a.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/d16cdf2444876b81bbd0b34bf288955c.jpg",
+     "https://cdn2.steamgriddb.com/grid/0e32734760cf2e3513548a95a397c6f2.jpg",
+     "https://cdn2.steamgriddb.com/grid/531412e90c4d06f4782532abb2a9dd1a.png",
+     "https://cdn2.steamgriddb.com/icon/5c189c8af264bcf258bf18cd0a8328eb.png",
+     "https://cdn2.steamgriddb.com/icon/e4eb156ab5ddb01cceec9a1bf29e3be5.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/afab3e9707435d6b0888b566d7ad3ff8.png",
+     "https://cdn2.steamgriddb.com/hero/42b72b4499178193d512e5be793df3c9.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/a4b27a868352d101e2a7317a3da1de9a.png",
+     "https://cdn2.steamgriddb.com/logo/6183fa3af78401462fe2cd9c1ce4afff.png",
+     "https://cdn2.steamgriddb.com/logo/d8924c1ad5fd09cef29eb79cd8e1d1cf.png",
+     "https://cdn2.steamgriddb.com/logo/86d799bce2d2e19a929c77f0c082a756.png",
+     "https://cdn2.steamgriddb.com/logo/761b42cfff120aac30045f7a110d0256.png",
+     "https://cdn2.steamgriddb.com/logo/db7f1194e147a97cc70203f89ad09be0.png"
+    ]
    }
   },
   {
@@ -867,7 +1850,25 @@
     "name": "Yu-Gi-Oh! Forbidden Memories",
     "icon": "https://cdn2.steamgriddb.com/grid/914214030c263b3907749fd2ae051349.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/d45b6d92e35ff59d3f5a1861e431d581.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/0599212ac5b4670c30619bac376c189c.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/0599212ac5b4670c30619bac376c189c.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/914214030c263b3907749fd2ae051349.jpg",
+     "https://cdn2.steamgriddb.com/grid/c6027581483c0205dd67edb41b30508d.png",
+     "https://cdn2.steamgriddb.com/icon/efe937780e95574250dabe07151bdc23.png",
+     "https://cdn2.steamgriddb.com/icon/0f81b047222c179c20bfeef2b050f038.ico",
+     "https://cdn2.steamgriddb.com/icon/90be8d6669f79fdef00cd86d96142d84.png",
+     "https://cdn2.steamgriddb.com/icon/497dd78b608f8581e4db9a3d17bbad8b.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/d45b6d92e35ff59d3f5a1861e431d581.png",
+     "https://cdn2.steamgriddb.com/hero/ed89e6477ff6a465891a5f17f77948ae.png",
+     "https://cdn2.steamgriddb.com/hero/4ad555cf973f35452d5815d268f2d1a5.png",
+     "https://cdn2.steamgriddb.com/hero/6be3d19ab7e36c9037a757571f0ced6c.png",
+     "https://cdn2.steamgriddb.com/hero/689e5f854a22b3d0aec628745ffa7634.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/0599212ac5b4670c30619bac376c189c.png"
+    ]
    }
   },
   {
@@ -885,7 +1886,26 @@
     "name": "Def Jam: Vendetta",
     "icon": "https://cdn2.steamgriddb.com/grid/a76fd4f6f87fce0b5b76f69994827883.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3fd7d338bed9d331284813efc8c1a11f.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/cdcfb1c07205f7057b0a305eb21e72d5.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/cdcfb1c07205f7057b0a305eb21e72d5.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/a76fd4f6f87fce0b5b76f69994827883.jpg",
+     "https://cdn2.steamgriddb.com/grid/c6267f1d9379f1ee71578d49562476c1.png",
+     "https://cdn2.steamgriddb.com/icon/06f2e099b4f87109d52e15d7c05f0084.png",
+     "https://cdn2.steamgriddb.com/icon/9a3635f9e53aa331e527125d8dce6092.png",
+     "https://cdn2.steamgriddb.com/icon/529f2b00d5f0ad560fac9cb62038504c.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3fd7d338bed9d331284813efc8c1a11f.png",
+     "https://cdn2.steamgriddb.com/hero/2b868f86f1031688cb3d742857ad8c24.png",
+     "https://cdn2.steamgriddb.com/hero/788117e45830fe1ff21da0c7c7a6aff5.png",
+     "https://cdn2.steamgriddb.com/hero/57c7a0e5e1fe44af505cb32552d9403b.png",
+     "https://cdn2.steamgriddb.com/hero/56e2cacee3013d65899f9d0522a893f8.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/cdcfb1c07205f7057b0a305eb21e72d5.png",
+     "https://cdn2.steamgriddb.com/logo/282ed79347cfc23fc4a700154d671e05.png",
+     "https://cdn2.steamgriddb.com/logo/8beca3817318ec14b010b1e4a39b4380.png"
+    ]
    }
   },
   {
@@ -903,7 +1923,22 @@
     "name": "NBA Street V3",
     "icon": "https://cdn2.steamgriddb.com/grid/e453f5727f6997393053313e2c6474d9.png",
     "bg": "https://cdn2.steamgriddb.com/hero/df132656c11853d6118fe9d36eaba5e1.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/5c939751a356d66af37a9e339980c9b7.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/5c939751a356d66af37a9e339980c9b7.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/e453f5727f6997393053313e2c6474d9.png",
+     "https://cdn2.steamgriddb.com/grid/18e96374e63bb61459e97eccc12995a3.png",
+     "https://cdn2.steamgriddb.com/icon/e3e070840f86ee3f6273e64349500a7b.png",
+     "https://cdn2.steamgriddb.com/icon/b7da6c184018c1c085e1e025ba678014.png",
+     "https://cdn2.steamgriddb.com/icon/6e28943943dbed3c7f82fc05f269947a.png",
+     "https://cdn2.steamgriddb.com/icon/566f0ea4f6c2e947f36795c8f58ba901.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/df132656c11853d6118fe9d36eaba5e1.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/5c939751a356d66af37a9e339980c9b7.png",
+     "https://cdn2.steamgriddb.com/logo/7ffe08e7623a46843e73565ae1618f5b.png"
+    ]
    }
   },
   {
@@ -921,7 +1956,23 @@
     "name": "Rampage: Total Destruction",
     "icon": "https://cdn2.steamgriddb.com/grid/5ba6dd6b6d6d0436b0b89d8daf603604.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3b09598db9f9231513fff10ba7aae16f.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/80e95d403709b12e758a590b74d9965e.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/80e95d403709b12e758a590b74d9965e.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5ba6dd6b6d6d0436b0b89d8daf603604.jpg",
+     "https://cdn2.steamgriddb.com/grid/16f1782789074319b1a829c2c2f2b0e9.png",
+     "https://cdn2.steamgriddb.com/grid/da07b9cf61a8258c7ebbb84f858be720.png",
+     "https://cdn2.steamgriddb.com/icon/ba3c736667394d5082f86f28aef38107.png",
+     "https://cdn2.steamgriddb.com/icon/ad59725c2849487f72545fa97298bcad.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3b09598db9f9231513fff10ba7aae16f.png",
+     "https://cdn2.steamgriddb.com/hero/d30799883a985cbf946620d535fc86a1.png",
+     "https://cdn2.steamgriddb.com/hero/efbdafbc8adea6e9920633bc8ceea86e.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/80e95d403709b12e758a590b74d9965e.png",
+     "https://cdn2.steamgriddb.com/logo/614a4db226bdaf4ffdbf60e37eda9213.png"
+    ]
    }
   },
   {
@@ -939,7 +1990,25 @@
     "name": "Ridge Racer V",
     "icon": "https://cdn2.steamgriddb.com/grid/925f09ae685e515fe5525a8fecd97deb.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/92b1f191dfce9fff64b4effd954ccaab.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/868d3e19e2f0bd6c95606283eb384bd2.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/868d3e19e2f0bd6c95606283eb384bd2.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/925f09ae685e515fe5525a8fecd97deb.jpg",
+     "https://cdn2.steamgriddb.com/grid/acae0fa47d5b6cd14c866975a217f504.png",
+     "https://cdn2.steamgriddb.com/icon/6c7de1f27f7de61a6daddfffbe05c058.ico",
+     "https://cdn2.steamgriddb.com/icon/fcdbc4f504a15df8f78da88ee72fad32.ico",
+     "https://cdn2.steamgriddb.com/icon/38fd577719a20b566bec71465f6433c7.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/92b1f191dfce9fff64b4effd954ccaab.jpg",
+     "https://cdn2.steamgriddb.com/hero/a8dae5699a9da2c474c872de287f1bb9.png",
+     "https://cdn2.steamgriddb.com/hero/fc5bbeb3f3a9051f9c7f3cf8b77434fb.jpg",
+     "https://cdn2.steamgriddb.com/hero/2e8c9ec0a94375617e4f142e6156c2b3.jpg",
+     "https://cdn2.steamgriddb.com/hero/7d543beb69c1a13b3f149e3e41017eaf.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/868d3e19e2f0bd6c95606283eb384bd2.png",
+     "https://cdn2.steamgriddb.com/logo/f6f658b6c7f13e833d7f81797e9a0869.png"
+    ]
    }
   },
   {
@@ -957,7 +2026,31 @@
     "name": "Sly Cooper and the Thievius Raccoonus",
     "icon": "https://cdn2.steamgriddb.com/grid/0641427e9032aa2968f6d2b0b4fc02a7.png",
     "bg": "https://cdn2.steamgriddb.com/hero/c7888edd02f2814e2f8053e32e578bae.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/7c5fbb25e971b5c8edcfabefaf3681cf.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/7c5fbb25e971b5c8edcfabefaf3681cf.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/0641427e9032aa2968f6d2b0b4fc02a7.png",
+     "https://cdn2.steamgriddb.com/grid/47a41c7b7e2cc9f36262388ea58ce3f4.png",
+     "https://cdn2.steamgriddb.com/grid/f91741ac6287adda1df103bdf30a8ccb.png",
+     "https://cdn2.steamgriddb.com/grid/82e8a0acce4d1bcefdea4d2044a3755e.png",
+     "https://cdn2.steamgriddb.com/grid/984f8fbed2badfb76b50aba90f8c7c55.png",
+     "https://cdn2.steamgriddb.com/grid/d9f1eb744cafa2075292d02b1acb64d6.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/c7888edd02f2814e2f8053e32e578bae.jpg",
+     "https://cdn2.steamgriddb.com/hero/63868bbd968dad0800e9a1fa5113a3d9.png",
+     "https://cdn2.steamgriddb.com/hero/bdb50e9cceca46b46083dbfd8c96618a.jpg",
+     "https://cdn2.steamgriddb.com/hero/6ffc79f9decf633c29b09e6c25621195.png",
+     "https://cdn2.steamgriddb.com/hero/d994e3728ba5e28defb88a3289cd7ee8.png",
+     "https://cdn2.steamgriddb.com/hero/853fc58827f222d73329b9d56f0c1926.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/7c5fbb25e971b5c8edcfabefaf3681cf.png",
+     "https://cdn2.steamgriddb.com/logo/1977b575ffa6d1708a5e3eb9ccd851cc.png",
+     "https://cdn2.steamgriddb.com/logo/c7a50501fae9cbfd526e077b01fcd494.png",
+     "https://cdn2.steamgriddb.com/logo/2881b1f745544d248a0263e6f973d87f.png",
+     "https://cdn2.steamgriddb.com/logo/e002053e617cb421a0e25a2908e89ccc.png",
+     "https://cdn2.steamgriddb.com/logo/49c155ea98976cfdedfee27510f7c929.png"
+    ]
    }
   },
   {
@@ -975,7 +2068,31 @@
     "name": "Shadow of the Colossus",
     "icon": "https://cdn2.steamgriddb.com/grid/84cca5a2efb92259b9340cc54546f99e.png",
     "bg": "https://cdn2.steamgriddb.com/hero/4c27cea8526af8cfee3be5e183ac9605.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/97adbcd253402895e56cdeceb5f4ca29.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/97adbcd253402895e56cdeceb5f4ca29.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/84cca5a2efb92259b9340cc54546f99e.png",
+     "https://cdn2.steamgriddb.com/grid/22cdeda97afa215e6098c8f6abae58b6.jpg",
+     "https://cdn2.steamgriddb.com/grid/54cfaf2f02ad146af4bdd76fca7b990b.png",
+     "https://cdn2.steamgriddb.com/grid/25465eeb5cb643c0342ac18629396f4b.png",
+     "https://cdn2.steamgriddb.com/grid/09e811f541d2cf595c09ad7c1f1812c8.png",
+     "https://cdn2.steamgriddb.com/grid/4212e78322ce9d3b1fe9019fb4074357.jpg"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/4c27cea8526af8cfee3be5e183ac9605.png",
+     "https://cdn2.steamgriddb.com/hero/52c7db6d13b39481b134729cf341a3db.png",
+     "https://cdn2.steamgriddb.com/hero/24c301e049a2077855d3e37ba719b09d.png",
+     "https://cdn2.steamgriddb.com/hero/f7ba5748e6bc21c3df7d9aa0a40168df.png",
+     "https://cdn2.steamgriddb.com/hero/3cfdef4f1447147029268a257d131552.png",
+     "https://cdn2.steamgriddb.com/hero/f3308ae40c29f840f9855c1bb9e3dac3.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/97adbcd253402895e56cdeceb5f4ca29.png",
+     "https://cdn2.steamgriddb.com/logo/73ca2872fcef4234578eb337b4932d3c.png",
+     "https://cdn2.steamgriddb.com/logo/c4cc0c62c1609a6485ffb47d65974837.png",
+     "https://cdn2.steamgriddb.com/logo/1101c92ba65fb18468e246180daafb5a.png",
+     "https://cdn2.steamgriddb.com/logo/aa486f25175cbdc3854151288a645c19.png",
+     "https://cdn2.steamgriddb.com/logo/200dac7656639dfdba803ba9174406d9.png"
+    ]
    }
   },
   {
@@ -993,7 +2110,28 @@
     "name": "TimeSplitters",
     "icon": "https://cdn2.steamgriddb.com/grid/1bbc3e18e43d24fe6485eca794b05e35.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/bf66335975dc320ebc9692558107b536.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/3f9f56ea29f7b4aeed720fad19c360c5.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/3f9f56ea29f7b4aeed720fad19c360c5.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/1bbc3e18e43d24fe6485eca794b05e35.jpg",
+     "https://cdn2.steamgriddb.com/icon/ca47d49b363ef094ba80bd0b8c4e04b5.png",
+     "https://cdn2.steamgriddb.com/icon/f26e4f57971af4fc3e6b889a9408e0bb.ico",
+     "https://cdn2.steamgriddb.com/icon/e9de1fbf0d179b3d253deb9b1b89cf9b.ico",
+     "https://cdn2.steamgriddb.com/icon/82ce793b52b4f8893511fbdd2cd97e81.png",
+     "https://cdn2.steamgriddb.com/icon/9ba662df0fa19c1b3a4a89cb5f7f6079.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/bf66335975dc320ebc9692558107b536.png",
+     "https://cdn2.steamgriddb.com/hero/b18630e53b4f08f74aea5ae8d38b35e5.jpg",
+     "https://cdn2.steamgriddb.com/hero/a0bd21b405b02e7abbd7192e671e1c4e.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/3f9f56ea29f7b4aeed720fad19c360c5.png",
+     "https://cdn2.steamgriddb.com/logo/732ee57eae737c0aef2eec761e318ce7.png",
+     "https://cdn2.steamgriddb.com/logo/bfc58c81e954a4ee8722992437a86d9d.png",
+     "https://cdn2.steamgriddb.com/logo/ad635fa2def71914e0512b58e1306d4f.png",
+     "https://cdn2.steamgriddb.com/logo/380a68342428657d7b854027413eee37.png",
+     "https://cdn2.steamgriddb.com/logo/c2f0e73c942dbeae125e1979ae39ed4e.png"
+    ]
    }
   },
   {
@@ -1011,7 +2149,31 @@
     "name": "TimeSplitters 2",
     "icon": "https://cdn2.steamgriddb.com/grid/232aa02a81322f480bbc8ae5d07bdc25.png",
     "bg": "https://cdn2.steamgriddb.com/hero/15cf5f505ec38de721bfc1036ae585aa.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/9f6ec1b826b48ea843d71d30b766a2b0.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/9f6ec1b826b48ea843d71d30b766a2b0.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/232aa02a81322f480bbc8ae5d07bdc25.png",
+     "https://cdn2.steamgriddb.com/grid/8a5c3b77a53e7c635e176d7880e57f18.png",
+     "https://cdn2.steamgriddb.com/grid/7f9842ef880e0901d8b0fea3746976e0.jpg",
+     "https://cdn2.steamgriddb.com/grid/6062980d9e25a5a799cc0e4bdf3df318.jpg",
+     "https://cdn2.steamgriddb.com/icon/0628d73fb13edb198b3e66f530750b16.png",
+     "https://cdn2.steamgriddb.com/icon/bea3c20edb84a0dd83a99a9a7274bc67.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/15cf5f505ec38de721bfc1036ae585aa.png",
+     "https://cdn2.steamgriddb.com/hero/1d32607ab01409c4b6916c5cae13b269.jpg",
+     "https://cdn2.steamgriddb.com/hero/664dd896b366ffa3d207e97ca6cc6f58.jpg",
+     "https://cdn2.steamgriddb.com/hero/802ff97a1290381d236bd78ab83b84bb.png",
+     "https://cdn2.steamgriddb.com/hero/2cf203516f33059cf320d8b7ec385328.jpg",
+     "https://cdn2.steamgriddb.com/hero/70e669c966d04c913916fadb3b67b3ed.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/9f6ec1b826b48ea843d71d30b766a2b0.png",
+     "https://cdn2.steamgriddb.com/logo/20d1b1738e2f75c4629e32f1011ab25d.png",
+     "https://cdn2.steamgriddb.com/logo/f5baaf0afe419681731ec3d30dafd954.png",
+     "https://cdn2.steamgriddb.com/logo/208c538e54592a60bde61d93e10cde94.png",
+     "https://cdn2.steamgriddb.com/logo/2fc765a5ae56e285c21c75029e491ecc.png",
+     "https://cdn2.steamgriddb.com/logo/00cfaa1a8406a24a7a9f07482e2b1938.png"
+    ]
    }
   },
   {
@@ -1029,7 +2191,30 @@
     "name": "Zone of the Enders",
     "icon": "https://cdn2.steamgriddb.com/grid/f58debeb5d238781f9168c319366a572.png",
     "bg": "https://cdn2.steamgriddb.com/hero/2bfe367f6f040df48462a1a9a684ea43.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/2362184faf3bec25af1f7e04eceb6388.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/2362184faf3bec25af1f7e04eceb6388.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/f58debeb5d238781f9168c319366a572.png",
+     "https://cdn2.steamgriddb.com/grid/a1501f7402e1b9f8388bf6f24d6dcfb6.png",
+     "https://cdn2.steamgriddb.com/grid/497f9df5408916f29833ad4c1c34e295.jpg",
+     "https://cdn2.steamgriddb.com/icon/bfca6ef14263860d305b150e35b5b853.png",
+     "https://cdn2.steamgriddb.com/icon/a706b4d72de0eae9e9682f3ba03adfd7.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/2bfe367f6f040df48462a1a9a684ea43.png",
+     "https://cdn2.steamgriddb.com/hero/83cdcec08fbf90370fcf53bdd56604ff.png",
+     "https://cdn2.steamgriddb.com/hero/ac884e1cd86849fa3ee751f723e213d6.png",
+     "https://cdn2.steamgriddb.com/hero/642f9efde2b503c95c07eb238be302c9.png",
+     "https://cdn2.steamgriddb.com/hero/e72568c0f87128ebdaeded2f5bdcd083.png",
+     "https://cdn2.steamgriddb.com/hero/2b2716118bfadd3c7fa4f847898b455d.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/2362184faf3bec25af1f7e04eceb6388.png",
+     "https://cdn2.steamgriddb.com/logo/d6b42adc78b90ec74f158118359ffa6b.png",
+     "https://cdn2.steamgriddb.com/logo/41132a19d3ca8fb26d96f6ebc9e3ea0a.png",
+     "https://cdn2.steamgriddb.com/logo/20c495c192207a4ea94ce1691fecab08.png",
+     "https://cdn2.steamgriddb.com/logo/f82b0b9262366f2b5031a517d5e8c951.png",
+     "https://cdn2.steamgriddb.com/logo/5b0cea2cb2a1e89b35ef8f9de1c28356.png"
+    ]
    }
   },
   {
@@ -1047,7 +2232,31 @@
     "name": "Shadow the Hedgehog",
     "icon": "https://cdn2.steamgriddb.com/grid/2f85e749c993523acbd4823076c98919.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3447ce251398f59b274e0acfe1541df7.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/701a41e8e3ae2362bf739e5768569eb2.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/701a41e8e3ae2362bf739e5768569eb2.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/2f85e749c993523acbd4823076c98919.jpg",
+     "https://cdn2.steamgriddb.com/grid/c4aed7e41ac9ae397eacd4c001c47138.jpg",
+     "https://cdn2.steamgriddb.com/grid/4fc70c60a8ec4b1adca7930997e64a7f.png",
+     "https://cdn2.steamgriddb.com/grid/9772a51f55ea8b2f89f64371897b7987.png",
+     "https://cdn2.steamgriddb.com/grid/43f164311ab0f3febe06c5f0e88371dd.png",
+     "https://cdn2.steamgriddb.com/grid/e461493a81c6c5d36d70affef007f136.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3447ce251398f59b274e0acfe1541df7.png",
+     "https://cdn2.steamgriddb.com/hero/375abb16ea7c1f83be31ce4c3495ec41.png",
+     "https://cdn2.steamgriddb.com/hero/ede1b1327caaacabbae94b39575445cb.png",
+     "https://cdn2.steamgriddb.com/hero/2ea71f874d47888b3dfeaaea4ef68931.png",
+     "https://cdn2.steamgriddb.com/hero/69db61ce36a56178711fec066e07aeb6.png",
+     "https://cdn2.steamgriddb.com/hero/07f006a0033bd023fe9af463e6961823.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/701a41e8e3ae2362bf739e5768569eb2.png",
+     "https://cdn2.steamgriddb.com/logo/a70f80b10b21a399770b5bed0ed3e2ac.png",
+     "https://cdn2.steamgriddb.com/logo/1bf570f8d94cfeb58f0d57d4bd880e41.png",
+     "https://cdn2.steamgriddb.com/logo/2eea2ab420e3cde52f34fd7cc5d341ee.png",
+     "https://cdn2.steamgriddb.com/logo/1a639c5b180b598db2174ff3fdea7785.png",
+     "https://cdn2.steamgriddb.com/logo/225f159145e3e19e8906e3b710752937.png"
+    ]
    }
   },
   {
@@ -1065,7 +2274,30 @@
     "name": "Call of Duty: Finest Hour",
     "icon": "https://cdn2.steamgriddb.com/grid/6f719398068708598328648f94afd854.png",
     "bg": "https://cdn2.steamgriddb.com/hero/fee6e6bfe55024e4ae92983d776ecd56.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/ec4e854146d020e2bae1e0d14bf709ad.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/ec4e854146d020e2bae1e0d14bf709ad.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/6f719398068708598328648f94afd854.png",
+     "https://cdn2.steamgriddb.com/grid/cbee0d6d7663efd6e0c99b42fdb4ed41.png",
+     "https://cdn2.steamgriddb.com/grid/f93af54d12210547f110f072de8ac10f.png",
+     "https://cdn2.steamgriddb.com/grid/8defffcc6ba3010a9724b3107f60ca17.png",
+     "https://cdn2.steamgriddb.com/grid/82e9a96b5b5b1375b1c852057b35d304.png",
+     "https://cdn2.steamgriddb.com/grid/1c933cd3e521c9de88bac9f8274fd6e0.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/fee6e6bfe55024e4ae92983d776ecd56.png",
+     "https://cdn2.steamgriddb.com/hero/9597353e41e6957b5e7aa79214fcb256.png",
+     "https://cdn2.steamgriddb.com/hero/495dabfd0ca768a3c3abd672079f48b6.png",
+     "https://cdn2.steamgriddb.com/hero/7f9de271f68aa82806d74b78d74b2ab3.png",
+     "https://cdn2.steamgriddb.com/hero/8c1c3c4352835dc0617bad28bd9c6846.png",
+     "https://cdn2.steamgriddb.com/hero/2e9398b29bf0f84fb1e636bfdb02ac24.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/ec4e854146d020e2bae1e0d14bf709ad.png",
+     "https://cdn2.steamgriddb.com/logo/04e13a29797afb2d39c78104bfc8ab48.png",
+     "https://cdn2.steamgriddb.com/logo/1cfb22c107b96b5258c921f76daa44f0.png",
+     "https://cdn2.steamgriddb.com/logo/4f3274e13d61ec5ef4d382b6fa8d8fad.png",
+     "https://cdn2.steamgriddb.com/logo/bf0dbce5e0d3cea97d0588a52c8eef54.png"
+    ]
    }
   },
   {
@@ -1083,7 +2315,21 @@
     "name": "Dead Rising 2: Case Zero",
     "icon": "https://cdn2.steamgriddb.com/icon/6249cb88dd164f5f8576f26e6ca98df7.png",
     "bg": "https://cdn2.steamgriddb.com/hero/2871ee1691ab11acaf09b65164f23f59.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/04cde52d074b902ab5020b88d24391df.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/04cde52d074b902ab5020b88d24391df.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/icon/6249cb88dd164f5f8576f26e6ca98df7.png",
+     "https://cdn2.steamgriddb.com/icon/736af97802ac911f1b7f454489821925.ico",
+     "https://cdn2.steamgriddb.com/icon/75814c64e85b3353a7a71fcf0d3c4a2f.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/2871ee1691ab11acaf09b65164f23f59.jpg",
+     "https://cdn2.steamgriddb.com/hero/473cf14921e4a81aaf4fd12c5f3db145.png",
+     "https://cdn2.steamgriddb.com/hero/df50c778908ba687c7006dee97540523.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/04cde52d074b902ab5020b88d24391df.png",
+     "https://cdn2.steamgriddb.com/logo/3426ba7d0407b8b47f5050c3cb5c4302.png"
+    ]
    }
   },
   {
@@ -1101,7 +2347,18 @@
     "name": "Dead Rising 2: Case West",
     "icon": "https://cdn2.steamgriddb.com/icon/ff05a3059a8ba6f3c6af44b40233534b.ico",
     "bg": "https://cdn2.steamgriddb.com/hero/c01bb5a306ff305fccf4e814d8f927d3.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/af756aac925876d8d15666b62e6fdb32.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/af756aac925876d8d15666b62e6fdb32.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/icon/ff05a3059a8ba6f3c6af44b40233534b.ico",
+     "https://cdn2.steamgriddb.com/icon/212ad7bb06e34ce8eff54540c30efdff.ico",
+     "https://cdn2.steamgriddb.com/icon/e3195d1988d8a72e21431743e703b106.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/c01bb5a306ff305fccf4e814d8f927d3.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/af756aac925876d8d15666b62e6fdb32.png"
+    ]
    }
   },
   {
@@ -1119,7 +2376,30 @@
     "name": "Skate 3",
     "icon": "https://cdn2.steamgriddb.com/grid/200c1f6ed0eb22bf43a5a7de97f185ac.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/c255c05246a081654a0267cbb725f5a7.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/a5ae86de28cfea2be65951dbb04567ee.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/a5ae86de28cfea2be65951dbb04567ee.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/200c1f6ed0eb22bf43a5a7de97f185ac.jpg",
+     "https://cdn2.steamgriddb.com/grid/33b74cf1757095f8afdce5114f7c5822.png",
+     "https://cdn2.steamgriddb.com/grid/3a8ee397ff1906181eab1c8f8f6839c5.png",
+     "https://cdn2.steamgriddb.com/grid/dd0852133cbe00e7a873e5b0027361e8.png",
+     "https://cdn2.steamgriddb.com/grid/e8d0825bec97361e2d8b3dc8261c4134.jpg",
+     "https://cdn2.steamgriddb.com/icon/dae9ad236c11ee65425921309851a162.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/c255c05246a081654a0267cbb725f5a7.png",
+     "https://cdn2.steamgriddb.com/hero/0e5de8136d02dec40b5a077224cfc71b.jpg",
+     "https://cdn2.steamgriddb.com/hero/06c18b3b6efcda74c9893bb840acd28e.png",
+     "https://cdn2.steamgriddb.com/hero/19cbb0bd10e082c0b90a5ab62a55678a.jpg",
+     "https://cdn2.steamgriddb.com/hero/be7a0f21502fcf313af732948d8003c6.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/a5ae86de28cfea2be65951dbb04567ee.png",
+     "https://cdn2.steamgriddb.com/logo/690e6de4e3e2c0916b6160d9959d156b.png",
+     "https://cdn2.steamgriddb.com/logo/1e6056272785711944eac49558205243.png",
+     "https://cdn2.steamgriddb.com/logo/ca13cd7012d570d2b20eec3afe7bc1a9.png",
+     "https://cdn2.steamgriddb.com/logo/e3efff5eac2e06e30b5d2073b765876b.png",
+     "https://cdn2.steamgriddb.com/logo/71ffa17407d66e134442eebb32d330ec.png"
+    ]
    }
   },
   {
@@ -1137,7 +2417,23 @@
     "name": "Viva Pinata: Trouble in Paradise",
     "icon": "https://cdn2.steamgriddb.com/grid/f359e4e6d11273c7eda7ba28001ce159.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/b5e9c7ea20276c57e2e893343186fffd.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/303d0012fd8d7ef9e9f6917dc6e938f0.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/303d0012fd8d7ef9e9f6917dc6e938f0.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/f359e4e6d11273c7eda7ba28001ce159.jpg",
+     "https://cdn2.steamgriddb.com/grid/e932e9d558ca5ae7cf165d8b3778177e.jpg",
+     "https://cdn2.steamgriddb.com/grid/0daab5f7f05cc5098866c3fb2e245ebc.jpg",
+     "https://cdn2.steamgriddb.com/icon/b41785e01b7f3ae10e9cbdb6dc452ed0.png",
+     "https://cdn2.steamgriddb.com/icon/3d39aef0c3318fa5570d19ce5d3cd24b.png",
+     "https://cdn2.steamgriddb.com/icon/26cb01884a647829fce6479fbb176337.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/b5e9c7ea20276c57e2e893343186fffd.png",
+     "https://cdn2.steamgriddb.com/hero/5a628e687ed08591b18c92a117021354.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/303d0012fd8d7ef9e9f6917dc6e938f0.png",
+     "https://cdn2.steamgriddb.com/logo/6b92eb77d8570eda9ec81399569a5183.png"
+    ]
    }
   },
   {
@@ -1155,7 +2451,31 @@
     "name": "Castlevania: Symphony of the Night",
     "icon": "https://cdn2.steamgriddb.com/grid/5f3c346a6cdde7c2dbdb854613c77cf2.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3b036b877a6a074d7dbfc706fe868c1d.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/e946209592563be0f01c844ab2170f0c.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/e946209592563be0f01c844ab2170f0c.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5f3c346a6cdde7c2dbdb854613c77cf2.jpg",
+     "https://cdn2.steamgriddb.com/grid/7115d15060517a9146826ff3aae574c4.png",
+     "https://cdn2.steamgriddb.com/grid/40cb1a6e1c8045da03d3af66d9d70cce.png",
+     "https://cdn2.steamgriddb.com/grid/950affa8d805d6e0771af25c4662b4dd.png",
+     "https://cdn2.steamgriddb.com/grid/4b19964c32ba5e69b4543ec68e6a45d0.png",
+     "https://cdn2.steamgriddb.com/grid/24a71c2b53199211d85000b68028dced.jpg"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3b036b877a6a074d7dbfc706fe868c1d.png",
+     "https://cdn2.steamgriddb.com/hero/4bb948d5b21472509627f7f4c2a44784.png",
+     "https://cdn2.steamgriddb.com/hero/d45959550312221e15fde04690b18acd.jpg",
+     "https://cdn2.steamgriddb.com/hero/837e868ffbb3a67451e480e1864e071d.png",
+     "https://cdn2.steamgriddb.com/hero/ec5205928d905ea263a69ab15c89e4c6.png",
+     "https://cdn2.steamgriddb.com/hero/1ac99dea0436b51962ec492c48c5e0b3.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/e946209592563be0f01c844ab2170f0c.png",
+     "https://cdn2.steamgriddb.com/logo/be12e7f0f8de169a361afbd150d2ce59.png",
+     "https://cdn2.steamgriddb.com/logo/068190eec8a5bd9ac8b4634d95e97307.png",
+     "https://cdn2.steamgriddb.com/logo/fca7e253c31b4cff99440a716524a32b.png",
+     "https://cdn2.steamgriddb.com/logo/407368b1aef120e260f092ca50fef052.png",
+     "https://cdn2.steamgriddb.com/logo/d2e4c90cfa9f7f364387dde842fa8463.png"
+    ]
    }
   },
   {
@@ -1173,7 +2493,21 @@
     "name": "Rayman 3 HD",
     "icon": "https://cdn2.steamgriddb.com/grid/84fc654bee87e17fb261570cf9fff7f2.png",
     "bg": "https://cdn2.steamgriddb.com/hero/1a7735ce230cb54713ca646f15fd11fa.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/178b515e6825d004ebaf232dd6977ccd.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/178b515e6825d004ebaf232dd6977ccd.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/84fc654bee87e17fb261570cf9fff7f2.png",
+     "https://cdn2.steamgriddb.com/grid/62e27e36f56ed30c93d0740748836d06.png",
+     "https://cdn2.steamgriddb.com/icon/ac55b967f3e3b0edccf5be563e4a6016.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/1a7735ce230cb54713ca646f15fd11fa.png",
+     "https://cdn2.steamgriddb.com/hero/f6da450486f1d52e1d975837f24da054.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/178b515e6825d004ebaf232dd6977ccd.png",
+     "https://cdn2.steamgriddb.com/logo/698933072f86adda7c6a66e1430a9e3a.png",
+     "https://cdn2.steamgriddb.com/logo/f56d9031a87ec443cb8a13cedfead3d2.png"
+    ]
    }
   },
   {
@@ -1191,7 +2525,28 @@
     "name": "Burnout Revenge",
     "icon": "https://cdn2.steamgriddb.com/grid/4bf8ddc0f1998ed4a741ff763e69cfc7.png",
     "bg": "https://cdn2.steamgriddb.com/hero/6a70a091e469207c3709ce5f014f9f8b.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/e455b820b9478a022f0ef44cf2f56db4.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/e455b820b9478a022f0ef44cf2f56db4.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/4bf8ddc0f1998ed4a741ff763e69cfc7.png",
+     "https://cdn2.steamgriddb.com/grid/a0bb4fdcb181bfee0a5df6251683e301.png",
+     "https://cdn2.steamgriddb.com/grid/34b207d61ed443cdb65292bf62545e69.png",
+     "https://cdn2.steamgriddb.com/grid/3b1ffa810160511afd8ef5f05759d063.png",
+     "https://cdn2.steamgriddb.com/grid/6d33b65bf647cdaea1f5a2722e03d382.png",
+     "https://cdn2.steamgriddb.com/grid/d5af57603a908b1f6d4e1492a3ee9bc1.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/6a70a091e469207c3709ce5f014f9f8b.png",
+     "https://cdn2.steamgriddb.com/hero/d059f8fe3d5acacbe25424c27759f111.png",
+     "https://cdn2.steamgriddb.com/hero/8e03ddb0982e1deb2023db3758f12ef5.jpg",
+     "https://cdn2.steamgriddb.com/hero/0cec2f8461e81fd0c2ca322beb63b98b.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/e455b820b9478a022f0ef44cf2f56db4.png",
+     "https://cdn2.steamgriddb.com/logo/1fd240ac847f0ff888fc443da6452b19.png",
+     "https://cdn2.steamgriddb.com/logo/7b16a52cf3727c22984590c4f4c36039.png",
+     "https://cdn2.steamgriddb.com/logo/73434c1432fa81daf8b4ee87589c509c.png",
+     "https://cdn2.steamgriddb.com/logo/1f3f1ae7d482ddc4b5a930cfd8d104a6.png"
+    ]
    }
   },
   {
@@ -1209,7 +2564,31 @@
     "name": "Banjo-Kazooie: Nuts & Bolts",
     "icon": "https://cdn2.steamgriddb.com/grid/1bcd0733d834304d4726e6e9e1bc342e.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/af37a90a983595fef5aeac638e129534.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/c1fb11cad73eaf23ee236ed67e04a36e.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/c1fb11cad73eaf23ee236ed67e04a36e.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/1bcd0733d834304d4726e6e9e1bc342e.jpg",
+     "https://cdn2.steamgriddb.com/grid/1c52df51852dc25cd34e76d02ba18370.jpg",
+     "https://cdn2.steamgriddb.com/grid/f280d7b29b597dea555f857ecb8262df.png",
+     "https://cdn2.steamgriddb.com/grid/538e217307dac24c9642ef1b03b41485.jpg",
+     "https://cdn2.steamgriddb.com/grid/5e49a7c724fdbb875c0ac6933c04a4ad.jpg",
+     "https://cdn2.steamgriddb.com/icon/f88920d4589dae7abec2eb05fca153e3.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/af37a90a983595fef5aeac638e129534.jpg",
+     "https://cdn2.steamgriddb.com/hero/2b974a4480bc25b31aba5393c70d154e.png",
+     "https://cdn2.steamgriddb.com/hero/6362513d8bfdcb02f2509c52bb98e3a0.png",
+     "https://cdn2.steamgriddb.com/hero/709e142ffd42902228952efad5fae573.png",
+     "https://cdn2.steamgriddb.com/hero/21eb663c980f2c08b50773451b16cb42.png",
+     "https://cdn2.steamgriddb.com/hero/4d13b2ddef9cf37ddebc412403094ad2.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/c1fb11cad73eaf23ee236ed67e04a36e.png",
+     "https://cdn2.steamgriddb.com/logo/7883ee3eaae2245816e758e1257d4e51.png",
+     "https://cdn2.steamgriddb.com/logo/eeb10ff7383646543543a8c9873e9d27.png",
+     "https://cdn2.steamgriddb.com/logo/86b474a966e0cc8faf1092967eaf82f4.png",
+     "https://cdn2.steamgriddb.com/logo/9dfcf16f0adbc5e2a55ef02db36bac7f.png",
+     "https://cdn2.steamgriddb.com/logo/1cfac560e92523768c043e17aee0b555.png"
+    ]
    }
   },
   {
@@ -1227,7 +2606,30 @@
     "name": "Blue Dragon",
     "icon": "https://cdn2.steamgriddb.com/grid/c25c6e1972da668c3413611907321055.png",
     "bg": "https://cdn2.steamgriddb.com/hero/d111938e811c0ed7c4ee3e749b07b454.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/5e0b4eb9235315aac8130073271a4a23.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/5e0b4eb9235315aac8130073271a4a23.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/c25c6e1972da668c3413611907321055.png",
+     "https://cdn2.steamgriddb.com/grid/3ecbd0beb6b884f6b6f80c4366c97794.png",
+     "https://cdn2.steamgriddb.com/grid/3c0f54fd01aca4dc3fb5c51e9b02dafe.png",
+     "https://cdn2.steamgriddb.com/grid/187b6f85ad8fb9ca6783dfd0cd18da8d.png",
+     "https://cdn2.steamgriddb.com/grid/56ece4baf45c8009e2370d804ca56fb8.jpg",
+     "https://cdn2.steamgriddb.com/icon/0373773367d222af429a7e5ab573a42d.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/d111938e811c0ed7c4ee3e749b07b454.png",
+     "https://cdn2.steamgriddb.com/hero/6c2e26091efa400dad71ee9bf9149ede.png",
+     "https://cdn2.steamgriddb.com/hero/f5559c152881f630842d30404e057c5a.jpg",
+     "https://cdn2.steamgriddb.com/hero/c2a96e701e29d4ee54e891ff50a200de.png",
+     "https://cdn2.steamgriddb.com/hero/fd73906d02dcd79d75e115db9f81228f.png",
+     "https://cdn2.steamgriddb.com/hero/a52f2752a2460ec81347461e05d4b45b.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/5e0b4eb9235315aac8130073271a4a23.png",
+     "https://cdn2.steamgriddb.com/logo/7f9b98141b2a0a95dcb5fc8a3dd4deae.png",
+     "https://cdn2.steamgriddb.com/logo/79a23b3b9ac3c3c789b319b86d784613.png",
+     "https://cdn2.steamgriddb.com/logo/2bca094a39e0c412b871d67f1cfa5945.png",
+     "https://cdn2.steamgriddb.com/logo/3dbf84403960b5d5b12b04dfdb8367cc.png"
+    ]
    }
   },
   {
@@ -1245,7 +2647,27 @@
     "name": "Kameo: Elements of Power",
     "icon": "https://cdn2.steamgriddb.com/grid/4687b8298d476ec4582b52031c371373.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/00b5315b28ab5eb83128664d27849313.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/b111f719755c5775436490c91efaf102.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/b111f719755c5775436490c91efaf102.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/4687b8298d476ec4582b52031c371373.jpg",
+     "https://cdn2.steamgriddb.com/grid/dffc86f59280270b5554de434b19ffe8.jpg",
+     "https://cdn2.steamgriddb.com/icon/8123b781e08f4d9e89ea88f53e6431a9.png",
+     "https://cdn2.steamgriddb.com/icon/e9f586fda2075a00e9c19361abf115ef.png",
+     "https://cdn2.steamgriddb.com/icon/6a9396f51fadc08f4d40ccf873451a4e.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/00b5315b28ab5eb83128664d27849313.png",
+     "https://cdn2.steamgriddb.com/hero/1d6b086b688359df03857ec51a45f391.jpg",
+     "https://cdn2.steamgriddb.com/hero/74ab171bf4452a0f3ef007a38df8be7e.jpg",
+     "https://cdn2.steamgriddb.com/hero/985e6ec4d9a58573df0f94a372dca9d5.jpg",
+     "https://cdn2.steamgriddb.com/hero/84c0662a18c9bea452d4abefbebc31e0.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/b111f719755c5775436490c91efaf102.png",
+     "https://cdn2.steamgriddb.com/logo/43c64c4288981dc3a773b65c07f222c2.png",
+     "https://cdn2.steamgriddb.com/logo/3798c4c77d1818ca06a3d06aa7879441.png",
+     "https://cdn2.steamgriddb.com/logo/10c66ba6630e2d17855ebe9b642b7472.png"
+    ]
    }
   },
   {
@@ -1263,7 +2685,31 @@
     "name": "Lost Odyssey",
     "icon": "https://cdn2.steamgriddb.com/grid/391a27a836e9bb54e5cdea977b181fcc.png",
     "bg": "https://cdn2.steamgriddb.com/hero/b339bbc54585e3bfa6177a570e03f08f.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/d6f3b91cd2d825cf868db8b60714c477.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/d6f3b91cd2d825cf868db8b60714c477.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/391a27a836e9bb54e5cdea977b181fcc.png",
+     "https://cdn2.steamgriddb.com/grid/764c3d329c1e6cbd6f696d82c31d4616.png",
+     "https://cdn2.steamgriddb.com/grid/b7cddcd246ce0746f158e7e2ac00c84c.png",
+     "https://cdn2.steamgriddb.com/grid/8654635a535afa67c3084ce1d38a6f3a.png",
+     "https://cdn2.steamgriddb.com/grid/d9a9b1c43c045c597832a10e0a64f64e.png",
+     "https://cdn2.steamgriddb.com/grid/cf792de675cc71bc11a3fc4e1b147905.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/b339bbc54585e3bfa6177a570e03f08f.png",
+     "https://cdn2.steamgriddb.com/hero/f24ceafea30831a5200b0f31df755f9b.png",
+     "https://cdn2.steamgriddb.com/hero/ad33e3b5a13faf0159744aecaf5c7327.png",
+     "https://cdn2.steamgriddb.com/hero/60893be7a626a4c66f56c33b451a5f5c.png",
+     "https://cdn2.steamgriddb.com/hero/fa889fc60199e1e298ec7c07d461a754.jpg",
+     "https://cdn2.steamgriddb.com/hero/f4c079d9bc18a6928879f71f17878b7c.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/d6f3b91cd2d825cf868db8b60714c477.png",
+     "https://cdn2.steamgriddb.com/logo/548f45be9b6c68f10bed527bce14246e.png",
+     "https://cdn2.steamgriddb.com/logo/bfef82dc86e43128a2962f60fd1538ad.png",
+     "https://cdn2.steamgriddb.com/logo/87ff00646aa4ea3439998df47690426a.png",
+     "https://cdn2.steamgriddb.com/logo/82177cdf50b741abc0c454ebf2486a81.png",
+     "https://cdn2.steamgriddb.com/logo/585d360fdd7d3851c95065d194554834.png"
+    ]
    }
   },
   {
@@ -1281,7 +2727,26 @@
     "name": "Eternal Sonata",
     "icon": "https://cdn2.steamgriddb.com/grid/ff8c46249e595208862a91ed5bb6e372.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3d411ccc7545f3eb4fc6904dd80cf239.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/f38a2f9a98d6e3f7bc09495bf7532120.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/f38a2f9a98d6e3f7bc09495bf7532120.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/ff8c46249e595208862a91ed5bb6e372.jpg",
+     "https://cdn2.steamgriddb.com/grid/134eb6bd6e3619cb9d8fd894b0846b5e.jpg",
+     "https://cdn2.steamgriddb.com/grid/4810a1c1324e36e1d9ce3c945423fe9c.jpg",
+     "https://cdn2.steamgriddb.com/grid/e4d7a13c27cf8a13c8823bb9a5ed0151.jpg",
+     "https://cdn2.steamgriddb.com/icon/0e48a398748c138824fd1eacd76dd9c0.png",
+     "https://cdn2.steamgriddb.com/icon/207f170979dd72ff5776e20d07c28732.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3d411ccc7545f3eb4fc6904dd80cf239.png",
+     "https://cdn2.steamgriddb.com/hero/2bd845e4920eb5c622ad653307ec0fd2.jpg",
+     "https://cdn2.steamgriddb.com/hero/aa6a8423fe25c40bb4dcec8ccf33b0c1.png",
+     "https://cdn2.steamgriddb.com/hero/7bf95c53ad206426ddeede0be715a671.png",
+     "https://cdn2.steamgriddb.com/hero/028f1fdc4073b86441bfa015127c0181.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/f38a2f9a98d6e3f7bc09495bf7532120.png",
+     "https://cdn2.steamgriddb.com/logo/8513d71f50e57e470cd1b333f514cc3d.png"
+    ]
    }
   },
   {
@@ -1299,7 +2764,31 @@
     "name": "Ace Combat 6: Fires of Liberation",
     "icon": "https://cdn2.steamgriddb.com/grid/2a30eb4c7af37bef55f45f93c1fd20ce.png",
     "bg": "https://cdn2.steamgriddb.com/hero/be8085c5809fb8a9151d9f03c30f201b.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/cc3d7fc970bf568a7724296d431785f0.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/cc3d7fc970bf568a7724296d431785f0.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/2a30eb4c7af37bef55f45f93c1fd20ce.png",
+     "https://cdn2.steamgriddb.com/icon/b3633ba08dcf4d3d59d6ed0dcad7f876.png",
+     "https://cdn2.steamgriddb.com/icon/25d55323f4e0a8da13ad296f41c8c574.png",
+     "https://cdn2.steamgriddb.com/icon/a31d2779e08530d0b5fdbed368c735b4.png",
+     "https://cdn2.steamgriddb.com/icon/6961adcd73a9d3c3a3615bad23b19731.png",
+     "https://cdn2.steamgriddb.com/icon/da93e4a4cd76a39e9aa74ab795a5e35c.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/be8085c5809fb8a9151d9f03c30f201b.png",
+     "https://cdn2.steamgriddb.com/hero/d526a4baf6537eeab16ce92c3178e77c.jpg",
+     "https://cdn2.steamgriddb.com/hero/a7eee7c9f1d1889c763ba7f86a873d02.jpg",
+     "https://cdn2.steamgriddb.com/hero/b2b994e774053b2cb4ce9ae7dac1b383.jpg",
+     "https://cdn2.steamgriddb.com/hero/638e4b29317102fffa246c61fe32deb1.jpg",
+     "https://cdn2.steamgriddb.com/hero/9a15fe976e1f44f74a55853fe9348a20.jpg"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/cc3d7fc970bf568a7724296d431785f0.png",
+     "https://cdn2.steamgriddb.com/logo/2199a9c36dd05fd8cb3d38279ada9f30.png",
+     "https://cdn2.steamgriddb.com/logo/21b48d503396029e5d3c9ccc0604bfeb.png",
+     "https://cdn2.steamgriddb.com/logo/6d632b0a3481511636328c61155681b4.png",
+     "https://cdn2.steamgriddb.com/logo/08de4aec0d6daf698be24bb7002f034d.png",
+     "https://cdn2.steamgriddb.com/logo/94c866819f4f97382d11255390b330d3.png"
+    ]
    }
   },
   {
@@ -1317,7 +2806,31 @@
     "name": "Sonic Free Riders",
     "icon": "https://cdn2.steamgriddb.com/grid/9225fcf7648e0bc72c9fbc499e09938b.png",
     "bg": "https://cdn2.steamgriddb.com/hero/df1fdab9688c6da1635d03ef4b680474.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/508a37f0ac8738a76c680af8b4c512b4.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/508a37f0ac8738a76c680af8b4c512b4.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/9225fcf7648e0bc72c9fbc499e09938b.png",
+     "https://cdn2.steamgriddb.com/grid/f0bb49e3809c1615084668c6761bf3c6.png",
+     "https://cdn2.steamgriddb.com/grid/503fe829e0af298e3d07bc53eeee12c6.png",
+     "https://cdn2.steamgriddb.com/icon/e47172648719cad3559fed4241415c3f.ico",
+     "https://cdn2.steamgriddb.com/icon/fc776b37fffef0ec8760a429d47df2c1.ico",
+     "https://cdn2.steamgriddb.com/icon/f1f110f8c26ef054980368da6c19652e.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/df1fdab9688c6da1635d03ef4b680474.png",
+     "https://cdn2.steamgriddb.com/hero/8e2849bd547fc83e80e57ef3b1235d56.png",
+     "https://cdn2.steamgriddb.com/hero/b97da3de4557055c12fdc708c08d179d.png",
+     "https://cdn2.steamgriddb.com/hero/41c66b9aefbe7e207ad103d3b5ed91d4.png",
+     "https://cdn2.steamgriddb.com/hero/db3211dee9a240f46784d7a5a565707c.png",
+     "https://cdn2.steamgriddb.com/hero/ff1613b9b7e783a60cbb690c8c42eb08.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/508a37f0ac8738a76c680af8b4c512b4.png",
+     "https://cdn2.steamgriddb.com/logo/9c7b1b7f0902b04a7c99152cdc6964cf.png",
+     "https://cdn2.steamgriddb.com/logo/7556c7dab4ecd0221c334e1f4d95b608.png",
+     "https://cdn2.steamgriddb.com/logo/2826a8078149f92472f57e903766a1b3.png",
+     "https://cdn2.steamgriddb.com/logo/22fce446349f34422470f68d8595532b.png",
+     "https://cdn2.steamgriddb.com/logo/bd2848783071c248655d1bfd4560602d.png"
+    ]
    }
   },
   {
@@ -1335,7 +2848,28 @@
     "name": "Ninja Gaiden II",
     "icon": "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
     "bg": "https://cdn2.steamgriddb.com/hero/2b763a9f0c775cd353c1bea1c613ef49.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
+     "https://cdn2.steamgriddb.com/icon/a952ddeda0b7e2c20744e52e728e5594.png",
+     "https://cdn2.steamgriddb.com/icon/68650438dae91967ddb696e533e7744c.png",
+     "https://cdn2.steamgriddb.com/icon/b0bfb2d8ed2ed295c7354d304ad369f1.ico",
+     "https://cdn2.steamgriddb.com/icon/0a17a8c84fd8debe87250d1a0e44c7e9.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/2b763a9f0c775cd353c1bea1c613ef49.png",
+     "https://cdn2.steamgriddb.com/hero/a8e38fcbd4ae43b669f438b9e0e5936c.png",
+     "https://cdn2.steamgriddb.com/hero/515482f4944c209951dc1a340bd23051.png",
+     "https://cdn2.steamgriddb.com/hero/239ee30f96fc782f36bac875ea2c17dc.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png",
+     "https://cdn2.steamgriddb.com/logo/7f112a00f940a952f8904ea1567bd06b.png",
+     "https://cdn2.steamgriddb.com/logo/9febe9361bdcc4244e7a18858d6882f5.png",
+     "https://cdn2.steamgriddb.com/logo/d8b269b1df186f4cb88e1db670499e05.png",
+     "https://cdn2.steamgriddb.com/logo/0c57a123fa4a6410742abfb14ddd6add.png",
+     "https://cdn2.steamgriddb.com/logo/b31c224efdd8c42b02a6c95086af9694.png"
+    ]
    }
   },
   {
@@ -1353,7 +2887,28 @@
     "name": "Ninja Gaiden II",
     "icon": "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
     "bg": "https://cdn2.steamgriddb.com/hero/2b763a9f0c775cd353c1bea1c613ef49.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
+     "https://cdn2.steamgriddb.com/icon/a952ddeda0b7e2c20744e52e728e5594.png",
+     "https://cdn2.steamgriddb.com/icon/68650438dae91967ddb696e533e7744c.png",
+     "https://cdn2.steamgriddb.com/icon/b0bfb2d8ed2ed295c7354d304ad369f1.ico",
+     "https://cdn2.steamgriddb.com/icon/0a17a8c84fd8debe87250d1a0e44c7e9.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/2b763a9f0c775cd353c1bea1c613ef49.png",
+     "https://cdn2.steamgriddb.com/hero/a8e38fcbd4ae43b669f438b9e0e5936c.png",
+     "https://cdn2.steamgriddb.com/hero/515482f4944c209951dc1a340bd23051.png",
+     "https://cdn2.steamgriddb.com/hero/239ee30f96fc782f36bac875ea2c17dc.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png",
+     "https://cdn2.steamgriddb.com/logo/7f112a00f940a952f8904ea1567bd06b.png",
+     "https://cdn2.steamgriddb.com/logo/9febe9361bdcc4244e7a18858d6882f5.png",
+     "https://cdn2.steamgriddb.com/logo/d8b269b1df186f4cb88e1db670499e05.png",
+     "https://cdn2.steamgriddb.com/logo/0c57a123fa4a6410742abfb14ddd6add.png",
+     "https://cdn2.steamgriddb.com/logo/b31c224efdd8c42b02a6c95086af9694.png"
+    ]
    }
   },
   {
@@ -1371,7 +2926,28 @@
     "name": "Ninja Gaiden II",
     "icon": "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
     "bg": "https://cdn2.steamgriddb.com/hero/2b763a9f0c775cd353c1bea1c613ef49.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
+     "https://cdn2.steamgriddb.com/icon/a952ddeda0b7e2c20744e52e728e5594.png",
+     "https://cdn2.steamgriddb.com/icon/68650438dae91967ddb696e533e7744c.png",
+     "https://cdn2.steamgriddb.com/icon/b0bfb2d8ed2ed295c7354d304ad369f1.ico",
+     "https://cdn2.steamgriddb.com/icon/0a17a8c84fd8debe87250d1a0e44c7e9.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/2b763a9f0c775cd353c1bea1c613ef49.png",
+     "https://cdn2.steamgriddb.com/hero/a8e38fcbd4ae43b669f438b9e0e5936c.png",
+     "https://cdn2.steamgriddb.com/hero/515482f4944c209951dc1a340bd23051.png",
+     "https://cdn2.steamgriddb.com/hero/239ee30f96fc782f36bac875ea2c17dc.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/cffa2aeddbf5f50f1d93641db49a68c2.png",
+     "https://cdn2.steamgriddb.com/logo/7f112a00f940a952f8904ea1567bd06b.png",
+     "https://cdn2.steamgriddb.com/logo/9febe9361bdcc4244e7a18858d6882f5.png",
+     "https://cdn2.steamgriddb.com/logo/d8b269b1df186f4cb88e1db670499e05.png",
+     "https://cdn2.steamgriddb.com/logo/0c57a123fa4a6410742abfb14ddd6add.png",
+     "https://cdn2.steamgriddb.com/logo/b31c224efdd8c42b02a6c95086af9694.png"
+    ]
    }
   },
   {
@@ -1389,7 +2965,22 @@
     "name": "Project Gotham Racing 4",
     "icon": "https://cdn2.steamgriddb.com/grid/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/0dbb3fb9a5cd1d5f8a9075b5bb8070aa.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/7c6c82bb528ebd24198e2d387d207f80.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/7c6c82bb528ebd24198e2d387d207f80.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
+     "https://cdn2.steamgriddb.com/icon/fd52865dec24ba68bd106c7aa29afa9b.ico",
+     "https://cdn2.steamgriddb.com/icon/467fc60274ae2cefade0487f255c3f5d.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/0dbb3fb9a5cd1d5f8a9075b5bb8070aa.png",
+     "https://cdn2.steamgriddb.com/hero/ad54ae8abe1c4606b8a13b0a25cd3dd6.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/7c6c82bb528ebd24198e2d387d207f80.png",
+     "https://cdn2.steamgriddb.com/logo/7068852134e643a41a68614d94e77ae4.png",
+     "https://cdn2.steamgriddb.com/logo/f1e9e809306242b3cf6803cec01d1771.png",
+     "https://cdn2.steamgriddb.com/logo/a5cdd4aa0048b187f7182f1b9ce7a6a7.png"
+    ]
    }
   },
   {
@@ -1407,7 +2998,22 @@
     "name": "Project Gotham Racing 4",
     "icon": "https://cdn2.steamgriddb.com/grid/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/0dbb3fb9a5cd1d5f8a9075b5bb8070aa.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/7c6c82bb528ebd24198e2d387d207f80.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/7c6c82bb528ebd24198e2d387d207f80.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
+     "https://cdn2.steamgriddb.com/icon/fd52865dec24ba68bd106c7aa29afa9b.ico",
+     "https://cdn2.steamgriddb.com/icon/467fc60274ae2cefade0487f255c3f5d.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/0dbb3fb9a5cd1d5f8a9075b5bb8070aa.png",
+     "https://cdn2.steamgriddb.com/hero/ad54ae8abe1c4606b8a13b0a25cd3dd6.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/7c6c82bb528ebd24198e2d387d207f80.png",
+     "https://cdn2.steamgriddb.com/logo/7068852134e643a41a68614d94e77ae4.png",
+     "https://cdn2.steamgriddb.com/logo/f1e9e809306242b3cf6803cec01d1771.png",
+     "https://cdn2.steamgriddb.com/logo/a5cdd4aa0048b187f7182f1b9ce7a6a7.png"
+    ]
    }
   },
   {
@@ -1425,7 +3031,30 @@
     "name": "Midnight Club: Los Angeles",
     "icon": "https://cdn2.steamgriddb.com/grid/6fbbe2af9cb6f03648c712cd1cd3338b.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/fed81424fe722056a097c5fb8c1bcac8.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/4e154dfcbc093f28b47a9bc43c091e62.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/4e154dfcbc093f28b47a9bc43c091e62.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/6fbbe2af9cb6f03648c712cd1cd3338b.jpg",
+     "https://cdn2.steamgriddb.com/grid/773e4c9bc185232c0344bbb77aeb1df9.png",
+     "https://cdn2.steamgriddb.com/icon/8ff1139c76a93227341d3856f6bd0786.ico",
+     "https://cdn2.steamgriddb.com/icon/db3b92b65dcb4ee5490e13db1a34234d.ico",
+     "https://cdn2.steamgriddb.com/icon/290a89ea4e42a2d13e7c4a95a400ca67.png",
+     "https://cdn2.steamgriddb.com/icon/06150927fbaa6e3f026901cb1dedaaed.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/fed81424fe722056a097c5fb8c1bcac8.png",
+     "https://cdn2.steamgriddb.com/hero/a9b94e2e91ee1dae4106f72c3e48880e.jpg",
+     "https://cdn2.steamgriddb.com/hero/5f399f264b8284b5674fa85e9618407d.png",
+     "https://cdn2.steamgriddb.com/hero/096639326b733b283eed6c1a603fcb72.png",
+     "https://cdn2.steamgriddb.com/hero/bc0fb59000c320157aa8aac7ebec7d74.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/4e154dfcbc093f28b47a9bc43c091e62.png",
+     "https://cdn2.steamgriddb.com/logo/3c17c6d5dccabc6a8ade95f7c85b8a9d.png",
+     "https://cdn2.steamgriddb.com/logo/a85ccf092c236fc5c40302c65c8daf3e.png",
+     "https://cdn2.steamgriddb.com/logo/0d5a4a5a748611231b945d28436b8ece.png",
+     "https://cdn2.steamgriddb.com/logo/b5115952b09bc2088a9ecb56d79b9b37.png",
+     "https://cdn2.steamgriddb.com/logo/97622da4a851846daec4686d91318797.png"
+    ]
    }
   },
   {
@@ -1443,7 +3072,30 @@
     "name": "Midnight Club: Los Angeles",
     "icon": "https://cdn2.steamgriddb.com/grid/6fbbe2af9cb6f03648c712cd1cd3338b.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/fed81424fe722056a097c5fb8c1bcac8.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/4e154dfcbc093f28b47a9bc43c091e62.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/4e154dfcbc093f28b47a9bc43c091e62.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/6fbbe2af9cb6f03648c712cd1cd3338b.jpg",
+     "https://cdn2.steamgriddb.com/grid/773e4c9bc185232c0344bbb77aeb1df9.png",
+     "https://cdn2.steamgriddb.com/icon/8ff1139c76a93227341d3856f6bd0786.ico",
+     "https://cdn2.steamgriddb.com/icon/db3b92b65dcb4ee5490e13db1a34234d.ico",
+     "https://cdn2.steamgriddb.com/icon/290a89ea4e42a2d13e7c4a95a400ca67.png",
+     "https://cdn2.steamgriddb.com/icon/06150927fbaa6e3f026901cb1dedaaed.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/fed81424fe722056a097c5fb8c1bcac8.png",
+     "https://cdn2.steamgriddb.com/hero/a9b94e2e91ee1dae4106f72c3e48880e.jpg",
+     "https://cdn2.steamgriddb.com/hero/5f399f264b8284b5674fa85e9618407d.png",
+     "https://cdn2.steamgriddb.com/hero/096639326b733b283eed6c1a603fcb72.png",
+     "https://cdn2.steamgriddb.com/hero/bc0fb59000c320157aa8aac7ebec7d74.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/4e154dfcbc093f28b47a9bc43c091e62.png",
+     "https://cdn2.steamgriddb.com/logo/3c17c6d5dccabc6a8ade95f7c85b8a9d.png",
+     "https://cdn2.steamgriddb.com/logo/a85ccf092c236fc5c40302c65c8daf3e.png",
+     "https://cdn2.steamgriddb.com/logo/0d5a4a5a748611231b945d28436b8ece.png",
+     "https://cdn2.steamgriddb.com/logo/b5115952b09bc2088a9ecb56d79b9b37.png",
+     "https://cdn2.steamgriddb.com/logo/97622da4a851846daec4686d91318797.png"
+    ]
    }
   },
   {
@@ -1461,7 +3113,31 @@
     "name": "Super Mario Strikers",
     "icon": "https://cdn2.steamgriddb.com/grid/def28729fb032356f89414f225004a6e.png",
     "bg": "https://cdn2.steamgriddb.com/hero/ada822e604972569cda7a8cddc045c0d.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/a1140a3d0df1c81e24ae954d935e8926.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/a1140a3d0df1c81e24ae954d935e8926.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/def28729fb032356f89414f225004a6e.png",
+     "https://cdn2.steamgriddb.com/grid/2c4382e543e27eb8e75b66d806853e74.png",
+     "https://cdn2.steamgriddb.com/grid/8d20bcc046bcb2b160bd990f74a06d25.png",
+     "https://cdn2.steamgriddb.com/grid/9ce78e85ded1e281e3eafb74eb7a0f8d.png",
+     "https://cdn2.steamgriddb.com/grid/1ee4512ffd0b126e539e7a7c9f7a1981.png",
+     "https://cdn2.steamgriddb.com/grid/c45696e7c30a882ed6603fbc79b11761.jpg"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/ada822e604972569cda7a8cddc045c0d.png",
+     "https://cdn2.steamgriddb.com/hero/6525055e9dbde10e2238f8ebee694c96.jpg",
+     "https://cdn2.steamgriddb.com/hero/08419be897405321542838d77f855226.png",
+     "https://cdn2.steamgriddb.com/hero/ea8bf400c57f85e1fa510dcd027ce484.png",
+     "https://cdn2.steamgriddb.com/hero/adab5845a3e697dcd757145609b702e1.png",
+     "https://cdn2.steamgriddb.com/hero/a91c448cc575e7378b8f2096e5c3b912.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/a1140a3d0df1c81e24ae954d935e8926.png",
+     "https://cdn2.steamgriddb.com/logo/42d0c639a21482dcd8e1c447efe87e89.png",
+     "https://cdn2.steamgriddb.com/logo/d40ad1866c79ee4610db64f3fd8cb8ed.png",
+     "https://cdn2.steamgriddb.com/logo/2a519dc383bbb4f07ad74720bb1a5fbf.png",
+     "https://cdn2.steamgriddb.com/logo/564a41f8ea100fcece092aeb06846223.png",
+     "https://cdn2.steamgriddb.com/logo/b6476659d5abe6385fd54d05702028df.png"
+    ]
    }
   },
   {
@@ -1479,7 +3155,27 @@
     "name": "Eternal Darkness: Sanity's Requiem",
     "icon": "https://cdn2.steamgriddb.com/grid/dce5eb1f56dd8dd4e1b9a1e22c0e1be0.png",
     "bg": "https://cdn2.steamgriddb.com/hero/be767243ca8f574c740fb4c26cc6dceb.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/d03a857a23b5285736c4d55e0bb067c8.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/d03a857a23b5285736c4d55e0bb067c8.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/dce5eb1f56dd8dd4e1b9a1e22c0e1be0.png",
+     "https://cdn2.steamgriddb.com/grid/5bfdeff26121c6556e2d4c02c69b4642.png",
+     "https://cdn2.steamgriddb.com/grid/48d9f216cefde9aff8e9a169235de19b.png",
+     "https://cdn2.steamgriddb.com/grid/6d1bdc8e4530149c049564516e0213f7.png",
+     "https://cdn2.steamgriddb.com/icon/5eb79d8236942b4a3b3944405b2a236b.ico",
+     "https://cdn2.steamgriddb.com/icon/efab2f9cb65aab797bdb830e70800870.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/be767243ca8f574c740fb4c26cc6dceb.png",
+     "https://cdn2.steamgriddb.com/hero/061573ca4ba2b0e068e0614d6d17ac3e.png",
+     "https://cdn2.steamgriddb.com/hero/7839a539755e35dc00b94115f3402515.png",
+     "https://cdn2.steamgriddb.com/hero/0cbe392496c2a60c81de66f4adac88fb.png",
+     "https://cdn2.steamgriddb.com/hero/ce73bd2c63bcde8a605bdf852baa5ea4.png",
+     "https://cdn2.steamgriddb.com/hero/9ef8fecbfacc3657dbf4c4a61e9e19fb.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/d03a857a23b5285736c4d55e0bb067c8.png",
+     "https://cdn2.steamgriddb.com/logo/722c8242ab6d2ee33efe15f1e1cb7f9b.png"
+    ]
    }
   },
   {
@@ -1497,7 +3193,31 @@
     "name": "Super Mario Sunshine",
     "icon": "https://cdn2.steamgriddb.com/grid/57163833043dc410f02c3d7049c05355.png",
     "bg": "https://cdn2.steamgriddb.com/hero/3e04f019562baeb10f41e7b9fb14c6be.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/b33128cb0089003ddfb5199e1b679652.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/b33128cb0089003ddfb5199e1b679652.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/57163833043dc410f02c3d7049c05355.png",
+     "https://cdn2.steamgriddb.com/grid/5c831702ae385fa668c30a701e7f6bfb.png",
+     "https://cdn2.steamgriddb.com/grid/78de99e7d05bf161602c916f18fafdad.png",
+     "https://cdn2.steamgriddb.com/grid/c57086653ae9dd2d0dfeac8fd87ae097.png",
+     "https://cdn2.steamgriddb.com/grid/42df588f21976cebf8c533fa04b7394d.jpg",
+     "https://cdn2.steamgriddb.com/grid/83ca4bb3deabf1bcaf9c14589207f06e.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3e04f019562baeb10f41e7b9fb14c6be.png",
+     "https://cdn2.steamgriddb.com/hero/9a60f48f5298395dc0d6e0cf062d8cd7.png",
+     "https://cdn2.steamgriddb.com/hero/c5def7dc28e57fdcb1c8045e388d41e3.png",
+     "https://cdn2.steamgriddb.com/hero/e4b0b923a3ec85a83669b734db4318b7.png",
+     "https://cdn2.steamgriddb.com/hero/5351b995ac7e0de17861c8f4937d5223.png",
+     "https://cdn2.steamgriddb.com/hero/13de4c4785c7a5409b6247c133b325bf.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/b33128cb0089003ddfb5199e1b679652.png",
+     "https://cdn2.steamgriddb.com/logo/6abfefaf79dff3c6a5bcfde47a85749f.png",
+     "https://cdn2.steamgriddb.com/logo/f318c3c019079f42c8b33093a8390d57.png",
+     "https://cdn2.steamgriddb.com/logo/dce4bc4ca99eb3b74cbd2b84c01fad7b.png",
+     "https://cdn2.steamgriddb.com/logo/47dd92b1071a4ea3bd1564629f4b030c.png",
+     "https://cdn2.steamgriddb.com/logo/028fdde06011240a8f617f1dcac93989.png"
+    ]
    }
   },
   {
@@ -1515,7 +3235,31 @@
     "name": "Super Mario Sunshine",
     "icon": "https://cdn2.steamgriddb.com/grid/57163833043dc410f02c3d7049c05355.png",
     "bg": "https://cdn2.steamgriddb.com/hero/3e04f019562baeb10f41e7b9fb14c6be.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/b33128cb0089003ddfb5199e1b679652.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/b33128cb0089003ddfb5199e1b679652.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/57163833043dc410f02c3d7049c05355.png",
+     "https://cdn2.steamgriddb.com/grid/5c831702ae385fa668c30a701e7f6bfb.png",
+     "https://cdn2.steamgriddb.com/grid/78de99e7d05bf161602c916f18fafdad.png",
+     "https://cdn2.steamgriddb.com/grid/c57086653ae9dd2d0dfeac8fd87ae097.png",
+     "https://cdn2.steamgriddb.com/grid/42df588f21976cebf8c533fa04b7394d.jpg",
+     "https://cdn2.steamgriddb.com/grid/83ca4bb3deabf1bcaf9c14589207f06e.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3e04f019562baeb10f41e7b9fb14c6be.png",
+     "https://cdn2.steamgriddb.com/hero/9a60f48f5298395dc0d6e0cf062d8cd7.png",
+     "https://cdn2.steamgriddb.com/hero/c5def7dc28e57fdcb1c8045e388d41e3.png",
+     "https://cdn2.steamgriddb.com/hero/e4b0b923a3ec85a83669b734db4318b7.png",
+     "https://cdn2.steamgriddb.com/hero/5351b995ac7e0de17861c8f4937d5223.png",
+     "https://cdn2.steamgriddb.com/hero/13de4c4785c7a5409b6247c133b325bf.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/b33128cb0089003ddfb5199e1b679652.png",
+     "https://cdn2.steamgriddb.com/logo/6abfefaf79dff3c6a5bcfde47a85749f.png",
+     "https://cdn2.steamgriddb.com/logo/f318c3c019079f42c8b33093a8390d57.png",
+     "https://cdn2.steamgriddb.com/logo/dce4bc4ca99eb3b74cbd2b84c01fad7b.png",
+     "https://cdn2.steamgriddb.com/logo/47dd92b1071a4ea3bd1564629f4b030c.png",
+     "https://cdn2.steamgriddb.com/logo/028fdde06011240a8f617f1dcac93989.png"
+    ]
    }
   },
   {
@@ -1533,7 +3277,31 @@
     "name": "Super Smash Bros. Melee",
     "icon": "https://cdn2.steamgriddb.com/grid/93cf926bddbd6a2c7c7f10cbecff1faf.png",
     "bg": "https://cdn2.steamgriddb.com/hero/d1a2a78180205c620020b4a4629607b2.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/20f817b9520d57dd7b9f725537816cbb.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/20f817b9520d57dd7b9f725537816cbb.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/93cf926bddbd6a2c7c7f10cbecff1faf.png",
+     "https://cdn2.steamgriddb.com/grid/0aa21e9e51bfb74793881e5780d29ae8.png",
+     "https://cdn2.steamgriddb.com/grid/01cb62a66fd0e015aeea35eeed8e5c18.png",
+     "https://cdn2.steamgriddb.com/grid/4d87acd81a9f22ce184f3c8c21731f84.png",
+     "https://cdn2.steamgriddb.com/grid/386e64f09ecdc176a4e822b822de534c.png",
+     "https://cdn2.steamgriddb.com/grid/146cd65de61c6aed1f8f6dceb7837412.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/d1a2a78180205c620020b4a4629607b2.png",
+     "https://cdn2.steamgriddb.com/hero/ce5140df15d046a66883807d18d0264b.jpg",
+     "https://cdn2.steamgriddb.com/hero/9d00670c8e26b15fdd085a04a256683c.png",
+     "https://cdn2.steamgriddb.com/hero/4fc848051e4459b8a6afeb210c3664ec.png",
+     "https://cdn2.steamgriddb.com/hero/24cf208e177e341aaf4fae784481f748.jpg",
+     "https://cdn2.steamgriddb.com/hero/bd5f681bd75c522cb7cbd88d22af16d5.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/20f817b9520d57dd7b9f725537816cbb.png",
+     "https://cdn2.steamgriddb.com/logo/c3a1f23a07d6b7376ed3aae61d18a7a6.png",
+     "https://cdn2.steamgriddb.com/logo/4c6515356f214aa275e07ddbbd922a5e.png",
+     "https://cdn2.steamgriddb.com/logo/c9f95a0a5af052bffce5c89917335f67.png",
+     "https://cdn2.steamgriddb.com/logo/1662a2d9b9d5b521184ef4ecaca65081.png",
+     "https://cdn2.steamgriddb.com/logo/9fd3c39173c7f0a26929048571201e15.png"
+    ]
    }
   },
   {
@@ -1551,7 +3319,31 @@
     "name": "New Super Mario Bros. Wii",
     "icon": "https://cdn2.steamgriddb.com/grid/fef30dc904979d70213ed4c220efbd77.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/231141b34c82aa95e48810a9d1b33a79.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/0094eb7d9dc080e6fe137bbc8bbbbc74.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/0094eb7d9dc080e6fe137bbc8bbbbc74.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/fef30dc904979d70213ed4c220efbd77.jpg",
+     "https://cdn2.steamgriddb.com/grid/a302e3669cddc13a71edba57175ceff7.png",
+     "https://cdn2.steamgriddb.com/grid/e9e6dd6edb0996b570f5d08ee4533a41.png",
+     "https://cdn2.steamgriddb.com/grid/4afa979162345b0becbcc71544d9b2ed.png",
+     "https://cdn2.steamgriddb.com/grid/b44da706680fd41587228c089467f0ee.png",
+     "https://cdn2.steamgriddb.com/grid/6520fe7cc4ae2e6c8f0100d42544a7d8.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/231141b34c82aa95e48810a9d1b33a79.png",
+     "https://cdn2.steamgriddb.com/hero/7c0b772fc886f556cee2780179043f63.png",
+     "https://cdn2.steamgriddb.com/hero/bbeec3050f554bee3bdac0ca20b57891.png",
+     "https://cdn2.steamgriddb.com/hero/422e27361bba8e7ed95428a9ea299e02.png",
+     "https://cdn2.steamgriddb.com/hero/3393943cfaaf586fefd9c487359bc3a7.png",
+     "https://cdn2.steamgriddb.com/hero/23c997aa35463f8ec9ed13a9aa02a251.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/0094eb7d9dc080e6fe137bbc8bbbbc74.png",
+     "https://cdn2.steamgriddb.com/logo/f874d58af1fb1ddb0f3283870eaac0fd.png",
+     "https://cdn2.steamgriddb.com/logo/16d4f2fb0bab503d96b78fcc0f8f822a.png",
+     "https://cdn2.steamgriddb.com/logo/bbbd50c8e8f42092a9ad0e8842d3245b.png",
+     "https://cdn2.steamgriddb.com/logo/097d3dd76d6fe65367ec05274e7ac9ab.png",
+     "https://cdn2.steamgriddb.com/logo/778e2af2ab4fb0ec351086568f6c7e1e.png"
+    ]
    }
   },
   {
@@ -1569,7 +3361,31 @@
     "name": "Super Paper Mario",
     "icon": "https://cdn2.steamgriddb.com/grid/9b30ef7cdb29abddddf52e6647f05c78.png",
     "bg": "https://cdn2.steamgriddb.com/hero/dd3e603fa01e796f96a0e6916082d00b.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/5f15805708a114ef82febede1e7419ac.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/5f15805708a114ef82febede1e7419ac.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/9b30ef7cdb29abddddf52e6647f05c78.png",
+     "https://cdn2.steamgriddb.com/grid/6c8d3ced7957ece8f3418891aa3e1498.png",
+     "https://cdn2.steamgriddb.com/grid/97944d0ef8480c15f993b9c7186934f1.png",
+     "https://cdn2.steamgriddb.com/grid/9784d71fc0e90410836754342e32345c.png",
+     "https://cdn2.steamgriddb.com/grid/014a7c1e09422db8d2cee7ba3c753fd8.png",
+     "https://cdn2.steamgriddb.com/grid/ba9959b2d4fd0c6dad8f71706d8fd835.jpg"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/dd3e603fa01e796f96a0e6916082d00b.png",
+     "https://cdn2.steamgriddb.com/hero/96c5c28becf18e71190460a9955aa4d8.png",
+     "https://cdn2.steamgriddb.com/hero/9ef76737dc71b2cf44533b32fb344419.jpg",
+     "https://cdn2.steamgriddb.com/hero/0f48c1a86197adb6ff5cd52cd3b4843f.png",
+     "https://cdn2.steamgriddb.com/hero/ff8bcf89ec853d6496115959cf39526e.jpg",
+     "https://cdn2.steamgriddb.com/hero/fdd7f5012fd8d73a7835e0e354779903.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/5f15805708a114ef82febede1e7419ac.png",
+     "https://cdn2.steamgriddb.com/logo/54c0fc7dc8ecc7b1cb805ddc99e53fc6.png",
+     "https://cdn2.steamgriddb.com/logo/9b80548641ca5054490e64ef72d51a44.png",
+     "https://cdn2.steamgriddb.com/logo/5a8bd9b875ddf291b7157df85990e450.png",
+     "https://cdn2.steamgriddb.com/logo/d01b5e2f0032caa796fff6ffce713708.png",
+     "https://cdn2.steamgriddb.com/logo/9fe16542bbddbaf7db5797e66c5c4674.png"
+    ]
    }
   },
   {
@@ -1587,7 +3403,31 @@
     "name": "The Legend of Zelda: The Wind Waker HD",
     "icon": "https://cdn2.steamgriddb.com/grid/c784c9b23047df7514ce00144b624932.png",
     "bg": "https://cdn2.steamgriddb.com/hero/f3a3a63a79eb1831b0a2776bfd20d838.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/f37c4630c796617ace93e19c350c321e.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/f37c4630c796617ace93e19c350c321e.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/c784c9b23047df7514ce00144b624932.png",
+     "https://cdn2.steamgriddb.com/grid/93d3d9ce82833d79305f60a97d2f7183.png",
+     "https://cdn2.steamgriddb.com/grid/98d19d1ccd7ac18374c1fb7cef732cc9.png",
+     "https://cdn2.steamgriddb.com/grid/ded99e453004c53449bd12c5bbaca135.jpg",
+     "https://cdn2.steamgriddb.com/grid/5ae778346967c8a735dd300645be67f3.png",
+     "https://cdn2.steamgriddb.com/grid/4989afc6ed58253ed3482ad4d59561db.jpg"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/f3a3a63a79eb1831b0a2776bfd20d838.png",
+     "https://cdn2.steamgriddb.com/hero/c5e4a3d4256265592a3e0c0831ed82bd.png",
+     "https://cdn2.steamgriddb.com/hero/1956a2516740b92a93bc87e3246de48f.jpg",
+     "https://cdn2.steamgriddb.com/hero/8bd2c3f7fd5b165b470beb1cc83071ab.png",
+     "https://cdn2.steamgriddb.com/hero/f922d8e82e3ba13692a7584ba6e1dc9b.png",
+     "https://cdn2.steamgriddb.com/hero/7de4baa95edf7521f460fa6147a2f8ee.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/f37c4630c796617ace93e19c350c321e.png",
+     "https://cdn2.steamgriddb.com/logo/3772bf42ebf9a51da2b8de4746f814e0.png",
+     "https://cdn2.steamgriddb.com/logo/2e4d3f59fa26af64eef3b0795b775ec1.png",
+     "https://cdn2.steamgriddb.com/logo/0f5f995c20bdf580104c07ff2cca9d6f.png",
+     "https://cdn2.steamgriddb.com/logo/1efa39bcaec6f3900149160693694536.png",
+     "https://cdn2.steamgriddb.com/logo/2e4bb45153962e51485a8d5b289cf415.png"
+    ]
    }
   },
   {
@@ -1605,7 +3445,31 @@
     "name": "Metroid Dread",
     "icon": "https://cdn2.steamgriddb.com/grid/5cab5f84e939ed4cef063af9c69ed5fc.png",
     "bg": "https://cdn2.steamgriddb.com/hero/aa5d5b1b36318c95dffe1d6c4e153f2d.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/feb78ee29377237a3bfa93e3b61c1655.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/feb78ee29377237a3bfa93e3b61c1655.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5cab5f84e939ed4cef063af9c69ed5fc.png",
+     "https://cdn2.steamgriddb.com/grid/a579f24e063be0732ba0714984d75821.jpg",
+     "https://cdn2.steamgriddb.com/grid/820d39a8f3d993f47bf7ae8ff6c8f2e8.png",
+     "https://cdn2.steamgriddb.com/grid/ea64384eb99f5b4866bcc65ae7d88132.png",
+     "https://cdn2.steamgriddb.com/grid/1f6ead3bb158436b4f5a028dc83e3b5d.png",
+     "https://cdn2.steamgriddb.com/grid/e7fa39d54a0132d95edf8819659b6eab.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/aa5d5b1b36318c95dffe1d6c4e153f2d.png",
+     "https://cdn2.steamgriddb.com/hero/fdc50f45eddfdb2463605f6e88a3a813.png",
+     "https://cdn2.steamgriddb.com/hero/dfa457fea69475c95ecfc01a23489cb7.png",
+     "https://cdn2.steamgriddb.com/hero/9aeb333bf4f5e68687545d88803433fe.png",
+     "https://cdn2.steamgriddb.com/hero/92b0cd5fbe5bd6993ea10b33ec7088bf.png",
+     "https://cdn2.steamgriddb.com/hero/4c26e4e215bb6a3e299da5ad4926c95a.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/feb78ee29377237a3bfa93e3b61c1655.png",
+     "https://cdn2.steamgriddb.com/logo/a6efc3c4d6322a0d73c7a1e88a8a8b55.png",
+     "https://cdn2.steamgriddb.com/logo/66f30fcae1cc588263093e14c93f8a69.png",
+     "https://cdn2.steamgriddb.com/logo/c723579a45101c08f6e4a185e0f2384b.png",
+     "https://cdn2.steamgriddb.com/logo/c25614af9e766ee110177ee897d70745.png",
+     "https://cdn2.steamgriddb.com/logo/59b09641b101520dcac91806ce3bc6c4.png"
+    ]
    }
   },
   {
@@ -1623,7 +3487,30 @@
     "name": "Metroid Prime 4: Beyond",
     "icon": "https://cdn2.steamgriddb.com/grid/0912daaf48a95ffe554c3fc6b8ee1eeb.png",
     "bg": "https://cdn2.steamgriddb.com/hero/cbf4fcaa1ff6715bc78e0b76043d35e7.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/5a226c0a768ad5ff4a1f9c169c6cb3bb.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/5a226c0a768ad5ff4a1f9c169c6cb3bb.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/0912daaf48a95ffe554c3fc6b8ee1eeb.png",
+     "https://cdn2.steamgriddb.com/grid/58f8b182077e037d6b1af81c268e2492.jpg",
+     "https://cdn2.steamgriddb.com/grid/d745999e61e68c1b0814bce4b7922445.png",
+     "https://cdn2.steamgriddb.com/grid/60dd4b2d2367d8452463841b7d1101ce.png",
+     "https://cdn2.steamgriddb.com/icon/f3bed8a267de1902eedd8f03603a83cc.ico",
+     "https://cdn2.steamgriddb.com/icon/79d101630df6d313e10b24df196ce188.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/cbf4fcaa1ff6715bc78e0b76043d35e7.png",
+     "https://cdn2.steamgriddb.com/hero/2563905e7424a45cdc0156d4a310fe8e.png",
+     "https://cdn2.steamgriddb.com/hero/1310027e3cc8905b006af624e99937d0.png",
+     "https://cdn2.steamgriddb.com/hero/4920778d7bc2a4740fb1212c762cf02d.png",
+     "https://cdn2.steamgriddb.com/hero/9872fa97580ed34c9f30efcdab11e47a.png",
+     "https://cdn2.steamgriddb.com/hero/1c47f5f4ee9b51a92b74353f1acd918e.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/5a226c0a768ad5ff4a1f9c169c6cb3bb.png",
+     "https://cdn2.steamgriddb.com/logo/03f25204f0bce66d3539d799ba996d9d.png",
+     "https://cdn2.steamgriddb.com/logo/b6d31043519cf49e7b37e34f68770f9e.png",
+     "https://cdn2.steamgriddb.com/logo/8d693e4d348338f0c1cf674003393d6f.png",
+     "https://cdn2.steamgriddb.com/logo/92e25264ec68d1d1b8e1ee0723e00338.png"
+    ]
    }
   },
   {
@@ -1641,7 +3528,31 @@
     "name": "Pokémon: Let's Go, Pikachu!",
     "icon": "https://cdn2.steamgriddb.com/grid/267a5b12ffd722132f20df799085eddf.png",
     "bg": "https://cdn2.steamgriddb.com/hero/ab7a710458b8378b523e39143a6764d6.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/b37242925ffe0da400d9b98c254b9fcd.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/b37242925ffe0da400d9b98c254b9fcd.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/267a5b12ffd722132f20df799085eddf.png",
+     "https://cdn2.steamgriddb.com/grid/90aa8f1f8d554d0881e65b634dfa5100.jpg",
+     "https://cdn2.steamgriddb.com/grid/98dfcc4e600c68c27362b9874e629cd7.jpg",
+     "https://cdn2.steamgriddb.com/grid/451a36f8b7111e51e309b9aa41bb908f.jpg",
+     "https://cdn2.steamgriddb.com/grid/e85e05c9dc5e8dd67ad95732d67a90eb.jpg",
+     "https://cdn2.steamgriddb.com/grid/37dd05bbd12f682212fcbe33f2c0116f.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/ab7a710458b8378b523e39143a6764d6.png",
+     "https://cdn2.steamgriddb.com/hero/f937096fef321f91d5371899d8978f65.png",
+     "https://cdn2.steamgriddb.com/hero/68cebc783f17fd0e379546f41139e9d8.png",
+     "https://cdn2.steamgriddb.com/hero/9098781cd4a44c67dc3cfa78e6046d1e.jpg",
+     "https://cdn2.steamgriddb.com/hero/10fb29e5a07decb5ebd8b9438abf6b14.png",
+     "https://cdn2.steamgriddb.com/hero/6eef0821bbe4379821cf30009d0d754c.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/b37242925ffe0da400d9b98c254b9fcd.png",
+     "https://cdn2.steamgriddb.com/logo/70c897619faa59cd40cc270dc64c0e01.png",
+     "https://cdn2.steamgriddb.com/logo/28f1287e11d0452b811e7a4937989a20.png",
+     "https://cdn2.steamgriddb.com/logo/1c7640494d7b763e2f1521e08075cf61.png",
+     "https://cdn2.steamgriddb.com/logo/ea734165193024428762ecd8cbe338db.png",
+     "https://cdn2.steamgriddb.com/logo/c3e6ad79f71abed28197528e1603cf97.png"
+    ]
    }
   },
   {
@@ -1659,7 +3570,30 @@
     "name": "Pokémon Pokopia",
     "icon": "https://cdn2.steamgriddb.com/grid/fb21a44e72c537ccbba78f318fb1a86e.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/4451fa5f04be94bb9bf84086319bada0.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/b2169bea68921bc0f0bfa9a964494a6b.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/b2169bea68921bc0f0bfa9a964494a6b.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/fb21a44e72c537ccbba78f318fb1a86e.jpg",
+     "https://cdn2.steamgriddb.com/grid/dd343c779597afece742459153202eb6.png",
+     "https://cdn2.steamgriddb.com/grid/45d1a78364a82df52d921b1b7c6a6ace.png",
+     "https://cdn2.steamgriddb.com/grid/d8e21bd3c83c7fef0c58b08e720aae60.png",
+     "https://cdn2.steamgriddb.com/grid/177e06fe98fcd0df298caaf7f9cd8c80.png",
+     "https://cdn2.steamgriddb.com/icon/94b073bcf6fe7503ef412efce51726c9.ico"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/4451fa5f04be94bb9bf84086319bada0.png",
+     "https://cdn2.steamgriddb.com/hero/305dedfe752ce2bf6f58cea0c52ac0fb.png",
+     "https://cdn2.steamgriddb.com/hero/7d2ce0e3a092cae17b2c339e6b26ebb6.png",
+     "https://cdn2.steamgriddb.com/hero/b4759cbb8fc55bcb3dbe1fedbe6deb8a.png",
+     "https://cdn2.steamgriddb.com/hero/5ab22aea63a1636b652e988c02696823.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/b2169bea68921bc0f0bfa9a964494a6b.png",
+     "https://cdn2.steamgriddb.com/logo/97a5dfaf598afb6469a618e071a22586.png",
+     "https://cdn2.steamgriddb.com/logo/75b86fec02200cf83e82c350f7e63373.png",
+     "https://cdn2.steamgriddb.com/logo/f773fe03b47c63e506babf5d25598eca.png",
+     "https://cdn2.steamgriddb.com/logo/a767c168a69e9b80282f6d93b32fbb05.png",
+     "https://cdn2.steamgriddb.com/logo/7dabbad140fd98a6ce46c966fa4f0e66.png"
+    ]
    }
   },
   {
@@ -1677,7 +3611,31 @@
     "name": "Super Mario Odyssey",
     "icon": "https://cdn2.steamgriddb.com/grid/c3fb3726b0ddc215dbd5e7f611eedfc3.png",
     "bg": "https://cdn2.steamgriddb.com/hero/c4f3d709fb9f0df27c833911dac733eb.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/9baf82afda5f7d560678a1cc313189ba.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/9baf82afda5f7d560678a1cc313189ba.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/c3fb3726b0ddc215dbd5e7f611eedfc3.png",
+     "https://cdn2.steamgriddb.com/grid/afc5759130af625ba138e923f3e80275.png",
+     "https://cdn2.steamgriddb.com/grid/15417c59ae8711f3dbe67a6c123b4044.png",
+     "https://cdn2.steamgriddb.com/grid/1bf4c3d61fb96588646dbd94d4b1f2fe.png",
+     "https://cdn2.steamgriddb.com/grid/077327cf381d77a0291005e09b32b99c.png",
+     "https://cdn2.steamgriddb.com/grid/87f5da0412ca439b7a0ff7485e565ae0.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/c4f3d709fb9f0df27c833911dac733eb.png",
+     "https://cdn2.steamgriddb.com/hero/c657bb88929c8410c8b3dfb3d7a568e0.png",
+     "https://cdn2.steamgriddb.com/hero/e295402f4bc2d05c3daba18c489b2dbb.png",
+     "https://cdn2.steamgriddb.com/hero/32e3b21bc66430172c1dfab60d110b35.png",
+     "https://cdn2.steamgriddb.com/hero/30fd8d8284df1b99f53ca5d50ceb6fd9.png",
+     "https://cdn2.steamgriddb.com/hero/5b526c7339b55f1b30bf08d647cb19ef.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/9baf82afda5f7d560678a1cc313189ba.png",
+     "https://cdn2.steamgriddb.com/logo/9bcc497db9a888cacffb2780c613790c.png",
+     "https://cdn2.steamgriddb.com/logo/465ba05ebbc235f3c73969e3a49c6787.png",
+     "https://cdn2.steamgriddb.com/logo/670677db6b4c1be46b4309c2bbade99d.png",
+     "https://cdn2.steamgriddb.com/logo/d836f4d0bf7066a1ac5cbe1ef0e4104e.png",
+     "https://cdn2.steamgriddb.com/logo/88821b2f042b5c4b27ab98db6f46f1e8.png"
+    ]
    }
   },
   {
@@ -1695,7 +3653,31 @@
     "name": "Super Mario Odyssey",
     "icon": "https://cdn2.steamgriddb.com/grid/c3fb3726b0ddc215dbd5e7f611eedfc3.png",
     "bg": "https://cdn2.steamgriddb.com/hero/c4f3d709fb9f0df27c833911dac733eb.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/9baf82afda5f7d560678a1cc313189ba.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/9baf82afda5f7d560678a1cc313189ba.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/c3fb3726b0ddc215dbd5e7f611eedfc3.png",
+     "https://cdn2.steamgriddb.com/grid/afc5759130af625ba138e923f3e80275.png",
+     "https://cdn2.steamgriddb.com/grid/15417c59ae8711f3dbe67a6c123b4044.png",
+     "https://cdn2.steamgriddb.com/grid/1bf4c3d61fb96588646dbd94d4b1f2fe.png",
+     "https://cdn2.steamgriddb.com/grid/077327cf381d77a0291005e09b32b99c.png",
+     "https://cdn2.steamgriddb.com/grid/87f5da0412ca439b7a0ff7485e565ae0.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/c4f3d709fb9f0df27c833911dac733eb.png",
+     "https://cdn2.steamgriddb.com/hero/c657bb88929c8410c8b3dfb3d7a568e0.png",
+     "https://cdn2.steamgriddb.com/hero/e295402f4bc2d05c3daba18c489b2dbb.png",
+     "https://cdn2.steamgriddb.com/hero/32e3b21bc66430172c1dfab60d110b35.png",
+     "https://cdn2.steamgriddb.com/hero/30fd8d8284df1b99f53ca5d50ceb6fd9.png",
+     "https://cdn2.steamgriddb.com/hero/5b526c7339b55f1b30bf08d647cb19ef.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/9baf82afda5f7d560678a1cc313189ba.png",
+     "https://cdn2.steamgriddb.com/logo/9bcc497db9a888cacffb2780c613790c.png",
+     "https://cdn2.steamgriddb.com/logo/465ba05ebbc235f3c73969e3a49c6787.png",
+     "https://cdn2.steamgriddb.com/logo/670677db6b4c1be46b4309c2bbade99d.png",
+     "https://cdn2.steamgriddb.com/logo/d836f4d0bf7066a1ac5cbe1ef0e4104e.png",
+     "https://cdn2.steamgriddb.com/logo/88821b2f042b5c4b27ab98db6f46f1e8.png"
+    ]
    }
   },
   {
@@ -1713,7 +3695,31 @@
     "name": "Xenoblade Chronicles 2",
     "icon": "https://cdn2.steamgriddb.com/grid/a542f1320e872babf3b50aecdabbadae.png",
     "bg": "https://cdn2.steamgriddb.com/hero/0baa10f95ef302bf877f1f11e8ffef58.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/8ccf849734993abe369360d16d262328.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/8ccf849734993abe369360d16d262328.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/a542f1320e872babf3b50aecdabbadae.png",
+     "https://cdn2.steamgriddb.com/grid/4e469e29e4da86d63d229bcdc9100572.png",
+     "https://cdn2.steamgriddb.com/grid/f87add86fb603cab07f1a2eaaaa0cf66.png",
+     "https://cdn2.steamgriddb.com/grid/c9e4f79abd0bb0ccfb32e03103c64d81.png",
+     "https://cdn2.steamgriddb.com/grid/792b4851789cca174ee750284c7b1501.jpg",
+     "https://cdn2.steamgriddb.com/grid/90118f415d3ab9de854baffd727f80d0.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/0baa10f95ef302bf877f1f11e8ffef58.png",
+     "https://cdn2.steamgriddb.com/hero/4d3a7367704ce9c3c572b4542592a36e.png",
+     "https://cdn2.steamgriddb.com/hero/70c6abb042b76f871a354c8b9f597139.jpg",
+     "https://cdn2.steamgriddb.com/hero/d82e15181691216b3acb150879aba9b7.png",
+     "https://cdn2.steamgriddb.com/hero/1d10b7d089b9b4dde839c94dd515dd10.png",
+     "https://cdn2.steamgriddb.com/hero/dc24b0230f07e56bd297b2ccc9c35c35.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/8ccf849734993abe369360d16d262328.png",
+     "https://cdn2.steamgriddb.com/logo/a705de2314d8046d0d8028ad75db3d39.png",
+     "https://cdn2.steamgriddb.com/logo/1cb13b2954de2bab997e4e269c6bf33c.png",
+     "https://cdn2.steamgriddb.com/logo/c5371d9ca1b64d0d01d769338907d3a6.png",
+     "https://cdn2.steamgriddb.com/logo/39b131b80a5c588386bd278a8337e286.png",
+     "https://cdn2.steamgriddb.com/logo/5c3bfdfc092735f6ea6fe40f07e57823.png"
+    ]
    }
   },
   {
@@ -1731,7 +3737,29 @@
     "name": "Xenoblade Chronicles X: Definitive Edition",
     "icon": "https://cdn2.steamgriddb.com/grid/04df874cff3f2785294af2c5eeacc341.png",
     "bg": "https://cdn2.steamgriddb.com/hero/5ec4db6c6a3e8cb9a5fb34c44a09d751.png",
-    "logo": "https://cdn2.steamgriddb.com/logo/01e734c3c316a4d25b360090625068dc.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/01e734c3c316a4d25b360090625068dc.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/04df874cff3f2785294af2c5eeacc341.png",
+     "https://cdn2.steamgriddb.com/grid/65407d95b6358329ac4a049afaf99f62.png",
+     "https://cdn2.steamgriddb.com/grid/3585ab6830cac1d2073f6307217aa15a.jpg",
+     "https://cdn2.steamgriddb.com/grid/61c04936cf7f1a9216e81d34955b5b11.png",
+     "https://cdn2.steamgriddb.com/grid/66127bd47adc934a8b13111623050a81.png",
+     "https://cdn2.steamgriddb.com/icon/c03de839a4a3659642321f50d8b0259d.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/5ec4db6c6a3e8cb9a5fb34c44a09d751.png",
+     "https://cdn2.steamgriddb.com/hero/28b2cd3d009fe208ee54280c99b41b38.png",
+     "https://cdn2.steamgriddb.com/hero/ab2d8e7d1379cd27b4f26cd1a328a06d.png",
+     "https://cdn2.steamgriddb.com/hero/df4ba29ba48cb9c647be7cfe5ca84caa.png",
+     "https://cdn2.steamgriddb.com/hero/22a7407307460a0bbc05383686cf755f.png",
+     "https://cdn2.steamgriddb.com/hero/e2d97b1756e64745c5b1aa57b5b28eee.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/01e734c3c316a4d25b360090625068dc.png",
+     "https://cdn2.steamgriddb.com/logo/53891ea8e84e9f371ce8cb62ac18055d.png",
+     "https://cdn2.steamgriddb.com/logo/1f1d1de0c9557dfebb793ea4d29f43dc.png",
+     "https://cdn2.steamgriddb.com/logo/b09c6956ef82c1fc6cbf3b8965906554.png"
+    ]
    }
   },
   {
@@ -1750,7 +3778,31 @@
     "name": "The Legend of Zelda: Ocarina of Time",
     "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+     "https://cdn2.steamgriddb.com/grid/015c723c08d6a18dace28511389ae8ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/a35042f06ced21ea32707894c9469b4c.png",
+     "https://cdn2.steamgriddb.com/grid/23049c7f95172d4ff35f659d4cd0beb3.png",
+     "https://cdn2.steamgriddb.com/grid/9ff04ae82ef6f710c5955c478a69bec1.png",
+     "https://cdn2.steamgriddb.com/grid/edc91a64d29e7799e2e9499fca902bb9.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+     "https://cdn2.steamgriddb.com/hero/e1557e72fd5a8da1b41dff46f228cf28.png",
+     "https://cdn2.steamgriddb.com/hero/eb11b24c94896528ce273c400871db70.jpg",
+     "https://cdn2.steamgriddb.com/hero/f73e8ce225cd2f7a04b3d9c8343e5cf6.jpg",
+     "https://cdn2.steamgriddb.com/hero/60bf55799d38c1e4f24796b9633fe6db.png",
+     "https://cdn2.steamgriddb.com/hero/747dc04bd53f1fa98755eaca2b6e6346.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+     "https://cdn2.steamgriddb.com/logo/457b8ab6e22b010780b02fab2d09eaef.png",
+     "https://cdn2.steamgriddb.com/logo/9b365fc974033bf672cdec24386948e3.png",
+     "https://cdn2.steamgriddb.com/logo/d82a75fcfc7578ccf50aad082c2ee9cb.png",
+     "https://cdn2.steamgriddb.com/logo/a307fe6bfbd0ef11c03bbc593e617702.png",
+     "https://cdn2.steamgriddb.com/logo/98e82dc2279b1e5fee310c8adefe5bc7.png"
+    ]
    }
   },
   {
@@ -1769,7 +3821,31 @@
     "name": "The Legend of Zelda: Ocarina of Time",
     "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+     "https://cdn2.steamgriddb.com/grid/015c723c08d6a18dace28511389ae8ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/a35042f06ced21ea32707894c9469b4c.png",
+     "https://cdn2.steamgriddb.com/grid/23049c7f95172d4ff35f659d4cd0beb3.png",
+     "https://cdn2.steamgriddb.com/grid/9ff04ae82ef6f710c5955c478a69bec1.png",
+     "https://cdn2.steamgriddb.com/grid/edc91a64d29e7799e2e9499fca902bb9.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+     "https://cdn2.steamgriddb.com/hero/e1557e72fd5a8da1b41dff46f228cf28.png",
+     "https://cdn2.steamgriddb.com/hero/eb11b24c94896528ce273c400871db70.jpg",
+     "https://cdn2.steamgriddb.com/hero/f73e8ce225cd2f7a04b3d9c8343e5cf6.jpg",
+     "https://cdn2.steamgriddb.com/hero/60bf55799d38c1e4f24796b9633fe6db.png",
+     "https://cdn2.steamgriddb.com/hero/747dc04bd53f1fa98755eaca2b6e6346.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+     "https://cdn2.steamgriddb.com/logo/457b8ab6e22b010780b02fab2d09eaef.png",
+     "https://cdn2.steamgriddb.com/logo/9b365fc974033bf672cdec24386948e3.png",
+     "https://cdn2.steamgriddb.com/logo/d82a75fcfc7578ccf50aad082c2ee9cb.png",
+     "https://cdn2.steamgriddb.com/logo/a307fe6bfbd0ef11c03bbc593e617702.png",
+     "https://cdn2.steamgriddb.com/logo/98e82dc2279b1e5fee310c8adefe5bc7.png"
+    ]
    }
   },
   {
@@ -1788,7 +3864,31 @@
     "name": "The Legend of Zelda: Ocarina of Time",
     "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+     "https://cdn2.steamgriddb.com/grid/015c723c08d6a18dace28511389ae8ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/a35042f06ced21ea32707894c9469b4c.png",
+     "https://cdn2.steamgriddb.com/grid/23049c7f95172d4ff35f659d4cd0beb3.png",
+     "https://cdn2.steamgriddb.com/grid/9ff04ae82ef6f710c5955c478a69bec1.png",
+     "https://cdn2.steamgriddb.com/grid/edc91a64d29e7799e2e9499fca902bb9.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+     "https://cdn2.steamgriddb.com/hero/e1557e72fd5a8da1b41dff46f228cf28.png",
+     "https://cdn2.steamgriddb.com/hero/eb11b24c94896528ce273c400871db70.jpg",
+     "https://cdn2.steamgriddb.com/hero/f73e8ce225cd2f7a04b3d9c8343e5cf6.jpg",
+     "https://cdn2.steamgriddb.com/hero/60bf55799d38c1e4f24796b9633fe6db.png",
+     "https://cdn2.steamgriddb.com/hero/747dc04bd53f1fa98755eaca2b6e6346.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+     "https://cdn2.steamgriddb.com/logo/457b8ab6e22b010780b02fab2d09eaef.png",
+     "https://cdn2.steamgriddb.com/logo/9b365fc974033bf672cdec24386948e3.png",
+     "https://cdn2.steamgriddb.com/logo/d82a75fcfc7578ccf50aad082c2ee9cb.png",
+     "https://cdn2.steamgriddb.com/logo/a307fe6bfbd0ef11c03bbc593e617702.png",
+     "https://cdn2.steamgriddb.com/logo/98e82dc2279b1e5fee310c8adefe5bc7.png"
+    ]
    }
   },
   {
@@ -1807,7 +3907,31 @@
     "name": "The Legend of Zelda: Ocarina of Time",
     "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+     "https://cdn2.steamgriddb.com/grid/015c723c08d6a18dace28511389ae8ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/a35042f06ced21ea32707894c9469b4c.png",
+     "https://cdn2.steamgriddb.com/grid/23049c7f95172d4ff35f659d4cd0beb3.png",
+     "https://cdn2.steamgriddb.com/grid/9ff04ae82ef6f710c5955c478a69bec1.png",
+     "https://cdn2.steamgriddb.com/grid/edc91a64d29e7799e2e9499fca902bb9.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+     "https://cdn2.steamgriddb.com/hero/e1557e72fd5a8da1b41dff46f228cf28.png",
+     "https://cdn2.steamgriddb.com/hero/eb11b24c94896528ce273c400871db70.jpg",
+     "https://cdn2.steamgriddb.com/hero/f73e8ce225cd2f7a04b3d9c8343e5cf6.jpg",
+     "https://cdn2.steamgriddb.com/hero/60bf55799d38c1e4f24796b9633fe6db.png",
+     "https://cdn2.steamgriddb.com/hero/747dc04bd53f1fa98755eaca2b6e6346.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+     "https://cdn2.steamgriddb.com/logo/457b8ab6e22b010780b02fab2d09eaef.png",
+     "https://cdn2.steamgriddb.com/logo/9b365fc974033bf672cdec24386948e3.png",
+     "https://cdn2.steamgriddb.com/logo/d82a75fcfc7578ccf50aad082c2ee9cb.png",
+     "https://cdn2.steamgriddb.com/logo/a307fe6bfbd0ef11c03bbc593e617702.png",
+     "https://cdn2.steamgriddb.com/logo/98e82dc2279b1e5fee310c8adefe5bc7.png"
+    ]
    }
   },
   {
@@ -1834,7 +3958,31 @@
     "name": "The Legend of Zelda: Ocarina of Time",
     "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+     "https://cdn2.steamgriddb.com/grid/015c723c08d6a18dace28511389ae8ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/a35042f06ced21ea32707894c9469b4c.png",
+     "https://cdn2.steamgriddb.com/grid/23049c7f95172d4ff35f659d4cd0beb3.png",
+     "https://cdn2.steamgriddb.com/grid/9ff04ae82ef6f710c5955c478a69bec1.png",
+     "https://cdn2.steamgriddb.com/grid/edc91a64d29e7799e2e9499fca902bb9.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+     "https://cdn2.steamgriddb.com/hero/e1557e72fd5a8da1b41dff46f228cf28.png",
+     "https://cdn2.steamgriddb.com/hero/eb11b24c94896528ce273c400871db70.jpg",
+     "https://cdn2.steamgriddb.com/hero/f73e8ce225cd2f7a04b3d9c8343e5cf6.jpg",
+     "https://cdn2.steamgriddb.com/hero/60bf55799d38c1e4f24796b9633fe6db.png",
+     "https://cdn2.steamgriddb.com/hero/747dc04bd53f1fa98755eaca2b6e6346.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+     "https://cdn2.steamgriddb.com/logo/457b8ab6e22b010780b02fab2d09eaef.png",
+     "https://cdn2.steamgriddb.com/logo/9b365fc974033bf672cdec24386948e3.png",
+     "https://cdn2.steamgriddb.com/logo/d82a75fcfc7578ccf50aad082c2ee9cb.png",
+     "https://cdn2.steamgriddb.com/logo/a307fe6bfbd0ef11c03bbc593e617702.png",
+     "https://cdn2.steamgriddb.com/logo/98e82dc2279b1e5fee310c8adefe5bc7.png"
+    ]
    }
   },
   {
@@ -1853,7 +4001,31 @@
     "name": "The Legend of Zelda: Ocarina of Time",
     "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+     "https://cdn2.steamgriddb.com/grid/015c723c08d6a18dace28511389ae8ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/a35042f06ced21ea32707894c9469b4c.png",
+     "https://cdn2.steamgriddb.com/grid/23049c7f95172d4ff35f659d4cd0beb3.png",
+     "https://cdn2.steamgriddb.com/grid/9ff04ae82ef6f710c5955c478a69bec1.png",
+     "https://cdn2.steamgriddb.com/grid/edc91a64d29e7799e2e9499fca902bb9.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+     "https://cdn2.steamgriddb.com/hero/e1557e72fd5a8da1b41dff46f228cf28.png",
+     "https://cdn2.steamgriddb.com/hero/eb11b24c94896528ce273c400871db70.jpg",
+     "https://cdn2.steamgriddb.com/hero/f73e8ce225cd2f7a04b3d9c8343e5cf6.jpg",
+     "https://cdn2.steamgriddb.com/hero/60bf55799d38c1e4f24796b9633fe6db.png",
+     "https://cdn2.steamgriddb.com/hero/747dc04bd53f1fa98755eaca2b6e6346.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+     "https://cdn2.steamgriddb.com/logo/457b8ab6e22b010780b02fab2d09eaef.png",
+     "https://cdn2.steamgriddb.com/logo/9b365fc974033bf672cdec24386948e3.png",
+     "https://cdn2.steamgriddb.com/logo/d82a75fcfc7578ccf50aad082c2ee9cb.png",
+     "https://cdn2.steamgriddb.com/logo/a307fe6bfbd0ef11c03bbc593e617702.png",
+     "https://cdn2.steamgriddb.com/logo/98e82dc2279b1e5fee310c8adefe5bc7.png"
+    ]
    }
   },
   {
@@ -1872,7 +4044,31 @@
     "name": "The Legend of Zelda: Ocarina of Time",
     "icon": "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
     "bg": "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
-    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+    "icons": [
+     "https://cdn2.steamgriddb.com/grid/5418616f92f0dd541a21ac6a025f4db7.jpg",
+     "https://cdn2.steamgriddb.com/grid/015c723c08d6a18dace28511389ae8ab.jpg",
+     "https://cdn2.steamgriddb.com/grid/a35042f06ced21ea32707894c9469b4c.png",
+     "https://cdn2.steamgriddb.com/grid/23049c7f95172d4ff35f659d4cd0beb3.png",
+     "https://cdn2.steamgriddb.com/grid/9ff04ae82ef6f710c5955c478a69bec1.png",
+     "https://cdn2.steamgriddb.com/grid/edc91a64d29e7799e2e9499fca902bb9.png"
+    ],
+    "bgs": [
+     "https://cdn2.steamgriddb.com/hero/3c2519ec05af2673a83ef956ef065852.jpg",
+     "https://cdn2.steamgriddb.com/hero/e1557e72fd5a8da1b41dff46f228cf28.png",
+     "https://cdn2.steamgriddb.com/hero/eb11b24c94896528ce273c400871db70.jpg",
+     "https://cdn2.steamgriddb.com/hero/f73e8ce225cd2f7a04b3d9c8343e5cf6.jpg",
+     "https://cdn2.steamgriddb.com/hero/60bf55799d38c1e4f24796b9633fe6db.png",
+     "https://cdn2.steamgriddb.com/hero/747dc04bd53f1fa98755eaca2b6e6346.png"
+    ],
+    "logos": [
+     "https://cdn2.steamgriddb.com/logo/373ca39d0a5c1dc1141f9f279d92280f.png",
+     "https://cdn2.steamgriddb.com/logo/457b8ab6e22b010780b02fab2d09eaef.png",
+     "https://cdn2.steamgriddb.com/logo/9b365fc974033bf672cdec24386948e3.png",
+     "https://cdn2.steamgriddb.com/logo/d82a75fcfc7578ccf50aad082c2ee9cb.png",
+     "https://cdn2.steamgriddb.com/logo/a307fe6bfbd0ef11c03bbc593e617702.png",
+     "https://cdn2.steamgriddb.com/logo/98e82dc2279b1e5fee310c8adefe5bc7.png"
+    ]
    }
   }
  ]
