@@ -70,7 +70,7 @@
     "date": "2026-11-16T00:38:13Z",
     "body": "**Savage Wind Alpha 6: the upscaler update.**\n\n> [!IMPORTANT]\n> **No game files are included.** You need your own legally obtained copy of the game, updated to **version 1.9.0**\n> (and the DLC, version 3.0, if you want it), extracted from **your own** Nintendo Switch. Savage Wind provides no game\n> files, keys, firmware, dumping or decryption tools, or instructions to obtain any of them, and it never decrypts\n> anything. The game code is recompiled on your machine, from your files, for your own use only: don't share it.\n> Respect the copyright laws of your country. This is a fan project, not affiliated with or endorsed by Nintendo.\n\n## Downloads\n\n| File | For | Status |\n|---|---|---|\n| `SavageWind-0.6.0-alpha.6-windows.zip` | Windows 10 or later, x86-64 | Supported |\n| `Savage_Wind-0.6.0-alpha.6-x86_64.AppImage` | Linux x86-64 with glibc 2.35 or newer (Ubuntu 22.04, Debian 12, Fedora 36, Arch, SteamOS...) | Supported |\n| `Savage_Wind-0.6.0-alpha.6-aarch64.AppImage` | Linux on ARM64 with a Vulkan 1.3 driver | **Highly experimental** |\n\nThe `.sig` files next to them are what Savage Wind checks before it installs an update: you don't need them.\n\n## Updating to Alpha 6\n\n**From 0.5.1, 0.5.2 or 0.5.3:** Savage Wind Configuration offers it: press **Update**. On the first start the game code\nis built again for this version (a few minutes). Your game files, saves and settings stay.\n\n**From 0.5.0 or older:** by hand, once: extract the zip over your old folder (Windows), or use the new AppImage (Linux).\n\n**NVIDIA DLSS:** Savage Wind doesn't ship NVIDIA's library. Savage Wind Configuration downloads it from NVIDIA's own\nrepository on your PC. Without internet, copy `nvngx_dlss.dll` next to `savagewind.exe`.\n\n### Upscalers and graphics\n\n- **NVIDIA DLSS** in Video > Upscaler, on RTX graphics cards on Windows ([#602](https://github.com/Revivedx/SavageWindRecomp/pull/602) by Yiozolm). Savage Wind doesn't\n  ship NVIDIA's library: Savage Wind Configuration downloads it from NVIDIA's "
    },
-   "relAt": 1795261177063
+   "relAt": 1795261316687
   },
   {
    "id": "zelda64",
@@ -139,7 +139,7 @@
     "date": "2025-08-27T00:58:35Z",
     "body": "1.2.2 Changelog:\r\n* Hotfix for an issue that caused bad frame pacing on some multi-monitor setups.\r\n\r\n> [!NOTE]\r\nWondering about your save data when upgrading? Don't worry! Your save data is stored separately to the game itself. You can overwrite your old version and your save data will still be there, completely intact, and will work on the new version.\r\n\r\n> [!NOTE]  \r\n> **Intel GPU users:** Using outdated Intel drivers may cause the game to crash or cause graphical glitches. Please make sure your drivers are up-to-date before playing.\r\n>\r\n> [Intel HD 11th+ Gen/Intel Arc/Iris Xe](https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphics-windows.html)\r\n> [Intel HD 7th-10th Gen](https://www.intel.com/content/www/us/en/download/776137/intel-7th-10th-gen-processor-graphics-windows.html)\r\n> [Intel HD 6th Gen](https://www.intel.com/content/www/us/en/download/762755/intel-6th-10th-gen-processor-graphics-windows.html)\r\n>\r\n> Do not use your operating system or driver suite to check for driver updates, sometimes these updates are not distributed by vendors. Always check Intel's website for the latest drivers."
    },
-   "relAt": 1795261177400
+   "relAt": 1795261317093
   },
   {
    "id": "hookshot",
@@ -208,7 +208,7 @@
     "date": "2026-11-21T03:13:01Z",
     "body": "| Download | |\n|---|---|\n| **Windows** | [HookshotBuilder.exe](https://git.notrexed.dev/Hookshot/Hookshot/releases/download/v3.0.1/HookshotBuilder.exe) |\n| **Linux and Steam Deck** | [Hookshot-v3.0.1-x86_64.AppImage](https://git.notrexed.dev/Hookshot/Hookshot/releases/download/v3.0.1/Hookshot-v3.0.1-x86_64.AppImage) |\n\nHookshot Builder builds the game on your PC from your own copy of Ocarina of Time (Switch 2). Nothing of the game is in these files.\n\n## What's fixed\n\n**Linux and Steam Deck**\n- v3.0.0 did not build on Linux: the build stopped in `vk_wheel.cpp` with errors such as `use of undeclared identifier 'CreateCompatibleDC'`. The item wheel's labels are now drawn with Hookshot's bundled font on Linux, so the game builds again. Thanks to diacodion for the fix.\n\nIf your Linux update to v3.0.0 failed, update again: your saves and settings are kept.\n\nWindows players: nothing changed for you since v3.0.0, so there is no need to update.\n\nEverything new in v3.0.0 is in [v3.0.0's notes](https://git.notrexed.dev/Hookshot/Hookshot/releases/tag/v3.0.0).\n"
    },
-   "relAt": 1795261177600
+   "relAt": 1795261317194
   },
   {
    "id": "totkpc",
@@ -277,7 +277,7 @@
     "date": "2026-11-15T16:45:04Z",
     "body": "To update, run the new installer on your existing install folder. It keeps your game files, saves and `totk.ini`, and rebuilds `totk.exe` and the shaders.\r\n\r\n> [!WARNING]\r\n> I have not tested the Linux build myself. DLSS is tested by the community only: I don't have the hardware for it.\r\n\r\n> [!NOTE]\r\n> **If something got worse.** Change one at a time (the settings menu, F1, or `totk.ini`), restart the game and check the same place. Then open an issue with `logs/totk.log` attached and say which switch helped.\r\n>\r\n> - **FPS falls after 5-10 minutes of play and a restart brings it back (#1174).** Add `addr_report = 0` under `[diagnostics]` in `totk.ini`.\r\n> - **Graphics artifacts, wrong textures or colours:** `memx = 0`.\r\n> - **AMD on Windows, new holes or noisy edges on foliage, fences or hair:** start the game with the environment variable `TOTK_DEMOTE=0`.\r\n> - **HDR colours look wrong:** `hdr_hue = 0`.\r\n> - **Objects, Recall or Ultrahand behave oddly:** `optref_guard = 0`, `ability_guard = 0` or `report_guard = 0`. Each turns off a crash guard, so the crash it stops can come back.\r\n\r\n<details>\r\n<summary><b>Experimental: the Linux PGO build and settings that are off by default.</b></summary>\r\n\r\n**Experimental Linux build with PGO.** `TotK-Setup-0.4.1-x86_64-pgo.AppImage` is built with profile-guided optimisation, as the Windows installer is. On Windows PGO gives 6-12% more FPS, and the Linux build should gain about as much, but nobody has measured it on Linux yet. If it misbehaves, use `TotK-Setup-0.4.1-x86_64.AppImage`. Please report your FPS with both builds in an issue.\r\n\r\n**Settings.** These switches can give more FPS on some PCs and do nothing or harm on others. Set them in the Advanced tab of the settings menu (F1) or in `totk.ini` under `[performance]`; they take effect at the next start unless noted. Try one at a time and compare the FPS at the same place. If one breaks something, set it back to its default and tell us in an issue with `logs/totk.log` attache"
    },
-   "relAt": 1795261177982
+   "relAt": 1795261317551
   },
   {
    "id": "ultratears",
@@ -346,7 +346,7 @@
     "date": "2026-11-11T22:52:05Z",
     "body": "**UltraTears 0.4.0** builds a native version of *Tears of the Kingdom* 1.4.3 for Windows, Linux and the Steam Deck from your own dumped copy. No game files, keys or Nintendo code are included.\r\n\r\n**A smoother and faster game, the Steam Deck at 40 fps, FSR 3.1, mods, keyboard and mouse.**\r\n\r\n- **Smoother and faster:** the GPU starts on a frame while it is still being recorded, the game's code is built with a run profile, and far fewer hitches while the world streams in. Shrines run at full speed.\r\n- **Steam Deck: at least 40 fps in about 95 % of places.** Recommended for now: frame limit 40 in the launcher, the frame limit off in the Steam overlay, and 80 Hz on a Steam Deck OLED (45 fps works too).\r\n- **FSR 3.1 and SMAA:** temporal upscaling with per-object motion in place of the game's FSR 1, and SMAA 1x in place of its FXAA.\r\n- **Mods and cheats:** a `mods` folder in the emulators' layout; RomFS mods, ExeFS patches and Atmosphere cheats, each switched on or off in the launcher's new **Mods** tab without rebuilding the game.\r\n- **Keyboard and mouse made for the PC:** a new key layout, the mouse turns every camera and aims, mouse buttons bindable, sensitivity and inversion in the launcher.\r\n- **Controllers:** an Xbox / Steam Deck layout, every button and key bindable, button prompts that follow your bindings, stick and gyro dead zones; the launcher works with a controller.\r\n- **Fixes:** no more stripes on distant islands when the camera turns, grass can be cut and burnt, particles move again, shrine walls no longer flicker, desert sand no longer rises into walls, the rope at the Popla tower no longer tears; crashes with Recall / Ultrahand, when naming a horse and with Chinese or Korean text; installs in folders with spaces or `:` in the name.\r\n\r\n**This is a big update:** the game is rebuilt almost from the start, about 30-40 minutes on a PC, longer on a Steam Deck. Update when you are ready to wait that long; saves stay. Accept it in the launcher, or by hand: extract"
    },
-   "relAt": 1795261178328
+   "relAt": 1795261317912
   },
   {
    "id": "weeping",
@@ -415,7 +415,7 @@
     "date": "2026-11-08T02:59:45Z",
     "body": "## Fixes\n\n- **Treasure chest with a full inventory** (#106): the full-pouch strip is now handled as a menu, so picking an item or leaving it works (E, Esc, Space, the pad) and the chest should no longer leave the game stuck (not yet checked in play by us). If you still get stuck, tell us where.\n- **Exclusive fullscreen** (Display > Fullscreen mode): a resolution is found on monitors that list more than 512 display modes (a 1440p panel with 590 entries had no 1920x1080 @ 240). When Windows changes the display mode behind the game, or the window ends up off its monitor after a display change, the game sets its mode again and covers the monitor again.\n- **F10 > Controls > Reset this page to defaults** no longer leaves Keyboard layout on Custom.\n- **Recall on wider screens (game 1.0.0):** the Recall reticle is placed for 21:9, 32:9, 16:10 and 3:2 screens. In our tests at 21:9 and 32:9 it reaches the edges of the screen and the HUD sits in the corners; aiming it at a target and the Recall ring there are not yet checked by us, nor 16:10 and 3:2 in play.\n- **Game 1.4.3 (beta), shadows** (#97): in one player's tests the inventory crash on 1.4.3 came at Shadow resolution 2 only (1.5 and 1.75 were fine; 1.0.0 is clean at 2). On any game version other than 1.0.0 the shadow resolution is now held at 1.75 (a saved 2 or the High / Ultra presets land at 1.75; F10 shows it as `2.00 (-> 1.75)`). Game 1.0.0 is unchanged. Not yet tried by us on 1.4.3 at High: our 1.4.3 test runs used the default settings.\n- **Game 1.4.3 (beta), upscalers:** DLSS, XeSS, FSR and frame generation now recognise 1.4.3's own upscale pass, so at the 1600x900 tier they take it over as they do on 1.0.0. We checked it with DLSS on an RTX 5080; XeSS, FSR and frame generation on 1.4.3 are not yet tried by us.\n- **Quick menus** (weapon, shield, bow, rune and the like wheels): they no longer drop to 60 fps for 3 to 4 seconds while the button is held; the Switch's input timing now ends 100 ms after the menu opens, a"
    },
-   "relAt": 1795261178673
+   "relAt": 1795261318303
   },
   {
    "id": "unleashed",
@@ -484,7 +484,7 @@
     "date": "2025-04-03T22:04:45Z",
     "body": "> [!NOTE]\r\n> Updates for Unleashed Recompiled do not need a complete reinstallation of the game.\r\n>\r\n> Your save data and configuration will remain intact from the previous release.\r\n>\r\n\r\n> [!WARNING]\r\n> If your antivirus software flags Unleashed Recompiled, it is a false positive. Builds downloaded from this page are always going to be safe.\r\n\r\n> [!WARNING]\r\n> If you previously launched Unleashed Recompiled via Windows Search and successfully installed the game, your game files have likely been installed to System32.\r\n>\r\n> If this is the case, please reinstall the game using the installer. Your save data and configuration will remain intact from the previous installation.\r\n\r\n## How to Update\r\n\r\n### Windows\r\n\r\n- Extract the `*.zip` file on top of your current installation. **Do not extract the update and attempt to run it in a different folder.**\r\n- When asked if you want to overwrite your files, click **Yes**.\r\n\r\n### Linux (Flatpak)\r\n\r\n- Extract the `*.zip` file and double-click on the Flatpak.\r\n- Discover will bring up Unleashed Recompiled. Click **Remove**. **Do not delete the application's data, or you'll need to reinstall the game**.\r\n- When the process is complete, simply click **Install** again.\r\n\r\n## Changelog\r\n\r\n* Implemented additional safeguards to prevent crashes on startup. (#1459, #1480)\r\n* Fixed a rare race condition where the game could crash during loading screens. (#1486)\r\n* Fixed an issue where selecting anti-aliasing levels unavailable to the hardware would crash the game. (#1446)\r\n* Fixed an issue where integrated Intel GPUs had extremely slow loading times and took too long to load terrain in stages like Rooftop Run. (#1421)\r\n* Fixed the whale in Cool Edge not having reflections. (#1441)\r\n* Fixed an issue where the ending staff roll text was cropped at narrow aspect ratios. (#1489)\r\n* Fixed the Shop/Hotdog Stand title backgrounds shifting away from the text at narrow aspect ratios. (#1425)\r\n* Fixed the art book from Sandra (\"Quiz Lady\") being u"
    },
-   "relAt": 1795261179062
+   "relAt": 1795261318688
   },
   {
    "id": "dinoplanet",
@@ -532,7 +532,7 @@
     "date": "2026-05-31T00:23:46Z",
     "body": "> [!NOTE]\r\n> **Mod Compatibility**: Dinomod Enhanced must be updated to the latest version to play this recomp release (v0.9.0+ is required). Additionally, the Asset Repacker mod has been superseded by new built-in recomp functionality and should be uninstalled (Dinomod Enhanced no longer requires it).\r\n> The latest version of each mod can be found on [Thunderstore](https://thunderstore.io/c/dinosaur-planet-recompiled/).\r\n\r\n#### New\r\n- Dinosaur Planet can now be experienced at any framerate you want without affecting gameplay! This setting can be found under `Graphics -> Framerate`. **Please note:** While the majority of the game now supports this, the setting is still a work in progress and you will experience minor graphical glitches when active.\r\n- The HUD can now be adjusted for widescreen display. This setting can be found under `Graphics -> HUD Placement`.\r\n- Widescreen is no longer considered experimental. Feel free to set `Graphics -> Aspect Ratio` to Expand if it's not already set. **Note:** Playing at aspect ratios wider than 16:9 is not recommended. Wider aspects may encounter graphical issues.\r\n- HUD and minimap visibility can now be adjusted in the General settings tab.\r\n- The launcher background has been redesigned, thanks to [@rustyspottedcats](https://github.com/rustyspottedcats)!\r\n\r\n#### Changes\r\n- The cheats debug UI menu has been overhauled and now includes an inventory editor.\r\n- The game's icon is now higher quality.\r\n- Removed the '60 Hz Gameplay' option. Mods now have control over this.\r\n\r\n#### Bug Fixes\r\n- Motion blur and framebuffer effects will now display correctly.\r\n- Fixed glitchy font glyph rendering when text was display along the edge of a scissor.\r\n- Screens (\"Krystal/Sabre's Adventure\") now correctly fill the whole screen in widescreen.\r\n- Letterboxing animations now correctly reach the intended height.\r\n- Toggling fullscreen via a hotkey will now correctly save the adjusted fullscreen setting.\r\n\r\n#### Patches\r\n- Main graphics buffe"
    },
-   "relAt": 1795261179442
+   "relAt": 1795261319066
   },
   {
    "id": "goemon64",
@@ -580,7 +580,7 @@
     "date": "2026-01-31T15:40:34Z",
     "body": "* Background music and sound effects volume slider added\r\n* User interface overhaul\r\n* Fix issues related to some controllers not being detected\r\n* Scheduler improvements to prevent lockups when severe slowdown occurs\r\n* ROM decompression routine implemented for use at first boot and with mods\r\n* Translation lookaside buffer emulation removed in favor of converting the overlays into using relocations\r\n* Improved modding support, also allowing actor code to be modified thanks to the change above\r\n* RT64 library was updated to latest version, now using `plume` as the backend renderer\r\n* The above should also get some integrated Intel GPUs with buggy drivers to work by falling back to the Vulkan renderer\r\n* Improved skybox rendering"
    },
-   "relAt": 1795261179808
+   "relAt": 1795261319424
   },
   {
    "id": "cv64",
@@ -644,7 +644,7 @@
     "date": "2026-02-15T16:11:15Z",
     "body": "Includes all the new features and enchancements in the CV64 1.1 Recomp, including all HD Textures and gameplay additions.\r\nFor Win64. Extract and run CV64_Recomp.exe\r\n\r\nNo setup is needed, and all changes can be made through Settings on the game window, or advanced users can modify the INIS in the patches folder.\r\n\r\nWe have left some save files behind, you are free to delete them from the 'save' folder to start afresh.\r\n\r\nYou don't need a ROM to run this port!"
    },
-   "relAt": 1795261180121
+   "relAt": 1795261319800
   },
   {
    "id": "snap64",
@@ -711,7 +711,7 @@
     "date": "2026-11-16T04:42:16Z",
     "body": "<p align=\"center\">\n<img src=\"https://raw.githubusercontent.com/JackandBeans/Snap64Recomp/v1.1.8/docs/screenshots/01s-title-118.png\" width=\"420\" alt=\"The title screen\">\n<img src=\"https://raw.githubusercontent.com/JackandBeans/Snap64Recomp/v1.1.8/docs/screenshots/04c-beach-widescreen-112.png\" width=\"420\" alt=\"The Beach in Widescreen: Surfing Pikachu\">\n</p>\n<p align=\"center\">\n<img src=\"https://raw.githubusercontent.com/JackandBeans/Snap64Recomp/v1.1.8/docs/screenshots/32-graphics-page-cutscene-118.png\" width=\"420\" alt=\"The Graphics page: the Cutscene Fix row chosen and set to On, with its help line\">\n<img src=\"https://raw.githubusercontent.com/JackandBeans/Snap64Recomp/v1.1.8/docs/screenshots/13-printer-stars.png\" width=\"420\" alt=\"The Snap Station's printer, three stars\">\n</p>\n\n**Snap64 Recomp** is a native port of *Pokémon Snap* (Nintendo 64, US release) made by static recompilation: the game's own code runs on your PC, the port only hosts it, and everything about how it *looks* is off unless you turn it on. **1.1.8** fixes the Android app closing on an AYN Thor, stops a graphics setting from ending every start the same way, as it did on a phone with an Exynos 2400, has the Android app write down why it closed, asks before a third start that would end like the last two, and lets Pikachu and the Zero-One leave the title screen whole under Cutscene Fix.\n\n> [!NOTE]\n> **Snap64 Recomp is released only on this repository's\n> [Releases](https://github.com/JackandBeans/Snap64Recomp/releases) page.**\n> Copies posted anywhere else are not the project's. On Windows the port is\n> a ZIP holding a folder with `Snap64Recomp.exe`, and nothing has to be\n> installed. It opens no network connection and asks for no account or\n> password. Each file has a `.sha256` beside it, and [SECURITY.md](https://github.com/JackandBeans/Snap64Recomp/blob/main/SECURITY.md) says how to check a download.\n\n## Downloads\n\n| File | For |\n| --- | --- |\n| `Snap64Recomp-1.1.8-win64.zip` | Windows 10 (version 18"
    },
-   "relAt": 1795261180654
+   "relAt": 1795261320188
   },
   {
    "id": "tomba",
@@ -761,7 +761,7 @@
     "date": "2026-10-25T04:41:11Z",
     "body": "This release adds **Ore! Tomba (Japan, SLPS-01144)** beside the USA and both European builds, and reorganizes the launcher so game enhancements live in **Mods**.\n\n## Choose your download\n\n| Download | Original disc | Game languages |\n| --- | --- | --- |\n| **TombaRecomp-v0.23.0-alpha-USA-windows-x64.zip** | Tomba! USA, SCUS-94236 | English |\n| **TombiRecomp-v0.23.0-alpha-Europe-SCES01330-Rev1-windows-x64.zip** | Tombi! Europe, SCES-01330 Rev 1 | English, French, German, Italian, Dutch |\n| **TombiRecomp-v0.23.0-alpha-Europe-SCES01331-Rev1-windows-x64.zip** | Tombi! Europe, SCES-01331 Rev 1 | English, Spanish, Portuguese, Swedish, Danish |\n| **TombaRecomp-v0.23.0-alpha-Japan-SLPS01144-windows-x64.zip** | Ore! Tomba Japan, SLPS-01144 | Japanese |\n\nExtract the whole ZIP, run its EXE, select your own matching disc and press Launch. Keep your BIN beside its CUE. OpenBIOS and the fallback tools are bundled; no installed compiler or Python is required. No game image, retail BIOS or personal saves are included.\n\n## New\n\n- **Japan build.** Native boot and 24 audited native area modules, Seamless Loading (on by default, like USA), Widescreen and Skip FMVs (off by default). The left stick and the D-pad both move Tomba. Geometry Optimization is not ported to the Japanese code yet; the original code runs with the same output.\n- **Settings are now only PC settings.** Window, fullscreen, renderer, VSync, volume, controls, hotkeys and BIOS stay in Settings. Everything that changes the game's picture or sound is a mod you can turn on per game:\n  - **CRT Filter** (screen model, scanlines, strength)\n  - **Image Filtering** (smoothing, texture filtering, FMV filtering; each starts at \"Game default\")\n  - **Internal Resolution** (Native to 8K, Match display, or Auto, which replaces Dynamic resolution)\n  - **Enhanced Audio** (the former High-quality SPU)\n  - **Rewind** (buffer and interval)\n  Graphics presets, the audio sample-rate choice and the duplicate Perspective textures row are gone "
    },
-   "relAt": 1795261181068
+   "relAt": 1795261320542
   },
   {
    "id": "mmx4",
@@ -825,7 +825,7 @@
     "date": "2026-11-03T21:44:07Z",
     "body": "## Changes\n\n- Correct Iris and Double boss music in both campaign orders when both encounters are enabled.\n- Fix Japanese Media and Japanese FMVs disc pickers rejecting supported disc files.\n- Preserve adaptive widescreen defaults, saved display/control choices, and native memory-card saves.\n\nWindows ZIP and Linux x86_64 AppImage. All netplay players must update.\nDiagnostic recording remains optional and off by default.\n\nThe co-op music fix passed both campaign orders and save/load between fights. Solo Zero also passed; solo X's second encounter remains unverified after a combat-fixture timeout. This release does not claim fixes for the other open gameplay reports."
    },
-   "relAt": 1795261181445
+   "relAt": 1795261320902
   },
   {
    "id": "mmx6",
@@ -887,7 +887,7 @@
     "date": "2026-10-03T19:24:14Z",
     "body": "# v1.2.0\r\n\r\nGame-code sprite and scrolling-background interpolation above 60 Hz, with stable HUD and current animation cells. Includes the current audited adaptive-widescreen renderer and object activation/retention bounds so visible scenery loads before entering the view. Keeps encounter and script-controller activation guards.\r\n\r\nEnable the frame-rate and widescreen enhancements in Mods. Native game timing remains unchanged. These are playable preview builds; full-game completion is not recertified.\r\n\r\nThis release provides a tested Windows x64 build. Select your own supported game disc in the launcher; no disc data, retail BIOS, or saves are included.\r\n\r\nIncludes 71 audited native overlay modules, the fallback compilation toolchain, and OpenBIOS with its MIT notice.\r\n\r\nValidation: production package launch checks, focused interpolation/widescreen/mod-catalog tests, ZIP integrity checks, and SHA-256 checksums. Source pins are recorded in BUILD_PROVENANCE.json and framework_pins.txt.\r\n\r\n"
    },
-   "relAt": 1795261181813
+   "relAt": 1795261321265
   },
   {
    "id": "b2",
@@ -950,7 +950,7 @@
     "date": "2026-10-22T21:02:32Z",
     "body": "B2recomp v0.3.3 fixes the build in a folder whose path has commas, and a possible stop when leaving a level from the pause menu. As always, this download contains no game files: the game is built on your PC from your own dump.\r\n\r\n\r\n### Update on this recomp and more, Took a Break for a little while to focus on real life things will be back soon to finish this and release b3 with all the support built in I have most of the cutscenes that were pre rendered by platinum games upscaled just have to go over it and make it all smooth and stable at 120, and get up to date on the pull request and issues for b2, thank you for playing the recomp even with all the problems it has smh. \r\n\r\n\r\n## If you have a Steam Deck please someone open an issue and send me your discord so we can get stability worked out for you and others \r\n\r\n> **Opening an issue on GitHub:** it must be written **in English** and have **`b2recomp-report.zip` attached** (press **Report...** in the launcher). An issue opened without both will be closed promptly.\r\n\r\n## Fixed\r\n\r\n- **The build stopped at the link step when the B2recomp folder's path had commas in it**, for example `F:\\Games, Beta Builds, Unofficial Ports\\Bayonetta 2 PC`, with `ld.lld: error: could not open ' Beta Builds'`. The build tools cut the path at its commas. B2recomp now builds in any folder, commas and spaces included.\r\n- A path with commas but no spaces could also stop the build earlier, while converting the program files. Fixed too.\r\n- **A possible stop when choosing Chapter Select or Return to Title Screen in the pause menu while a scene was holding a character** (the log then says `UNTRANSLATED INSTRUCTION at 0x7100e17d58: e7ffdefe`). The cutscene fix of v0.3.0 could make that character again while the game was unloading its data, and the game stops when that happens. It now waits until the unloading is done. That instruction is invalid on purpose: it is the game's own stop, not code that B2recomp failed to translate.\r\n\r\n## How to upd"
    },
-   "relAt": 1795261182146
+   "relAt": 1795261321660
   },
   {
    "id": "downpour",
@@ -969,7 +969,7 @@
     "date": "2026-09-02T22:18:50Z",
     "body": "## v1.1.8 — hotfix for \"Failed to get an adapter supporting Direct3D 12\" (issue #29)\n\n**v1.1.8 is v1.1.7 plus one fix.** If v1.1.7 starts fine for you, v1.1.8 changes nothing you can see; if it refused to start, this is the release you need.\n\n### 🩹 What was wrong\n\nThe v1.1.7 `downpour.exe` exported a DirectX **Agility SDK** requirement (`D3D12SDKVersion` / `D3D12SDKPath`) — a leftover from the retired native-render debugging work — but the package never shipped the Agility runtime (`D3D12\\D3D12Core.dll`). Windows 11 24H2 and newer ignore that because their inbox Direct3D 12 runtime is already recent enough, which is why the release tested clean on the build machine. On **Windows 10 and older Windows 11 builds** the loader insists on the missing file, every D3D12 device creation fails, and the game dies at boot with:\n\n```\n[error] [core] Failed to get an adapter supporting Direct3D 12 with the feature level of at least 11_0\n```\n\nv1.1.6 shipped without those exports and booted on the same machines.\n\n### ✅ What changed\n\n* `downpour.exe` no longer carries the Agility exports; release builds use the **system Direct3D 12 runtime again, exactly like v1.1.6**. The exports remain available for local debugging behind a build flag (`-DDPOUR_AGILITY_SDK=1`). Commit `4628c32`.\n* Version bumped to 1.1.8 in the launcher and the game title so the in-launcher update banner picks it up.\n* Everything from v1.1.7 (disc-image installer, no-AVX2 requirement, raw-input mouse rebuild, the nine upstream fixes, audio mix fixes, achievements on **F7**) is carried over unchanged — see the [v1.1.7 notes](https://github.com/LittleBitUA/DownpourRecomp/releases/tag/v1.1.7).\n\n### Auto-update\n\n* **From v1.1.7:** launch `PlayDownpour.exe`, click the pill banner. Done — `downpour.exe` is on the updater's copy list.\n* **From v1.1.6 or older:** same, plus the one-time manual step from the v1.1.7 notes: if the game complains that `amd_fidelityfx_dx12drel.dll` was not found, copy that file from this zip n"
    },
-   "relAt": 1795261182532
+   "relAt": 1795261322023
   },
   {
    "id": "project8",
@@ -988,7 +988,7 @@
     "date": "2026-08-24T13:53:28Z",
     "body": "Project8Recomp v0.3.0 moves the port to ReXGlue 0.10 and carries the title-specific runtime work onto the new SDK. It substantially improves Steam Deck performance in the heaviest repeatable scene we use, restores correct Apple Silicon presentation with the current runtime, and refreshes the Windows build and portable packaging.\r\n\r\n## Steam Deck performance\r\n\r\nThe exact native Linux build was tested in a deterministic late-game Funpark view averaging about 2,665 draws per frame. Compared with v0.2.1 on the same Steam Deck LCD and fixture:\r\n\r\n| Metric | v0.2.1 | v0.3.0 | Change |\r\n| --- | ---: | ---: | ---: |\r\n| Mean frame time | 25.00 ms | **21.94 ms** | **-12.2%** |\r\n| Effective FPS | 40.01 | **45.58** | **+13.9%** |\r\n| p50 / p95 | 25.00 / 27.00 ms | **22.00 / 23.00 ms** | lower and tighter |\r\n| Process CPU | 257.6% | **223.1%** | **-34.5 points** |\r\n\r\nA separate six-run, cool-start comparison confirmed the complete new stack's improvement. These are uncapped heavy-scene measurements, not a locked-60 claim. The normal player setting still caps the game to preserve correct cutscene timing.\r\n\r\n## Runtime and platform changes\r\n\r\n- The port now targets ReXGlue 0.10. The accepted command-processing, native vertex/index, resource-residency, texture/sampler reuse, and bounded-wait paths remain enabled by the launcher's Performance preset.\r\n- The macOS arm64 archive now bundles MoltenVK 1.4.2, fixing the black host window seen during the first ReXGlue 0.10 test. The full marked Funpark scene rendered correctly on a 2020 Apple M1 MacBook Pro. Busy-area performance is still too slow for comfortable play, so this is a correctness result rather than a performance claim.\r\n- The complete Windows archive was unpacked and tested through Proton 10 in Steam Deck Game Mode. The launcher, Vulkan path, and all nine marked Funpark checkpoints worked. This mitigates issue #1, but real Windows hardware remains unverified, so Windows is still marked experimental.\r\n\r\n## Installing\r\n\r\nDownlo"
    },
-   "relAt": 1795261182886
+   "relAt": 1795261322371
   },
   {
    "id": "banjorecomp",
@@ -1057,7 +1057,7 @@
     "date": "2026-07-31T19:43:17Z",
     "body": "> [!NOTE]\r\nWondering about your save data when upgrading? Don't worry! Your save data is stored separately to the game itself. You can overwrite your old version and your save data will still be there, completely intact, and will work on the new version.\r\n\r\n### Changelog\r\n- Collected Jinjos will be now be permanently saved when collected, just like Notes. A new option has been added to choose only saving Jinjos or Notes if desired. The new default behavior will be to save both Notes and Jinjos as present in the Xbox 360 version of the game. Special thanks to @wedarobi for their work on this major feature!\r\n- Fixed a major memory leak that would occur on MacOS by updating RT64. The game should now be significantly more stable on extended play sessions on Mac.\r\n- Fixed a build system issue for ARM devices that caused mods, especially total conversion mods, to crash during startup. This should finally make total conversion mods like Nostalgia 64 or Jiggies of Time playable in MacOS devices without requiring to use Rosetta as a workaround.\r\n- Fixed an issue where moving through complex levels with lots of particle effects in a very specific way can result in a crash if the game hasn't had time to defragment the heap.\r\n- Fixed an issue where the first person camera would be inverted vertically during the SNS Ice Key cutscene.\r\n- Fixed an issue where configuring the stick inversion for the flying controls would not affect the bee flight controls.\r\n- Fixed an issue where the analog camera's focus would stay on trees or poles instead of following Banjo after jumping off.\r\n- New functions and events usable by mods to interact with the note saving feature thanks to @bizzycola.\r\n- Minor UI, UX and build system fixes thanks to @zdodson21, @vanfanel, @Mascott106, @aleios and @BlueInterlude.\r\n\r\n> [!NOTE]  \r\n> **Intel GPU users:** Using outdated Intel drivers may cause the game to crash or cause graphical glitches. Please make sure your drivers are up-to-date before playing.\r\n>\r\n>"
    },
-   "relAt": 1795261183272
+   "relAt": 1795261322795
   },
   {
    "id": "banjo-tooie-scurvy-dog-port",
@@ -1126,7 +1126,7 @@
     "date": "2026-10-27T15:34:53Z",
     "body": "- Added Master volume above Music volume, saved with your settings.\n- Fixed save-select pictures moving separately from their frames.\n- Changed renderer ownership and shared interpolation handling for more consistent models, attachments and views.\n- Changed runtime startup, shutdown and save handling to use the selected runtime contracts.\n\nKnown issues: detached backpack shadows and a brief warp-menu opening jitter. Texture packs remain experimental and untested in this release.\n\nUpgrade: extract the full ZIP into a new folder. Existing Scurvy Dog Port saves and settings carry over."
    },
-   "relAt": 1795261184080
+   "relAt": 1795261323602
   },
   {
    "id": "blastcorps-recomp",
@@ -1168,7 +1168,7 @@
     "date": "2026-10-29T19:51:54Z",
     "body": "## What's Changed\r\n* fixes a bug where the rumble stays turned on on level change\r\n* rumble is only activated in-game\r\n* interpolation: wheels of the missile carrier now rotate properly\r\n\r\n**Full Changelog**: https://github.com/SlaveOfIDO/blastcorps-recomp/compare/1.1.0...1.1.1"
    },
-   "relAt": 1795261184431
+   "relAt": 1795261324021
   },
   {
    "id": "bm64recomp",
@@ -1220,7 +1220,7 @@
     "date": "2026-03-22T22:47:19Z",
     "body": "# Bomberman 64: Recompiled (v1.0.0)\r\n\r\nInitial public release of Bomberman 64: Recompiled. To play this recomp, you will need a dumped US ROM of Bomberman 64.\r\n\r\nKnown Issues:\r\n\r\n* Credits has some weird scissors clipping, I couldn't figure out what the issue is here and I couldn't be bothered to fix this last issue as it doesnt affect gameplay.\r\n* In the Custom Bomberman screen, sometimes there is a frame or two where the item name graphics are glitched. This could be a RT64 issue but I was unable to verify this.\r\n\r\nCredits:\r\n\r\n* Wiseguy (for N64 Recomp)\r\n* Dario (GBI troubleshooting)\r\n* Tigger (MacOS support fixes)\r\n* klorfmorf (Hudson process implementation in recomp)\r\n* worleydl (various fixes and troubleshooting)\r\n* Sonic Dreamcaster (various fixes and troubleshooting)\r\n* Bomberhackers discord (for BM64 hacking details)"
    },
-   "relAt": 1795261184782
+   "relAt": 1795261324445
   },
   {
    "id": "bmherorecomp",
@@ -1269,7 +1269,7 @@
     "date": "2026-05-03T20:48:20Z",
     "body": "# Bomberman Hero: Recompiled (v0.7.1) (stable beta)\r\n\r\nChanges:\r\n\r\n* Implement no interpolation for 1 frame for cutscenes and demos.\r\n* Tag teleporter objects to have no interpolation for 1 frame when the camera moves.\r\n\r\nCredits:\r\n\r\n* Wiseguy (for N64 Recomp)\r\n* Dario (GBI troubleshooting)\r\n* Bomberhackers discord (for BMHero hacking details)\r\n* Cyberlink420 (for custom SVG menu and icon graphics)\r\n* klorfmorf (various Skybox fixes)"
    },
-   "relAt": 1795261185548
+   "relAt": 1795261325204
   },
   {
    "id": "conkerbfdreloaded",
@@ -1338,7 +1338,7 @@
     "date": "2026-10-28T11:28:09Z",
     "body": "## Conker's Bad Fur Day: Reloaded 1.4.7\n\nA new look for the menus, made from the game's own buttons, and fixes for Linux, the Haybot, the Walk Button and raphnet adapters.\n\n### Downloads\n\n- **Windows:** `ConkerBFDReloaded-v1.4.7-Windows.zip`. Unzip it and run `ConkerBFDReloaded.exe`.\n- **Linux (experimental):** `ConkerBFDReloaded-v1.4.7-Linux.tar.gz`. Extract it and run\n  `./ConkerBFDReloaded`. Needs glibc 2.35+ (Ubuntu 22.04 or newer and similar), Vulkan, SDL2,\n  GTK 3 and FreeType.\n- **HD Icons texture pack (optional):** `ConkerBFDReloaded-HD-Icons-v1.3.3.rtz` (same as before).\n  Textures by [GameBeast92](https://github.com/GameBeast92/Conker-s-Bad-Fur-Day-4k-Ultimate-Texture-Pack),\n  modified, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).\n- **HD Icons (French) texture pack (optional, for the French translation):**\n  `ConkerBFDReloaded-HD-Icons-French-v1.3.5.rtz` (same as before).\n\nYou need your own US ROM of the game. Your saves and settings carry over.\n\n### New\n\n- **The menus use the game's own buttons:** the launcher, the settings' tabs, choices and buttons are the steel\n  pill rings of Conker's save and pause menus (from the HD textures). As in the game, the one that's chosen or\n  pointed at lights up, its letters glowing green, instead of filling with colour. The settings' sliders and\n  switches are the same green.\n- **Ledge Grab: press B to let go** while hanging (thanks to Vmarcelo49).\n\n### Fixes\n\n- **Linux: closing the game no longer freezes** and crashes (#40; since 1.4.6, also on the Steam Deck). Thanks to\n  Vmarcelo49 for the fix.\n- **The Haybot's red view reaches the window's left edge** too (#37): a thin strip there wasn't tinted.\n- **Walking slowly with the Walk Button (L) no longer stutters** on the barn's straw and similar ground (#38).\n- **raphnet N64 adapters (289b:0061):** the button layout is written in the order that works with them (#30).\n\n### Experimental\n\n- The Linux exit fix and the raphnet layout weren't tested here (no"
    },
-   "relAt": 1795261185969
+   "relAt": 1795261325582
   },
   {
    "id": "donkey-kong-64-recompiled",
@@ -1407,7 +1407,7 @@
     "date": "2026-09-30T00:21:10Z",
     "body": "> [!NOTE]\r\n> Wondering about your save data when upgrading? Don't worry! Your save data is stored separately to the game itself. You can overwrite your old version and your save data will still be there, completely intact, and will work on the new version.\r\n\r\n## Changelog\r\n- Removed B Locker from extended draw distances, fixing a bug with being able to shoot the coconut switch in Hideout Helm lobby on higher draw distances\r\n- Fixed a minor bug with sprite interpolation fixes where the matrix tag index of the sprite would overflow into unintended bounds\r\n- Separated out options for gyro & mouse inversion. As such, you can now independently control which of these are inverted ( #73 )( #79 )\r\n  - This now also impacts the controls of the cannon game in Gloomy Galleon\r\n- Changed how the reduced lightning setting works ( #63 )( #89 )\r\n  - Instead of reducing how intense a lightning strike is, instead it now reduces how frequently the flashes take place\r\n  - This should remedy any remaining issues with this setting. As always though, there's about 500 different ways that DK64 can produce a lightning flash, so if we missed one, please let us know via a GitHub issue\r\n- Fixed a bug where the player is visible during some segments of intro story with extended draw distance ( #72 )\r\n- Fixed a bug where some sprites, most notably balloons (only when you're the correct kong for that balloon) would not get draw distance extended\r\n- Disabled analog camera controls in maze minigames ( #90 )\r\n- Fixed a bug where the gold tower in Gloomy galleon would show sparkles past the intended range\r\n  - This was shown via drawn distance increases, but actually was a vanilla bug where these particles don't get z-indexed in the vanilla game\r\n- Fixed a bug where some objects would disappear in Aztec during the sandstorm at high draw distances\r\n\r\n## Changed functions that were in 1.0.2\r\nCheck these if you're using `RECOMP_FORCE_PATCH` in your mods\r\n- `func_global_asm_806EA628`\r\n- `func_global_asm_"
    },
-   "relAt": 1795261186291
+   "relAt": 1795261325919
   },
   {
    "id": "drmario64-recomp-plus",
@@ -1459,7 +1459,7 @@
     "date": "2025-12-18T04:36:00Z",
     "body": "**Dr. Mario 64 Recomp v1.0.0**\r\n\r\nA modernized Dr. Mario 64 recomp build with upgraded visuals, smoother motion, and quality-of-life improvements.\r\n\r\n**Highlights**\r\n\r\n- Custom icon set (red and blue capsule)\r\n- Main menu updated with default Recomp64 settings applied\r\n- Pills now render on the GPU instead of the CPU\r\n- Interpolation support for 60+ FPS\r\n- 4-player controller support\r\n- CRT effects\r\n\r\n**Requirements**\r\n- Dr. Mario 64 (US) ROM\r\n- 3 competitive friends\r\n"
    },
-   "relAt": 1795261186748
+   "relAt": 1795261326307
   },
   {
    "id": "dnzhrecomp",
@@ -1514,7 +1514,7 @@
     "date": "2025-11-01T22:11:40Z",
     "body": "Changelog:\r\n- Implemented controller pak (game can be saved now).\r\n\r\nPlayable, 30 FPS on 60 hz screens, 60 FPS on 120hz screens, 120 FPS on 240hz screens and so on....\r\nWidescreen still needs to be handled\r\nInterpolation still needs to be handled\r\nWe're forcing only one framebuffer to avoid the bug."
    },
-   "relAt": 1795261187142
+   "relAt": 1795261326709
   },
   {
    "id": "harvestmoon64recomp",
@@ -1561,7 +1561,7 @@
     "date": "2026-09-25T21:17:14Z",
     "body": "# Changelog\r\n## Fixes\r\n- The map is now properly interpolated to fix the grass lag\r\n\r\n## Additions\r\n- Added sound slider for music and ambience\r\n \r\n> [!NOTE]\r\n> Wondering about your save data when upgrading? Don't worry! Your save data is stored separately to the game itself. You can overwrite your old version and your save data will still be there, completely intact, and will work on the new version.\r\n\r\n> [!TIP]\r\n> You can find mods for this recomp at the [Thunderstore Page](https://thunderstore.io/c/harvest-moon-64-recompiled)\r\n\r\n> [!TIP]\r\n> Also, if you have a .sra save, you can use the save converter Python script below to convert it to the recomp save. Information on where save files are stored is [here](https://github.com/HarvestMoon64Recomp/HarvestMoon64Recomp#where-is-the-savefile-stored)\r\n>\r\n> Tool syntax: `python hm64_recomp_save_converter.py \"save.sra\"`\r\n\r\n> [!IMPORTANT]\r\n> Please don't refrain from contacting me on the N64Recomp Discord @SrBananaMan or creating an issue on this repo if you come across any glitches or crashes. Also, remember to frequently check for updates, as the bug you are facing could potentially be patched already.\r\n"
    },
-   "relAt": 1795261187514
+   "relAt": 1795261327068
   },
   {
    "id": "mariokart64recomp",
@@ -1630,7 +1630,7 @@
     "date": "2026-02-13T17:30:04Z",
     "body": "> [!WARNING]\r\n> If your antivirus software flags the game, it is a false positive. Builds downloaded from this page are always going to be safe.\r\n\r\n### Changelog\r\n- Reduced glitches related to Matrix Interpolation.\r\n- Fixed a performance issue in Kalimari Desert caused by incorrect usage of decals from the train.\r\n- The game will now adjust the HUD's aspect ratio according to the option picked in the options menu.\r\n- Eliminated flickering caused by interpolation during camera cuts.\r\n- Controller Pak support, now you can save your ghosts!\r\n- Audio channel swap has been fixed.\r\n\r\n### Modding & HD Texture Pack support\r\n- Mod support! Check out the [modding template](https://github.com/sonicdcer/MK64RecompModTemplate).\r\n- Compatible with [MK Reloaded](https://evilgames.eu/texture-packs/mk64-reloaded.htm#rt64) (HD Texture Pack). Thanks to @GhostlyDark for the help!\r\n  - To install the texture pack, go [here](https://evilgames.eu/texture-packs/mk64-reloaded.htm#rt64) and click the **RTZ** button under **Recomp** (the golden cup) to download it. \r\n  - Install the texture pack by launching the game, going into the mods menu and dropping the file on top of the game window or using the **Install Mods** button.\r\n\r\n> [!NOTE]\r\n> Support for configuring multiple controller ports is currently in development for N64 Recompilations. For that reason, only Single Player modes are available at the moment. Multiplayer modes will be accessible once the UI for multiple controllers is finished.\r\n\r\n> [!NOTE]  \r\n> **Intel GPU users:** Using outdated Intel drivers may cause the game to crash or cause graphical glitches. Please make sure your drivers are up-to-date before playing.\r\n>\r\n> [Intel HD 11th+ Gen/Intel Arc/Iris Xe](https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphics-windows.html)\r\n> [Intel HD 7th-10th Gen](https://www.intel.com/content/www/us/en/download/776137/intel-7th-10th-gen-processor-graphics-windows.html)\r\n> [Intel HD 6th Gen](https://www.intel.c"
    },
-   "relAt": 1795261187893
+   "relAt": 1795261327469
   },
   {
    "id": "mario-party-recomp",
@@ -1694,7 +1694,7 @@
     "date": "2026-11-14T23:14:23Z",
     "body": "An update of the renderer and runtime every recomp of this project shares. Like v0.2.13 it contains no game data: you need your own ROM of the USA release (a big-endian `.z64` of 32 MiB, SHA-1 `1159bd56730094bfc71be30113e1cfc8bacf34f3`). Other regions are not supported.\r\n\r\n> **Made with AI.** Almost all of the code was written by AI agents (Claude), directed and play-tested by a person.\r\n\r\n**Windows:** unzip `MarioPartyRecompiled-v0.2.14-windows-x64.zip` and run `MarioPartyRecompiled.exe` from that folder (it needs a recent Visual C++ 2015-2022 redistributable, x64). **Linux (x86-64):** extract `MarioPartyRecompiled-v0.2.14-linux-x64.tar.gz` and run `MarioPartyRecompiled` in that folder (glibc 2.35 or newer, a Vulkan driver, GTK 3 and FreeType; it brings its own SDL2). Pick your ROM with **Load ROM**, then **Start Game**: the ROM is stored, so the next start goes straight to the game.\r\n\r\n**Fixed:**\r\n\r\n- The frame shown is always the one the game points the screen at.\r\n- Drawing and showing an interpolated frame no longer race each other.\r\n- The picture's bottom row is drawn at every window size.\r\n- A frame is no longer shown while it is still being drawn, which could leave out what the game draws last in it.\r\n\r\nThese come with N64Recomp-browser v0.205.0's renderer and runtime.\r\n\r\n**Not checked yet:** long play sessions, rumble on a physical pad (it was played in the browser with stand-in pads), and the Linux build on a GPU (it has been booted on Mesa's software Vulkan only). Reports are welcome on the [issues page](https://github.com/n64hub/mario-party-recomp/issues).\r\n\r\nThe [README](https://github.com/n64hub/mario-party-recomp#readme) has what works and how to build it yourself. The same game also plays in a browser, with your ROM, at [n64hub.com](https://n64hub.com/#mario-party).\r\n"
    },
-   "relAt": 1795261188254
+   "relAt": 1795261327901
   },
   {
    "id": "ogre-battle-64-recomp",
@@ -1739,7 +1739,7 @@
     "date": "2026-11-03T13:26:58Z",
     "body": "- web build\r\n- fix green bg on attract\r\n- y-axis fix on xbox controller\r\n- add restart game option\r\n- add mod to keep suspend save\r\n- fixes seams around dialogue boxes at higher resolutions\r\n\r\nNative builds of the port for the platforms below.\r\n\r\n**These packages contain no game data.** You must supply your own\r\nOgre Battle 64 (USA, Rev A) ROM dump; the app asks for it on first\r\nlaunch (\"Click to load your ROM\") and stores it beside itself after\r\nvalidating it by hash. Saves are written to `saves/` next to the\r\nexecutable.\r\n\r\nSee the README inside each archive, and the repository README for\r\nbuild instructions and the full list of environment options."
    },
-   "relAt": 1795261188590
+   "relAt": 1795261328277
   },
   {
    "id": "birdman64",
@@ -1785,7 +1785,7 @@
     "date": "2026-10-21T10:30:45Z",
     "body": "## What's new in 1.5.1\n\nAndroid controller fix: **sticks, analog triggers and d-pads now work**, including\nthe built-in controls of handhelds (Retroid Pocket, AYN and similar).\n\n### Changed\n\n- iOS: the project no longer provides ready-made test builds. Build the app\n  yourself in a private copy of the repository (free, no Mac needed) or on a\n  Mac; the README's iPhone section has the steps.\n\n### Fixed\n\n- Android: the analog sticks, analog triggers and hat-style d-pads of\n  controllers now work, including the built-in controls of Android handhelds.\n  Before, only the buttons were read, so you couldn't steer, and Z (on LT by\n  default) never fired. The triggers and d-pad can also be picked when rebinding.\n- Android: Settings › Controls no longer says \"No controller connected\" while\n  a controller works. It now names the controllers your phone or handheld\n  reports and shows the last button you pressed, so you can test your\n  controller there. The Switch 2 Bluetooth option is hidden on Android, where\n  it never worked.\n\n**Windows:** download `Birdman64-windows-x64.zip`. **Linux:** download the `.AppImage`.\n\n**Android (experimental):** sideload `Birdman64-android-arm64.apk` (64-bit phones,\nAndroid 8+) and start it. The first launch builds the game on the phone (internet\nneeded once, about 240 MB installed), then tap **Choose a game file** and pick your\nROM. Prefer copying the file yourself? `Android/data/app.birdman64/files/rom/`\nstill works too. Later APKs install over it and keep your saves.\n\n**iPhone / iPad (test builds):** not attached here and no ready-made\ndownload: you build the app yourself (free, no Mac needed) and sideload it\nwith your own Apple ID (with [iLoader](https://iloader.app), recommended);\nthe [iOS testing guide](https://github.com/NoahVl/Birdman64/pull/14) has the\nsteps. Feedback is very welcome.\n\nYou need your own Pilotwings 64 (US) ROM.\n\n## Quick start\n\n1. Extract the zip and run `Birdman64.exe` from the extracted folder (Linux:\n   make the AppIma"
    },
-   "relAt": 1795261188927
+   "relAt": 1795261328727
   },
   {
    "id": "pilotwings-64-recomp",
@@ -1831,7 +1831,7 @@
     "date": "2026-09-17T17:14:55Z",
     "body": "Hotfix release. You need your own dump of Pilotwings 64 (USA). No game data is included.\n\n## Fixed\n\n- The photo album in widescreen: each photo was drawn about twice the size of its slot, overlapping the others\n\n## Known bugs\n\n- Changing the aspect ratio while the photo album is open blanks it until the album is reopened\n- At low game frame rates, fast camera turns interpolate very slightly off (the camera is part of every object's matrix)\n- Cannonball's aiming HUD stays centred instead of moving to the screen edges\n\n## Not tested\n\n- Interpolation on a real 120 Hz or faster display\n- Linux on real hardware with a GPU (built and packaged under WSL2)\n- macOS (not supported)\n"
    },
-   "relAt": 1795261189287
+   "relAt": 1795261329086
   },
   {
    "id": "quest64-recomp",
@@ -1876,7 +1876,7 @@
     "date": "2026-01-11T23:08:21Z",
     "body": "Initial release, very bare-bones. General notes/issues/etc:\r\n- Interpolation is not perfect, but mostly fine at 60hz (Brian's hair flickers when running)\r\n- Widescreen is also not perfect but mostly fine\r\n- Pressing F1 allows for changing a bunch of the settings"
    },
-   "relAt": 1795261189662
+   "relAt": 1795261329481
   },
   {
    "id": "roadrash64recompiled",
@@ -1916,7 +1916,7 @@
     "date": "2026-11-14T16:10:49Z",
     "body": "# Road Rash 64 Recompiled 1.5.0\n\nSDL3, renderer SIMD improvements, traffic lifecycle fixes, and fixes for imported-course startup recovery, music menus and co-op cameras.\n\n## What's changed\n\n- **SDL3:** SDL 3.4.16 now handles windowing, audio, controllers and menus.\n- **Renderer SIMD:** AVX2 kernels are selected where supported, with an AVX baseline.\n- **Traffic lifecycle:** traffic stays grounded near local players while distant cars can retire and free slots. Native density and the 20-car limit are preserved.\n- **Imported-course recovery:** failed MK64 pack initialization returns to the launcher with recovery guidance.\n- **Music menus:** long lists scroll and keep keyboard selections visible.\n- **Big Game Co-op:** both cameras initialize after the human roster is set up.\n\nThanks to **ClickClick5** for PRs #41 and #42, and **CalenCyr** for the earlier Linux contribution.\n\n## Downloads and installation\n\n| Asset | Use |\n| --- | --- |\n| `RoadRash64Recompiled-v1.5.0-Win64.zip` | Windows player package |\n| `RoadRash64Recompiled-v1.5.0-Linux-Experimental.zip` | Experimental native Linux player package |\n| `RoadRash64Recompiled-v1.5.0-Source.zip` | Source code for developers |\n| `SHA256SUMS.txt` | Checksums for the three ZIPs |\n\n**Requirements:** an x86-64 CPU with **AVX** support and your own supported **Road Rash 64 USA v1.0 ROM**. AVX2 is optional. MK64 importing also requires your own supported **Mario Kart 64 USA ROM**. No ROMs, converted gameplay assets or personal saves are included.\n\n**Windows:** extract the complete ZIP and open `RoadRash64Recompiled.exe`. Keep the included `SDL3.dll` and other DLLs beside it.\n\n**Linux:** extract the complete ZIP to a writable folder, make the AppImage executable if needed, then launch it and select your ROM:\n\n```sh\nchmod +x RoadRash64Recompiled-x86_64.AppImage\n./RoadRash64Recompiled-x86_64.AppImage\n```\n\nLinux requires a working Vulkan driver, GLIBC 2.35+ and GLIBCXX 3.4.30+. SDL3 and the required FFmpeg libraries are included. P"
    },
-   "relAt": 1795261190041
+   "relAt": 1795261329887
   },
   {
    "id": "rush2recompiled",
@@ -1957,7 +1957,7 @@
     "date": "2026-11-20T05:48:52Z",
     "body": "Windows: unzip anywhere and run `Rush2Recompiled.exe`. Linux: make the `.AppImage` executable and run it. macOS (the `.dmg` is added about 20 minutes after the release): drag the app to Applications and open it; when macOS says it can't verify it, click Open Anyway in System Settings > Privacy & Security. You'll need your own Rush 2: Extreme Racing USA ROM.\n\n## Changes\n\n- fix(night, cheats): night cones keep their color; mine cheats take 2049 cones (issue 89)\n- fix(car): own lamp glints in close cameras, issue 92 headlamps, 4-player hidden parts and split-screen hoods (issues 90, 92)\n"
    },
-   "relAt": 1795261190388
+   "relAt": 1795261330260
   },
   {
    "id": "snprecomp",
@@ -2008,7 +2008,7 @@
     "date": "2026-11-19T22:16:36Z",
     "body": "### Added\r\n- **Restart**, in the menu's header between Quit and Close and in the quit prompt (Alt+F4 or closing the window): the game closes and starts again, handy after changing mods. Windows and Linux.\r\n- **Portable by default:** a new install keeps its settings, saves and mods in the game's folder (`portable.txt`). Installs that already use the user folder stay as they are; add or delete `portable.txt` to switch.\r\n- **Command line options:** `--game jp`/`en` to start straight away, `--rom <file>` to load a ROM and start it, `--set tab.setting=value` for any setting, `--fullscreen`/`--windowed`, `--list-settings` and `--help`. See the README.\r\n\r\n### Fixed\r\n- Infinite Continues is gone from the Cheats tab: it never worked (it was pointed at the difficulty), and on Easy it changed a value next to it.\r\n- Linux: a crash while quitting no longer writes a crash report."
    },
-   "relAt": 1795261190836
+   "relAt": 1795261330641
   },
   {
    "id": "snowboardkids2-recomp",
@@ -2053,7 +2053,7 @@
     "date": "2026-10-17T21:17:34Z",
     "body": "<img width=\"400\" height=\"535\" alt=\"logo\" src=\"https://github.com/user-attachments/assets/dbc71dc9-b82c-4c22-8442-abaf9c0f5bff\" />\r\n\r\nSnowboard Kids 2 now supports local multiplayer:\r\n* 1-4 player split screen\r\n* Player HUDs expanded to take advantage of widescreen displays\r\n* Uncapped FPS (previously limited in multiplayer)\r\n* Horizontal and vertical split screen support for 2-player races\r\n\r\nIn addition to multiplayer this release adds several new minor features:\r\n* HUD layout can be configured. Options are 4:3, 16:9 (default) and expanded (as wide as possible).\r\n* Board select background now supports widescreen\r\n* Rumble pak prompts are now skipped automatically\r\n* Several changes aimed at making texture mods easier to make (PNG dumps, developer mode accessible from the graphics menu, etc). More on this to follow!\r\n* Improved logo by jellsoup\r\n* A number of new mods including: Quick Start ⏩, Randomiser 🎲 and Nepo Kids 💰\r\n \r\nIt also addresses several reported bugs:\r\n* #47 Controls can't be unset\r\n* #45 Default volume too loud\r\n* #44 Volume controls do not work\r\n* #71 Player select icons are partially clipped\r\n* #39 Pictures in the end credits seem to flicker\r\n* #36 Force nearest filtering on level select titles\r\n\r\nSome internal cleanups: #24, #25, #28 and #29 \r\n\r\nAnd several bugs identified in the first and second alphas: #66, #67, #68, #65, #70, #69, #72 and #73."
    },
-   "relAt": 1795261191172
+   "relAt": 1795261331014
   },
   {
    "id": "starfox64recomp",
@@ -2119,7 +2119,7 @@
     "date": "2025-12-30T04:13:00Z",
     "body": "Starfox 64: Recompiled is finally here!\r\n\r\nThis release includes a development mod featuring level select, cheats as well as other debugging options for those who enjoy experimenting and tinkering with the game. Be sure to install it using the mods menu or just dragging the zip into the window!\r\n\r\nEnjoy!\r\n\r\nChangelog:\r\n* Interpolate Gral. Pepper TV frame during briefing.\r\n* Better camera interpolation.\r\n* Reset Ending 4/3 borders state after playing the ending phase.\r\n* Sync Andross Escape cutscene to N64 hardware timings.\r\n* Sync Enter Warpzone cutscene to N64 hardware timings."
    },
-   "relAt": 1795261191451
+   "relAt": 1795261331415
   },
   {
    "id": "sote-recomp",
@@ -2182,7 +2182,7 @@
     "date": "2026-11-12T19:53:59Z",
     "body": "# Shadows of the Empire: Recompiled 0.9.8\r\n\r\n## What's new\r\n\r\n- Updated HD textures from interceptor427's v1-5 pack: 325 existing images improved and 25 newly matched images added. Original text, font choices, and cleaned HUD borders are preserved.\r\n- Turn HD textures on or off in Graphics without restarting the game.\r\n- Options are now available from the title screen and the pause menu.\r\n- Left/Right switches Options pages. Press Enter or controller A to adjust a setting, then use Left/Right to change it.\r\n- Fixed Back navigation that could bounce straight back into the level screen, missed short key presses, and menu selections carrying into the next screen.\r\n- Improved save selection, centered save-menu text in both fonts, and made returning from Options and control bindings restore the right selection.\r\n- Improved pause-menu Quit confirmation and recovery when changing control bindings.\r\n\r\nThanks to **interceptor427** for the texture pack!\r\n\r\n## Downloads and setup\r\n\r\nThe Windows and experimental Linux downloads both include the updated texture packs.\r\n\r\nOn Windows, extract `SotE-Recomp-0.9.8.zip`, place your own USA Rev 2 ROM beside `Shadows of the Empire.exe`, name it `sote.us.v1.2.z64`, and launch the game.\r\n\r\n**Updating?** Keep your saves, settings and optional PC media. Replace the program files and the two bundled texture-pack folders with the new versions. Keep other custom packs you use.\r\n\r\nPC movies play directly from your original SAN files in `Sdata`, without a decoded movie cache. No ROM, PC movies, voices or music are included.\r\n\r\n## Testing and remaining issues\r\n\r\nThe Windows build was visually checked in all ten levels with the updated pack. Menu checks covered keyboard and controller navigation. These are targeted checks, not full campaign playthroughs.\r\n\r\nThe intermittent Traditional-preset soft lock, Steam Deck/texture flickering reports and reported missing PC cutscenes remain open. This release does not claim to fix those issues.\r\n\r\nLinux rem"
    },
-   "relAt": 1795261191878
+   "relAt": 1795261331759
   },
   {
    "id": "wave-race-64-recomp",
@@ -2242,7 +2242,7 @@
     "date": "2026-09-14T10:02:23Z",
     "body": "# Wave Race 64: Recompiled 1.0.2\n\n* Fixed some UI issues\n* Improved HUD debug menu\n\nYou need your own dump of **Wave Race 64 (USA) (Rev A)**. Windows: unzip and run\n`WaveRace64Recomp.exe`. Linux: extract and run `./WaveRace64Recomp.sh`.\n"
    },
-   "relAt": 1795261192441
+   "relAt": 1795261332255
   },
   {
    "id": "cvlod-recomp",
@@ -2295,7 +2295,7 @@
     "date": "2026-10-23T15:17:26Z",
     "body": "- Changing the audio driver under Settings > Sound now takes effect right away, without restarting.\n- Known issue: this build still shows 0.2.28 as its version in Settings."
    },
-   "relAt": 1795261192768
+   "relAt": 1795261332597
   },
   {
    "id": "apeescaperecomp",
@@ -2361,7 +2361,7 @@
     "date": "2026-11-20T05:59:48Z",
     "body": "Ape Escape now offers **60 FPS geometry interpolation on Vulkan** as well as OpenGL. Enable it under **Mods > Geometry Interpolation**. Gameplay keeps its original timing.\n\n- **OpenGL is the default.** Choose Vulkan under **Settings > Display > Renderer**.\n- **Fit to screen** follows the game window from 4:3 through 21:9 during gameplay. Your saved renderer and aspect choices carry forward.\n- Set `PSX_VK_PIPELINE_CACHE=1` to opt in to the Vulkan driver pipeline cache.\n\nThanks to tyscorp's OpenPete for inspiring the engine's display scheduling and Vulkan pipeline-cache work. [OpenPete](https://github.com/tyscorp/openpete) · [psxrecomp #979](https://github.com/RetroPortingToolKit/psxrecomp/pull/979) · [Ape Escape #38](https://github.com/mstan/ApeEscapeRecomp/pull/38)\n\nWindows x64. OpenBIOS is bundled. Bring your own supported game disc. CD Speed and Fast Loading are excluded.\n"
    },
-   "relAt": 1795261193118
+   "relAt": 1795261332962
   },
   {
    "id": "medievilrecomp",
@@ -2423,7 +2423,7 @@
     "date": "2026-11-14T20:03:16Z",
     "body": "# v1.0.0\r\nWe produly present the first \"final\" version of a BlackLabelHQ recomp!, this includes various fixes that bring the game to a standard we fell confortable to label as 1.0! a lot of work was put into this, i hope you enjoy!\r\n\r\nheads up: the settings system was rewritten, so your settings from previous versions are reset to the defaults\r\n\r\n# Changes\r\n- added camera control on the right analog stick\r\n- fixed analog handling\r\n- added support for slang/libretro shader presets through ShaderMod\r\n- added the Mod Hub (Mods > Explore Mod Hub) to browse and install mods, asset packs, and shaders, including the \"dans-curse\" shader\r\n- added an in-game Asset Pack Editor to create and edit packs\r\n- improved interpolation\r\n- fixed transitions in widescreen\r\n- fixed a one frame flicker at the start of fades when the draw distance is increased\r\n- fixed a crash when leaving a level\r\n- fixed a crash with high draw distance\r\n- fixed skipped FMVs showing garbage until the next scene\r\n- fixed fmvs auto-skipping\r\n- fixed slightly incorrect position on audio playback\r\n- added true 24bit color option\r\n- added option to control the display of the dithering\r\n- improved stability overhaul\r\n- removed Mr. Apple's evil cousin: Mr. BadApple (Edit by Derp, thank heavens I noticed before Flaffy pushed this out - I snuck him back in so the changes to remove him were reverted, don't tell Flaffy, he still thinks Mr. BadApple isn't in the game lol)\r\n\r\n## v1.0.1\r\n- fixed a problem with file picker on windows\r\n\r\n## v1.0.2\r\n- fixed a problem with file picker on wayland caused by the fix for windows (bruh)\r\n- added autohide for top bar\r\n- added autohide mouse after 5 seconds\r\n- fixed a problem where when entering a level with FMV the asset pack would not properly load\r\n\r\n## v1.0.3\r\n- fixed a problem with audio replace handling\r\n- fixed a problem with vram gpu write bbox count being wrong which causes the asset pack to get some textures incorrectly\r\n- added option to disable camera colision on orbit"
    },
-   "relAt": 1795261193506
+   "relAt": 1795261333389
   },
   {
    "id": "medievil-recomp",
@@ -2485,7 +2485,7 @@
     "date": "2026-11-15T18:26:02Z",
     "body": "MediEvil 0.1.6 moves from psxrecomp pin I 0.1.18 (v0.1.5) to pin I 0.1.23 (psxrecomp `578bd3b`, recomp-ui `5302f1f`). Nothing else changes in this title's repository.\n\n## New features\n\nThese came with 0.1.5 and are part of 0.1.6. If you are updating from an earlier version, they are new to you.\n\n**Replays**: Replay recording is now supported in MediEvil. Press F12 to start recording during play, then F12 again to stop and save in an available replay slot.\n\nRecording needs at least one free replay slot. If every slot is occupied, the game shows “No free replay slots”. Open the save states menu with F7, then press Tab to switch between Save States and Replays. Select a recording and press Enter to play it, F2 to rename it, Delete to remove it or E to export it.\n\nReplays record your inputs rather than video, so you can share them as lightweight files with someone using the same version of the game. Compatibility with different versions is not guaranteed. Differences in the game build, disc, BIOS or replay settings can affect playback.\n\nPress a gameplay control to stop a replay and take control at that point. When a replay finishes, the game continues from its recorded endpoint under your control.\n\nYou can record during play or from boot. To record from boot, tick “Record replay” in the GUI launcher before starting the game. F12 stops and saves this recording too. F12 and F7 are the default shortcuts and can be rebound; F11 toggles fullscreen.\n\nTo keep replay timing repeatable, both recording and playback use interpreter mode instead of native compiled execution. This can reduce performance, especially on weaker systems.\n\nRecording currently supports a single Player 1 pad. Multitap and netplay recording are not supported.\n\n**Keyboard profiles**: Save named keyboard profiles and reuse them across sessions. Use Save as, Load, Rename and Delete to manage your profiles. The Default profile stays protected.\n\n**Dual key bindings**: Assign up to two keyboard keys to each actio"
    },
-   "relAt": 1795261193853
+   "relAt": 1795261333771
   },
   {
    "id": "twistedmetal1234recomp",
@@ -2539,7 +2539,7 @@
     "date": "2026-11-13T07:01:23Z",
     "body": "Twisted Metal, Twisted Metal 2, Twisted Metal III and Twisted Metal 4 as native Windows programs.\n\nUnzip, run `TwistedMetal1234Recomp.exe`, and choose your own disc image for each game the first time you press Play. Cover art and the menu's icon download automatically on the first start.\n\nYou need your own USA disc image of each game: Twisted Metal (SCUS-94304), Twisted Metal 2 (SCUS-94306), Twisted Metal III (SCUS-94249, Rev 1), Twisted Metal 4 (SCUS-94560, Rev 1). No game data, BIOS or artwork is included.\n\nChanges since 1.0.0:\n- The menu's icon is no longer built into the program. It is downloaded on the first start, like the cover art, and then written into your own copy of `TwistedMetal1234Recomp.exe`. Icon: [Twisted Metal icon by rafaelsguimaraes](https://www.steamgriddb.com/icon/11744) on SteamGridDB.\n\nUnofficial fan project, non-commercial use only.\n"
    },
-   "relAt": 1795261194176
+   "relAt": 1795261334138
   },
   {
    "id": "twistedmetal4recomp",
@@ -2583,7 +2583,7 @@
     "date": "2026-10-11T20:59:48Z",
     "body": "**Full Changelog**: https://github.com/TechnicallyComputers/TwistedMetal4Recomp/compare/v0.3.36...v0.3.37"
    },
-   "relAt": 1795261194508
+   "relAt": 1795261334524
   },
   {
    "id": "rage-racer-pc",
@@ -2622,7 +2622,7 @@
     "date": "2026-11-05T17:25:13Z",
     "body": "# Rage Racer PC 0.6.15-alpha\n\nThis alpha fixes Windows startup problems reported for 0.6.14-alpha. Gameplay\nand content are unchanged.\n\n## Changes\n\n- **Microsoft Defender false positive.** On VirusTotal, Microsoft flagged the\n  0.6.14 `Rage-Racer.exe` as `Trojan:Win32/Wacatac.C!ml`. That detection comes\n  from a machine-learning heuristic and can block or quarantine the game on\n  some PCs. On Windows, the in-game HD pack downloader now uses the WinHTTP\n  networking built into Windows instead of a bundled curl/TLS client. Its\n  security rules are unchanged: HTTPS with certificate validation, no\n  redirects, and SHA-256 verification. The executable also carries full\n  Windows version information.\n- **Missing Vulkan driver.** If a PC had no Vulkan-capable graphics driver\n  (for example in a Remote Desktop session, with the basic display driver, or\n  in some virtual machines), the game used to keep running in the background\n  without a window. It now shows a startup error that explains the\n  requirement. This check runs before the disc image picker.\n- Every Windows build is now checked automatically before release. The checks\n  launch the packaged game from folders with spaces and non-ASCII characters\n  and test disc error handling and the HD download path. They also start the\n  modern renderer on a software Vulkan driver.\n\n## Install and play\n\nExtract the archive for your platform and open the game. On first launch, choose\nonly your legally obtained Rage Racer CUE or Track 01 BIN; native renderer assets\nare generated automatically. The optional HD pack is downloaded from the in-game\nMods page. No separate asset-conversion command or image-codec installation is\nrequired. The editor is a separate optional download.\n\nOn Windows the game needs a graphics driver with Vulkan support. Install the\nlatest driver from NVIDIA, AMD or Intel if the startup error asks for it.\n\n## Known limits\n\nThe Windows executable is not code-signed yet, so SmartScreen may still show\nan \"unknown p"
    },
-   "relAt": 1795261194867
+   "relAt": 1795261334951
   },
   {
    "id": "vigilante-8-recomp",
@@ -2668,7 +2668,7 @@
     "date": "2026-09-24T09:38:20Z",
     "body": "# Vigilante 8 Classic — getting started\r\n\r\n## What you need\r\n\r\n- A 64-bit Windows PC with an OpenGL 4.5-capable graphics driver.\r\n- Your USA PlayStation **Vigilante 8: 2nd Offense** disc image, title ID **SLUS-00868**.\r\n- The **CUE and every BIN file it references**, kept together. The original Vigilante 8 disc, a Dreamcast disc, an ISO alone, or a lone BIN without its matching CUE will not work for setup.\r\n- A writable folder with room for the release and extracted game data. Allow **2 GB free** during setup, in addition to your source disc files.\r\n\r\n.NET and the native runtime libraries are bundled. No terminal, Python, extractor or separate runtime installation is needed.\r\n\r\n## Install and play\r\n\r\n1. Right-click the release ZIP and choose **Extract All**. Open the extracted `Vigilante8Classic` folder. Do not run the game from inside the ZIP.\r\n2. Keep the entire `mods` folder beside **Vigilante8PC.exe**. You can keep your disc image elsewhere; its CUE and BIN files must stay together.\r\n3. Double-click **Vigilante8PC.exe**.\r\n4. In the setup window, click **Choose BIN / CUE...**. Select your **Second Offense CUE**. Selecting one of its BIN files also works when exactly one adjacent CUE references it.\r\n5. Wait while the progress bar advances through **Extracting game files...** and **Preparing music...**. Setup creates `game_data` beside the executable. Music conversion can take longer than file extraction.\r\n6. After **Installation complete**, the game opens automatically in the same launch. Press **Start** on a gamepad or **Enter** on the keyboard, then follow the on-screen prompts.\r\n\r\nOn later launches, double-click the same executable. Setup will not ask again, and the source BIN/CUE files are no longer needed for normal play. Keep `game_data` and `mods` with the executable.\r\n\r\n## Playing and controls\r\n\r\nChoose **1 PLAYER**, **MULTIPLAYER**, or **OPTIONS** from the main menu. Use **OPTIONS** to select the display resolution, soundtrack and control preset. Follow t"
    },
-   "relAt": 1795261195245
+   "relAt": 1795261335287
   },
   {
    "id": "yu-gi-oh-forbidden-memories-recompiled",
@@ -2714,7 +2714,7 @@
     "date": "2026-10-11T15:30:19Z",
     "body": "This release adds an Android app and a native Mac version, card effects for monsters, spells and traps, monster fights in 3D Monsters, and a reworked FM Editor. Existing saves and settings carry over, and mods made for v0.1.2 and v0.2.0 still work. Save states from earlier versions don't load.\r\n\r\n**Downloads**\r\n- Windows: `yfm-redecomp-v0.3.0-windows.zip`, run `memories-pc.exe`\r\n- Linux: `yfm-redecomp-v0.3.0-linux.tar.gz`, run `./memories-pc`\r\n- Android (arm64, new): `yfm-redecomp-v0.3.0-android-arm64.apk`, install it and pick your disc image on first launch\r\n- macOS (Apple Silicon, new): `yfm-redecomp-v0.3.0-macos-arm64.zip`, open `YFM Re-Decomp.app`. It isn't notarized by Apple: the first time, allow it under System Settings > Privacy & Security > Open Anyway (the README in the zip explains it)\r\n- FM Editor (optional, Windows/Linux): `fm-editor-v0.3.0-*`, extract next to `memories-pc`\r\n- Forbidden Memories HD (optional, 108 MB): `yfm-redecomp-hd-mod-v0.3.0.zip`, extract into the game folder and turn it on in the Mods window. On Android, use HD pack... in the Mods panel\r\n\r\nTo update on PC, extract over your old folder. A new install asks for your own USA (SLUS-01411) `.bin` disc image; no game data is included.\r\n\r\n**New platforms**\r\n- Android app with touch menus, Mods and Controls panels in the game, mod import from a .zip, one-tap HD pack download and auto-rotate (thanks MaChInEgUn3)\r\n- Native macOS app for Apple Silicon, with the bundled mods (thanks DaVinciLord)\r\n\r\n**Added**\r\n- Monster effects: mods can make a monster heal, deal damage and more when it is summoned, flipped, attacks or is destroyed, with the game's own LP splash\r\n- Spell and trap effects defined in a mod, which the CPU knows how to play (thanks yamyi)\r\n- 3D Monsters: an anime-style summon, monsters stay on the field in the overhead view, and monsters fight with their arena attacks (thanks TiagoSSGaspar)\r\n- Saves from emulator memory cards (ePSXe, DuckStation, RetroArch, DexDrive and more) can be"
    },
-   "relAt": 1795261196014
+   "relAt": 1795261336001
   },
   {
    "id": "def-jam-vendetta-recomp",
@@ -2760,7 +2760,7 @@
     "date": "2026-11-19T21:02:21Z",
     "body": "### Fixed\n- **Drawn by: CPU now says what it can't show.** On CPU, S-WORD and DABO, the cage, the six-sided ring and mods'\n  wrestlers, arenas and pictures aren't drawn (S-WORD and DABO look like Briggs and the cage can't be seen). The\n  settings program now says so under Drawn by, and the game's log says it once instead of calling each picture\n  unreadable. Set Drawn by to Graphics card to see them.\n- **Comes with the mod kit v0.5.3** (the Mod kit folder, Settings > Mods > Open the mod kit). Its PLAY gives the same\n  warning when the game is set to CPU.\n\n### Good to know\n- **Older Intel graphics:** on some Intel graphics built into the processor (a 10th Gen Core i3, for one), even the\n  newest driver draws the game wrong on the graphics card. Use Drawn by: CPU there.\n- To update, press **Update** when the game asks as it starts, or on the settings program's Play page. Your saves,\n  settings, projects, mods and your work in the mod kit stay as they are.\n- **If you have 0.5.1**, its settings program can't update itself: download this version's zip and unzip it over your\n  game folder, replacing the files, then open the settings program.\n- After the update Windows may show \"Windows protected your PC\" again (the program isn't signed yet): click\n  **More info**, then **Run anyway**.\n"
    },
-   "relAt": 1795261196327
+   "relAt": 1795261336367
   },
   {
    "id": "street-recomp-v3",
@@ -2802,7 +2802,7 @@
     "date": "2026-10-20T16:37:14Z",
     "body": "## What's new in v1.4.1\r\n\r\n- **Choose your DLSS version.** The launcher (Graphics section) now shows the NVIDIA DLSS version in use and has a **Use another DLSS DLL...** button: pick an `nvngx_dlss.dll` you have (for example a newer one from another game, or your own build) and it is installed in the renderer folder. Files that are not NVIDIA's signed DLSS are only used after a warning, and the previous file is always kept (`nvngx_dlss.prev.dll`, choose it to go back).\r\n\r\nEverything from **v1.4** is included: DLSS with the game's real depth + motion vectors estimated on the GPU (Vulkan and Direct3D 12), PCSX2's SPU2 sound, the browser-version improvements and the easier, faster game preparation with progress.\r\n\r\n## How to play / update\r\n\r\nDownload **NBAStreetV3-PC-1.4.1.zip**, extract it (over your old folder is fine), double-click **Launcher.cmd**, choose your own NBA Street V3 ISO and click **Prepare game** (only once; steps already done are reused), then **PLAY**. HD textures are installed automatically.\r\n\r\nNo game files are included: the game is rebuilt on your PC from your own disc image.\n\n## Mac: ready to play, nothing to compile\n\nDownload **NBAStreetV3-Mac-1.4.1.zip** (Apple Silicon, macOS 14 or newer). Unzip it, drag **NBAStreetV3.app** to Applications and open it. Choose your own NBA Street V3 USA ISO (SLUS-21126) and click **PLAY**. The app mounts the ISO read-only while you play. Online play (community server) is on by default.\n\nFirst start only: the app is not signed with an Apple developer account. On macOS 15 or newer, double-click it, close the warning, then go to System Settings > Privacy & Security > **Open Anyway**. On macOS 14, right-click > Open. You can also run `xattr -dr com.apple.quarantine /Applications/NBAStreetV3.app`.\n\nSaves, graphics settings and logs: `~/Library/Application Support/NBAStreetV3`. The app holds the game's code already recompiled; no disc files are included.\n"
    },
-   "relAt": 1795261196669
+   "relAt": 1795261336709
   },
   {
    "id": "rampagere",
@@ -2845,7 +2845,7 @@
     "date": "2026-11-11T12:13:55Z",
     "body": "RampageRE v1.2.8\n\nThe order of a frame, the monsters' moves and the bot partner, checked frame by frame against the original game.\n\n- A frame runs in the original's order: every monster picks its next move first, then the monsters move, then the\n  people, the traffic and the buildings, then the monsters' blows on each other. A kick on the bot partner now\n  lands on the same frame as in the original, and its reaction starts a frame sooner.\n- A move that blends into the next one keeps the old move going for 2 more frames before the new one takes over,\n  as in the original. Its animation starts at once, as before; a press during those 2 frames picks from the old\n  move, as the original does.\n- The monster turns towards the stick one frame later, as in the original. Walks and turns now follow the original's\n  path.\n- A monster walking or knocked into a building front is held off it before it picks its next move. It used to end\n  up inside the front for a frame.\n- A walk that turns into a punch stops where it is, and a punch that ends in the idle pose no longer slides the\n  monster back a little. The idle after a punch now stands where the original's does.\n- The bot partner picks the same moves as the original's bot. After a punch it punches again where it used to\n  pick a different follow-up punch.\n- The bot partner steers from where it stands now, not from where it stood a frame before, so it rounds a building's\n  corner on the original's path and reaches the building on time.\n- A destroyed building cracks and shakes for as long as in the original before it falls. Buildings of one group\n  shake on together, as in the original.\n- The world's random events (who looks out of the windows, the edibles behind them, the traffic, the people's\n  choices, the dents in a building) follow the original's sequence for much longer in the same game. Las Vegas\n  block 1 no longer has a neon cowboy on the Gold Rush building; the original has none.\n- People finish their animations on the"
    },
-   "relAt": 1795261197124
+   "relAt": 1795261337069
   },
   {
    "id": "fukami",
@@ -2890,7 +2890,7 @@
     "date": "2026-10-14T11:05:05Z",
     "body": "**Fukami 1.1.0** — native port of Ridge Racer V (USA, `SLUS-20002`) for **Windows**, macOS (Apple silicon) and Steam Deck.\n\n> No game data is included. You need your own copy of Ridge Racer V (USA) as a **CHD** or a **`.cue`/`.bin`** made from your disc; Fukami checks it and unpacks what it needs on first launch. Not affiliated with Bandai Namco or Sony. See `LEGAL.md`.\n\n## What's new\n\n- **Windows (x86-64).** Fukami now runs natively on Windows PCs: Direct3D 11 by default (Vulkan with `backend = vulkan`), display refresh switching to a multiple of 60 Hz in fullscreen (`refresh_rate`), and FreeSync / G-Sync support (`vrr`). Same game, same settings menu, same `rrv.ini` as the other platforms.\n- **Picture:** 2D (HUD, menus, text, logos) keeps even pixels at every internal resolution; no stray lines on the title screen logos; new `sprite_filter` setting; mipmaps off by default; depth of field as the game intended at every internal resolution.\n- **Widescreen:** the HUD default is now `race` (4:3 proportions pinned to the screen edges during a race); the intro renders full screen in 16:9.\n- **Controllers:** two players, first controller connected is player 1, the second is player 2; the keyboard plays player 1 only while no controller is player 1.\n- **Fix:** VS mode no longer goes to a black screen.\n- **Steam Deck:** internal resolution offers even values only (2x, 4x, 6x, 8x).\n- Full list, including known issues: `CHANGELOG.md`.\n\n## Downloads\n\n| File | For |\n|---|---|\n| `Fukami-1.1.0-windows-x86_64.zip` | Windows 10 or 11, x86-64 (needs the Microsoft Visual C++ Redistributable x64) |\n| `Fukami-1.1.0-macos-arm64.zip` | Macs with Apple silicon |\n| `Fukami-1.1.0-linux-x86_64.tar.gz` | Steam Deck (SteamOS 3.7+); other Linux x86-64 untested |\n| `SHA256SUMS` | checksums of the three files |\n\n**Windows warns \"Windows protected your PC\"?** `Fukami.exe` is not code-signed yet, so SmartScreen warns about it as an unrecognised app. It does not mean anything was found. Before extra"
    },
-   "relAt": 1795261197533
+   "relAt": 1795261337434
   },
   {
    "id": "safehouse",
@@ -2959,7 +2959,7 @@
     "date": "2026-11-20T00:37:28Z",
     "body": "SafeHouse 0.2.142, built 2026-11-20 from 835ac8bd.\n\n## Changes\n\n- Movies: no read past the buffer; no freeze on a stopped sound clock; damaged installs say so; no \"Not Responding\" ghost on Windows\n- Fix empty binocucom portraits on AMD; logs that survive crashes; crash and hang reports\n\n## Downloads\n\n| For | File |\n|---|---|\n| Windows, installer | `SafeHouse-Launcher-Windows-x86_64-Setup.exe` |\n| Windows, portable (unzip and open `SafeHouse.exe`) | `SafeHouse-Launcher-Windows-x86_64-Portable.zip` |\n| Windows on ARM, installer | `SafeHouse-Launcher-Windows-arm64-Setup.exe` |\n| Windows on ARM, portable | `SafeHouse-Launcher-Windows-arm64-Portable.zip` |\n| Linux and Steam Deck, AppImage | `SafeHouse-Launcher-Linux-x86_64.AppImage` |\n| Linux, archive | `SafeHouse-Launcher-Linux-x86_64.tar.gz` |\n| Linux on ARM (Steam Frame), AppImage | `SafeHouse-Launcher-Linux-aarch64.AppImage` |\n| Linux on ARM, archive | `SafeHouse-Launcher-Linux-aarch64.tar.gz` |\n| macOS, Apple silicon | `SafeHouse-Launcher-macOS-arm64.dmg` |\n| macOS, Intel | `SafeHouse-Launcher-macOS-x86_64.dmg` |\n| Nintendo Switch (homebrew, copy to `sdmc:/switch/SafeHouse/`) | `SafeHouse.nro` |\n| Nintendo Switch 2 (kaiHEN homebrew, copy to `sdmc:/switch/SafeHouse/`) | `SafeHouse-NX2.nro` |\n| Android and Meta Quest (preview) | `SafeHouse-Android-arm64-v8a.apk` |\n| iPhone and iPad (sideload with AltStore, SideStore or Sideloadly; in testing) | `SafeHouse-iOS.ipa` |\n\nThe launcher updates itself (Settings > Launcher > Check for updates). SHA-256 checksums are in `SHA256SUMS`.\nOn macOS, open the app with right-click > Open the first time. The packages contain no game data.\n"
    },
-   "relAt": 1795261197830
+   "relAt": 1795261337854
   },
   {
    "id": "celosia",
@@ -3127,7 +3127,7 @@
     "date": "2026-11-21T08:20:40Z",
     "body": "**Crystal Cut 1.3.2 is the first widescreen patch!**\n\nJust start the launcher and press Update. Your saves and settings are kept, and the game is linked once more automatically (takes a few minutes). Fresh installs can grab the full package below as usual.\n\n**What's fixed**\n\n- **Aiming in widescreen.** When the crosshair moved away from the center in aim mode, it was drawn too far out, so your shots landed somewhere else. It now sits exactly where the game fires, in every direction. This also clears up the \"invisible box\" feeling with the sniper scope. Thanks a lot to parabolee (#20) and MikerMoo (#21) for the great reports and clips!\n- **Light glows in widescreen.** The bright glow of lamps sat next to the lamp instead of on it. Now it sits right on top again and stays round.\n- **Both regions.** All of the above works on the USA and the PAL disc.\n- **Gothic tile set name.** In the MapMaker the restored Gothic tile set showed up as \"4\". It now carries its proper name, and the name isn't made up by us. It was sitting in the game's own text files all along. Thanks to patzilla777 for pointing it out!\n\n**Tested before release**\n\nFresh install from the package for USA and PAL, full play test of exactly this package (deathmatch with bots and the Siberia story level), all at 60 FPS without a single error.\n\n**Still on the list**\n\nThe MapMaker tile placement offset in widescreen (cause found, fix comes next), a texture glitch some players see in the level select (#23, we're trying to reproduce it), the pause menu edges and a few more widescreen spots.\n\nSpecial thanks to Lukas, who as always tested the Windows side, and who still swears his crosshair was always perfect. It wasn't, Lukas. It really wasn't.\n"
    },
-   "relAt": 1795261199155
+   "relAt": 1795261339325
   },
   {
    "id": "zoe-recompiled",
@@ -3179,7 +3179,7 @@
     "date": "2026-11-14T14:22:43Z",
     "body": "# ZOE Recompiled Version 1.1.0 Patch Notes:\r\n\r\nIn 1.0, a PC that could not finish every frame in time slowed the whole game down: slow motion and crackling sound.\r\nFrom this version the game and its sound stay at full speed, and a PC that falls behind shows fewer frames instead.\r\n\r\nThe game also needs less CPU than before.\r\n\r\n### What's new\r\n- **The game should no longer run in slow motion on slower PCs.** When a frame is late, the next one is skipped and the\r\n  game catches up. Controls, physics and music keep their normal speed.\r\n- **Clean sound on slower PCs.** The crackling came from the slowdown and is gone with it.\r\n- **Less CPU work per frame.** The game's sound driver now runs as native code, and the timing code was trimmed.\r\n\r\n#### What runs as native PC code\r\n- **The game's own program** (all 37,386 functions of game logic, AI, physics, menus): translated from PS2\r\n  machine code to C++ and compiled for your CPU. Since 1.0.\r\n- **The vector-unit programs** that build the 3D geometry and particles: compiled ahead of time. Since 1.0.\r\n- **The sound driver**, Konami's own code that sequences the music and sound effects: compiled ahead of\r\n  time. New in 1.1.0; it was interpreted one instruction at a time before.\r\n- **Drawing**: the PS2's graphics commands are drawn by your graphics card through OpenGL.\r\n\r\n### What is still modelled in software\r\n- **The sound chip** that mixes the 48 voices into the audio you hear.\r\n- **The graphics chip's rules** (how PS2 drawing commands are interpreted before they reach your graphics card).\r\n- **PS2 timing**: the scheduler that keeps the game, sound and video in step.\r\n\r\nThese three are why a fast CPU still helps, and they are what we are working on next.\r\n\r\n### Testing \r\nOn our test laptop (Intel i7-1165G7, Iris Xe graphics, 16:9):\r\n\r\n| Scene | 1.0.1 | 1.1.0 |\r\n|---|---|---|\r\n| First Battle | slows to about 80% speed | full speed, 50-59 frames per second shown |\r\n| Nebula Boss Fight | 72-82% speed, crackling sound | full sp"
    },
-   "relAt": 1795261199557
+   "relAt": 1795261339718
   },
   {
    "id": "shadowrecomp",
@@ -3248,7 +3248,7 @@
     "date": "2026-11-15T08:43:32Z",
     "body": "> [!IMPORTANT]\r\n> **No game files are included.**\r\n>\r\n> You need your own Xbox copy of the game to install or build Shadow Recompiled.\r\n\r\n> [!WARNING]\r\n> If your antivirus software flags Shadow Recompiled, it is a false positive. Builds downloaded from this page are always going to be safe.\r\n\r\n***If you run into visual issues, try updating your graphics drivers.***\r\nOr switching between D3D12/Vulkan.\r\n\r\nWhich backend is faster depends on GPU.\r\n\r\n## Downloads\r\n\r\n- [Windows](https://github.com/FoxWorkshop/ShadowRecomp/releases/download/v1.0.0/ShadowRecomp-Windows-x64-v1.0.0.zip)\r\n- [Linux](https://github.com/FoxWorkshop/ShadowRecomp/releases/download/v1.0.0/ShadowRecomp-Linux-x86_64-v1.0.0.tar.gz)\r\n- [Linux (Flatpak)](https://github.com/FoxWorkshop/ShadowRecomp/releases/download/v1.0.0/ShadowRecomp-Flatpak-x86_64-v1.0.0.flatpak) (👈 Steam Deck)\r\n\r\nMisc:\r\n- [Release Info](https://github.com/FoxWorkshop/ShadowRecomp/releases/download/v1.0.0/ShadowRecomp.nfo.png)\r\n- [Debug Symbols](https://github.com/FoxWorkshop/ShadowRecomp/releases/download/v1.0.0/ShadowRecomp-Windows-x64-v1.0.0-PDB.zip)"
    },
-   "relAt": 1795261199864
+   "relAt": 1795261340137
   },
   {
    "id": "finesthourremastered",
@@ -3305,7 +3305,7 @@
     "date": "2026-11-04T00:44:44Z",
     "body": "# Finest Hour Remastered: latest update\n\nThe latest fixes for Finest Hour Remastered 1.0, all in one small program. It is cumulative: it updates any earlier\ninstallation of 1.0 to the latest version, whichever version it has now. Your settings (`codfh.toml`) and saved\ngames are kept.\n\nNew installations do not need it: the installer on the [1.0 release](https://github.com/crazyriddler/FinestHourRemastered/releases/tag/v1.0)\nalways carries the latest update and installs it with the game.\n\n> [!IMPORTANT]\n> The baked lighting update of 19 October has been withdrawn: it broke too many things. This update brings any\n> installation back to the version before it, that update's included (its baked lighting files are removed, the\n> textures it changed restored), and brings earlier versions up to it as usual. Your settings and saved games are\n> kept.\n\n## How to update\n1. Download `FinestHourRemasteredUpdate.exe`.\n2. Run it and choose the folder where Finest Hour Remastered is installed, then **Update**.\n\nThe version installed is in `version.txt` beside the game. Unattended:\n`FinestHourRemasteredUpdate.exe --update \"C:\\Games\\Finest Hour Remastered\" --log update.log` (exit code 0 updated,\n1 failed).\n\n## Changes since 1.0\n- The world's animated textures now move, as their artists made them: the light caustics on the sewer walls, the\n  falling water, the Volga and the rivers, glowing coals, fans and more. The game always ran these animations, but\n  RenderWare drew those surfaces without them: their sectors never had the material effects turned on.\n- The pause screen: the key and button pictures are square on wide screens and no longer overlap the prompt before\n  them (at 4:3 too). On the controller, B now leaves the pause screen from any of its pages, as START does: the game\n  showed B for continue and back but never bound it there.\n- Shadows go from Off to High: Ultra is gone (it cost a lot of GPU time for little difference). The presets now set\n  High shadows on Very High, Mediu"
    },
-   "relAt": 1795261200174
+   "relAt": 1795261340499
   },
   {
    "id": "dead-rising-2-case-zero-xenon-recomp",
@@ -3346,7 +3346,7 @@
     "date": "2026-10-14T05:12:20Z",
     "body": "\n# ⚠️ ONLINE PLAY — READ THIS FIRST\n\n> [!WARNING]\n> **DO NOT launch the game executable directly if you want online features.**\n>\n> Launch the game through the **[XenonLive Launcher](https://github.com/wivi514/XenonLive_Launcher)** for:\n>\n> **🎮 Online / Co-op · 🏆 Achievements · 👤 Gamertag · 👥 Friends**\n>\n> Starting the game any other way = **OFFLINE MODE ONLY**.\n\n> **This is the final release.** The maintainer has stopped working on the port, so no\n> further updates are planned and issues may go unanswered. The code, the recompiler\n> patches and the whole development record stay in the repository for anyone who wants\n> to continue it (`docs/final-state.md`).\n\nCo-op can now be played to the end, three new detail settings bring distant zombies,\nbuildings and shadows closer to what you see up close, Chuck's hair stops flickering, and\nthe renderer is about 1 ms a frame faster in big crowds.\n\n**Upgrading from v1.1.2:** unpack over your existing folder, or let the launcher install\nit — settings and saves live outside the game folder and are untouched. Your unpacked\ngame data is reused, and **your existing saves load normally**.\n\n> **First launch after this update does two one-off preparation passes** and then never\n> again: **PREPARING SHADERS** (part of the shader cache is rebuilt — this is the hair\n> fix reaching your install) and a few seconds of regenerating the patched game data\n> (for the co-op ending). Both are the update working, not a hang.\n\n### 🍎 New: macOS (Apple Silicon)\n\nThe first macOS build: `CaseZeroRecomp-macos-arm64.zip`, for Macs with an M1 or newer\nchip. It is an **early build**: tested on one M1 MacBook Air, where it plays, but expect\nrough edges (see Known limitations).\n\n1. Unzip it, then move the `CaseZeroRecomp` folder wherever you want to keep it.\n2. **Before the first launch**, open Terminal and run this once (drag the folder onto the\n   Terminal window to fill in its path):\n   ```\n   xattr -dr com.apple.quarantine ~/Downloads/CaseZeroRecomp"
    },
-   "relAt": 1795261200509
+   "relAt": 1795261340836
   },
   {
    "id": "dead-rising-2-case-west-xenon-recomp",
@@ -3384,7 +3384,7 @@
     "date": "2026-10-14T07:58:21Z",
     "body": "> [!WARNING]\n> ## 🌐 WANT ONLINE FEATURES?\n>\n> **Launch the game through the [XenonLive Launcher](https://github.com/wivi514/XenonLive_Launcher).**\n>\n> XenonLive is required for:\n> - 🎮 Online / co-op\n> - 🏆 Achievements\n> - 👤 Gamertag\n> - 👥 Friends\n>\n> **If you start the game any other way, it will run in OFFLINE MODE only.**\n> Single-player will still work normally.\n\n# Dead Rising 2: Case West — Native PC Port v1.1.2\n\n**v1.1.2 is the maintainer's official final build.** The original maintainer has\nstopped active development, but community forks, improvements, and pull requests\nare encouraged. Issues and pull requests may go unanswered.\n\nThis release brings the project to its final planned state across Windows, Linux,\nSteam Deck, and Apple Silicon Mac. It includes the following since v1.1.1:\n\n### Platforms and reliability\n\n- Apple Silicon macOS build, packaged as a self-contained app bundle.\n- Dedicated Steam Deck build with Deck-oriented defaults and no desktop launcher.\n- Improved Windows and macOS startup, Vulkan setup, and crash/diagnostic reporting.\n\n### Rendering and settings\n\n- Renderer fixes for widescreen fills, depth precision, resolve write-back, cube\n  snapshots, and shader/texture resource handling.\n- Zombie detail and shadow-bias controls in the visuals settings.\n- Static world detail uses the game's original 1.0 scale and is no longer an\n  adjustable setting.\n\n### Modding and diagnostics\n\n- Expanded support for community content, including larger zombie and shader\n  pools, audio substitutions, and a `game_mods/` overlay.\n- Additional frame, vertex-shader, and machine diagnostics for troubleshooting.\n\n## Downloads\n\n- Windows: `CaseWestRecomp-windows-x86_64.zip`\n- Linux: `CaseWestRecomp-linux-x86_64.tar.zst` or\n  `CaseWestRecomp-linux-x86_64.AppImage`\n- Steam Deck: `CaseWestRecomp-steamdeck-x86_64.tar.gz`\n- Apple Silicon Mac: `CaseWestRecomp-macos-arm64.zip`\n\nThe downloads contain no game data. You must supply your own Dead Rising 2: Case\nWest XBLA p"
    },
-   "relAt": 1795261200841
+   "relAt": 1795261341201
   },
   {
    "id": "skate3recomp",
@@ -3444,7 +3444,7 @@
     "date": "2026-07-24T21:21:06Z",
     "body": "v2.0.2 release of Skate 3 Recomp for Windows, Linux, and macOS (ARM / Experimental).\r\n\r\nA small patch for v2.0.1 focused on the first-run installer reports.\r\n\r\n## Downloads\r\n\r\n- Windows: `Skate3Recomp-Windows.zip`\r\n- Linux: `Skate3Recomp-Linux.zip`\r\n- macOS: `Skate3Recomp-macOS.zip`\r\n\r\n## Changes\r\n\r\n#### Installer\r\n\r\n- Fixed the first-run install wizard hanging on a black screen on displays 1200 pixels tall or shorter when the install path is long; this affected most 1080p setups with a deep folder path\r\n- Fixed the ISO install screen showing an empty install directory row\r\n\r\n#### Rendering\r\n\r\n- Readback source textures now declare copy-source usage, fixing a graphics API usage violation that stricter drivers could reject\r\n\r\n## Notes\r\n\r\nThis project does not include Skate 3 retail game files. You must provide files from your own legally obtained Xbox 360 copy of Skate 3."
    },
-   "relAt": 1795261201153
+   "relAt": 1795261341610
   },
   {
    "id": "tip-recomp",
@@ -3488,7 +3488,7 @@
     "date": "2026-11-10T04:15:12Z",
     "body": "- Xbox Live Support Using RexLiveLess a xbox guide replacement that has cross game support and delayed crate sending\r\n- Garden Store menu is fixed\r\n- Racing challenges are fixed, I removed the grass shells since they are ugly and make it so the ground renders\r\n- Mod support is enhanced using RexFabric\r\n- Rexglues version updated to 1.10 which means that we are no longer using the forked sdk\r\n- Unlimited garden space is considered complete and shouldn't cause issues\r\n- The Vision camera now works"
    },
-   "relAt": 1795261201535
+   "relAt": 1795261341997
   },
   {
    "id": "nocturnerecomp",
@@ -3557,7 +3557,7 @@
     "date": "2026-11-05T17:38:39Z",
     "body": "# Get the game on [Goopie](https://goopie.xyz/#/library/nocturnerecomp)!\r\n\r\n## Features\r\n\r\n* You can now click on the version number in the launcher to see the complete changelog of all releases from GitHub.\r\n* An additional screen (\"JOURNEY BACK TO 1792...\") will now be displayed when starting a new game.\r\n* The game's settings have been reordered in both the overlay and the native page.\r\n* You can now toggle both the background and clouds without using mods.\r\n* Mods can now ship custom screen size presets for the game.\r\n\r\n## Bugfixes\r\n\r\n* Fixed a bug where English dialogue text would flow weirdly with JP voices.\r\n* Fixed a bug where the game would think that it failed to start even when it didn't.\r\n* Fixed a bug where a thin horizontal row was always printed on screen.\r\n* Fixed a bug where you could skip all of the FMVs without clearing the game first.\r\n* Fixed a bug where the `texture_dump_enabled` cvar wasn't working anymore.\r\n* Fixed a bug where the game would crash at startup when failing to load a mod for any technical reason.\r\n\r\n**Full Changelog**: https://github.com/birabittoh/NocturneRecomp/compare/v1.5.1...v1.5.2\r\n"
    },
-   "relAt": 1795261201912
+   "relAt": 1795261342360
   },
   {
    "id": "rayman3-hd-recompiled",
@@ -3598,7 +3598,7 @@
     "date": "2026-11-17T23:19:19Z",
     "body": "# Rayman 3 HD Recompiled v1.2.0\n\nThis update restores more of the original PC visual effects in HD+, adds PlayStation button prompts and V-Sync, improves controller navigation in Settings, and introduces experimental level remix tools, including an Experimental 3D Level Viewer. It also adds an optional experimental save converter for transferring progress from the original Rayman 3 PC release (2003).\n\n## HD+ Improvements\n\nHD+ now includes four additional visual corrections:\n\n- **Power-up spiral:** Restored the original PC swirl around Rayman when a power-up starts.\n- **Power-up canisters:** Restored the purple beam and the colored rings above and below power-up canisters.\n- **Distant lock-on:** Restored the blue color of the lock-on indicator for targets that are out of range.\n- **Ugly creatures:** Fixed the incorrectly oriented body texture of the Ugly creatures in the Bog of Murk.\n\nThese corrections are enabled by default in HD+. Vanilla retains the original Xbox 360 HD appearance, while Custom allows individual corrections to be enabled or disabled under Settings → Corrections.\n\n## Controllers & Settings\n\n- Added PlayStation button prompts. In Settings, look below **Game profile** for **Controller button prompts** and choose **Auto** (default), **Xbox**, or **PlayStation**. Auto picks the icons for the primary controller when the game starts.\n- The in-game PC Settings panel (F4) can now be fully navigated with a controller, and help tooltips stay on screen.\n- Added an optional **V-Sync** setting under Settings → Display. It is disabled by default and takes effect the next time the game starts.\n- Updated the English and Turkish Settings interfaces.\n\n## Modding\n\n- Mods that change gameplay are now marked in Settings → Mods, with an explanation in their details.\n- While a gameplay-changing mod is enabled, **new achievements are not earned**. Enabling gameplay-changing mods does not automatically convert or delete your saves. As with other experimental mods, backing "
    },
-   "relAt": 1795261202354
+   "relAt": 1795261342725
   },
   {
    "id": "xerenge",
@@ -3652,7 +3652,7 @@
     "date": "2026-11-01T14:55:59Z",
     "body": "The game comes built: the installer only needs your own Burnout Revenge disc image (the European or the American release, see `SETUP.md`).\n\n**Windows:** download `Burnout_Revenge_Installer-win-amd64.exe` and run it.\n\n**Linux:** download `Burnout_Revenge_Installer-x86_64.AppImage`, then\n```bash\nchmod +x Burnout_Revenge_Installer-x86_64.AppImage\n./Burnout_Revenge_Installer-x86_64.AppImage\n```\n\nRun the installer again over an installed copy to update it; your settings are kept.\n\n**Android** (arm64, Adreno or Mali): install `Burnout_Revenge-android-arm64.apk`. It opens as the installer: pick your disc image. A Mesa Turnip driver .zip is optional, for Adreno phones whose own driver misbehaves. This release is signed with a fixed key: uninstall an earlier build once, and later ones install over it, keeping your saves.\n\n**macOS** (Apple silicon): download `Burnout_Revenge_Installer-macos-arm64.zip`, unzip it and run the app inside. It puts `Burnout Revenge.app` in `~/Applications`, so the game starts from Launchpad or Spotlight. The app is signed ad hoc, so macOS stops it the first time it is opened after a download; allow it under System Settings, Privacy & Security, Open Anyway. The installed game logs to `~/Library/Logs/xerenge-burnout/`.\n\n**Russian** (a mod): unzip `Xerenge-mod-locale_rus.zip` into the installed game's `game/mods/` and choose RUSSIAN in Driver Details > Settings > LANGUAGE. Its fonts are made at the first start from your own copy of the game; see `MODDING.md` to translate further or make a mod of your own.\n\n**Online play works out of the box** - the installer points at the server (`94639.snk.wtf`), where everyone plays together; there is nothing to set up. An install from before the server is moved to it when the installer runs over it.\n\n**What's new in 0.4.10:**\n- **Split screen**: each player's view is drawn in its own half of the screen; before, the second player's scene covered the first (GitHub #60). To play two at one PC on a keyboard and a pad, "
    },
-   "relAt": 1795261202756
+   "relAt": 1795261343099
   },
   {
    "id": "renut",
@@ -3721,7 +3721,7 @@
     "date": "2026-11-12T18:27:20Z",
     "body": "* added a whole ass lua scripting api\r\n\r\n* updated to latest rexglue\r\n\r\n* updated modules like rexfabric, rexcrash, rexglass, and rexliveless to latest.\r\n\r\ndocumentation for luascripting api is found in https://github.com/masterspike52/reNut/blob/main/docs/README.md please look at it to learn more\r\n\r\nLinux Users - please do the following: right-click > Properties > \"Is executable\", or run chmod +x renut-x86_64.AppImage in  konsole or whatever your flavor of distros terminal equal is. \r\n\r\nlinux mods go in ~/.local/share/renut/mods\r\n\r\nwindows mods go in a mods folder next to the exe."
    },
-   "relAt": 1795261203097
+   "relAt": 1795261343446
   },
   {
    "id": "reblue",
@@ -3774,7 +3774,7 @@
     "date": "2026-10-05T14:07:04Z",
     "body": "**Full Changelog**: https://github.com/zolaware/reblue/compare/v1.3.0...v1.3.1\n"
    },
-   "relAt": 1795261203405
+   "relAt": 1795261343794
   },
   {
    "id": "kameorepowered",
@@ -3821,7 +3821,7 @@
     "date": "2026-11-05T00:07:35Z",
     "body": "**Full Changelog**: https://github.com/MaxDeadBear/KameoRePowered/compare/v0.3.3...v0.3.4"
    },
-   "relAt": 1795261204151
+   "relAt": 1795261344436
   },
   {
    "id": "lostodysseyrecomp",
@@ -3884,7 +3884,7 @@
     "date": "2026-10-26T01:12:52Z",
     "body": "### English\n\n- Android: the CTRL menu follows the game's language.\n- Settings shows button names as the game's own button icons, including PlayStation prompts, stick clicks and the D-pad on the Controls page, so these lines keep the game font instead of switching to the small pixel font. The title menu's Back key uses the same icon (#667).\n- Settings uses the same HD font pages as the game when a font mod replaces them, and Latin menus use the European game's font with its accented letters (#668).\n- Settings can be shown in Spanish, French, German or Italian (System → Settings language); the menu uses the game's own font for them (#669).\n- Button prompts adds Switch, Steam Deck and Keyboard icons, in game, in Settings and on the title screen. Auto picks them for Nintendo pads, the Steam Deck and after a key press; keyboard icons show the bound keys. The artwork is Xelu's free CC0 prompts (#670).\n- Settings opened in a game keeps the game's own header (gold, play time, location) and looks closer to the game's menus: retail text proportions with a black outline, the game's cursor plate and list arrow, and translated Menu and Help labels (#671).\n- Linux: fixed imports to game folders below the system `/home` → `/var/home` link used by Bazzite and Fedora Atomic (#665).\n- Settings → System → Add to Steam adds the game to your Steam library on Windows and Linux, including AppImage and Flatpak. Artwork is generated from your game files, with bundled artwork as a fallback if that fails.\n- Settings → Graphics → Scene fades: Off replaces the short crossfade between scenes with a clean cut (#666).\n- Fixed low frame rates that could persist after leaving a building, such as on Uhra's main street (#694).\n- Split-screen shots in cutscenes no longer shake while DLSS, FSR or XeSS pause for them (#702).\n\n### 简体中文\n\n- Android：CTRL 菜单现在跟随游戏的界面语言。\n- 设置菜单中的按键名称改用游戏自带的按键图标（包括 PlayStation 提示、按键设定页的摇杆按下与方向键），这些文字不再切换为像素字体；标题菜单的 Back 键也使用同一图标（#667）。\n- 字体 Mod 替换字体页面后，设置菜单也使用与游戏相同的高清字体页面；拉丁语系菜"
    },
-   "relAt": 1795261204550
+   "relAt": 1795261344800
   },
   {
    "id": "eternalsonatareprise",
@@ -3931,7 +3931,7 @@
     "date": "2026-11-09T22:51:06Z",
     "body": "# Get the game on [Goopie](https://goopie.xyz/#/library/eternalsonata)!\r\n\r\n## Features\r\n\r\n* All enemy positions will now be scattered around the battlefield in PS3 mode.\r\n* The game now provides the `--prepare-content` CLI argument, which enables support for RecompLauncher (by @Xarishark in https://github.com/birabittoh/EternalSonataReprise/pull/64).\r\n* You can now configure the duration of the initial battle overview phase.\r\n* Mods can now translate the Scrapbook text.\r\n\r\n## Bugfixes\r\n\r\n* Fixed a bug where paths containing non-ASCII characters, such as Greek or Japanese, could fail during content identification (by @Xarishark in https://github.com/birabittoh/EternalSonataReprise/pull/64).\r\n* Fixed a bug where the would not delete temporary folders when the process was killed during asset extraction.\r\n* Fixed a bug where some PS3-exclusive strings were not translatable by mods.\r\n* Fixed a bug where credits would scroll at the wrong speed in PS3 mode.\r\n\r\n**Full Changelog**: https://github.com/birabittoh/EternalSonataReprise/compare/v1.3.8...v1.3.9"
    },
-   "relAt": 1795261205178
+   "relAt": 1795261345158
   },
   {
    "id": "ac6-recomp",
@@ -3994,7 +3994,7 @@
     "date": "2026-08-17T20:00:51Z",
     "body": "WARNING: THIS UPDATE MODIFIES HOW THE GAME SAVES WORK. MAKE A BACKUP OF YOUR EXISTING SAVE FILES BEFORE UPDATING IN CASE SOMETHING GOES WRONG.\r\n\r\n- Fixed non-English game path causing toml not to load.\r\n- `user_data_root` and `update_data_root` cvars are now honored.\r\n- Attempted fix on \"Gamer Profile not selected\" error.\r\n- Added preventive and corrective measures to save corruptions. Save game corruption are now less likely to happen, and if they do happen, existing save will be preserved, making permanent progress loss unlikely.\r\n- Added logging for DLC loading. Please attach an ac6recomp.log if you have any issue with DLCs not loading."
    },
-   "relAt": 1795261205787
+   "relAt": 1795261345799
   },
   {
    "id": "free-riders-recompiled",
@@ -4059,7 +4059,7 @@
     "date": "2026-11-21T09:33:18Z",
     "body": "## Changes\n\n- **Touch buttons stay round on wide phones.** With **Graphics › Aspect Ratio › Auto** on a wide phone (19.5:9 or 20:9, for example a Galaxy A55), and on iPhones, which use Auto by default, the touch buttons were stretched into ovals, and the places you had to touch were stretched the same way. They are now round at any screen shape, the same size as before, and keep their distance from the screen edges, so each thumb's buttons stay where the thumb is. What you touch now matches what you see. At 16:9 (the Android default, and 16:9 devices such as the AYN Thor) nothing changes.\n- **New: Customise touch buttons.** Under **Controls › Touch and tilt › Customise touch buttons** there is a row for each touch control (LS, RS, A, B, X, Y, LB, RB, LT, RT, START) with two switches:\n  - **Shown**: turn it off to remove the control completely. That part of the screen then works as empty screen. For example, hide the left stick (LS) when you steer by tilting.\n  - **Name**: turn it off to keep the button but hide its letters.\n  - The existing **Button names** switch still hides every name at once. Everything is shown and named by default, so nothing changes until you choose.\n  - Hiding START also removes the touch way to pause a race.\n\nFor #443\n\n## Validation\n\n- **Round touch buttons (Windows package, the desktop touch overlay):** in a 19.5:9 window (1560x720) with Aspect Ratio Auto, 0.10.71 drew the buttons as ovals; 0.10.72 draws them round, near the screen edges as at 16:9. At 16:9 they look as before.\n- **Customise touch buttons:**\n  - Windows package, the same 19.5:9 window with the left stick hidden and A and B unnamed: no stick, A and B are circles without letters, and the game logged the choice.\n  - AYN Thor (Android 10+ APK): a whole race with the left stick hidden, A and B unnamed, steering by tilt. The title, the menus and the race showed the controls as chosen, and the race ran at full speed (0.997).\n  - macOS: the game read the same choice.\n- **The rest, "
    },
-   "relAt": 1795261206211
+   "relAt": 1795261346140
   },
   {
    "id": "ng2recomp",
@@ -4107,7 +4107,7 @@
     "date": "2026-11-20T15:03:38Z",
     "body": "- Steam Deck button prompts: \"Button Prompts\" has a \"Steam Deck\" choice, and Auto shows the Deck's own buttons on a Steam Deck.\n- Frame Interpolation: scenes with many copies of one object (Mission 8's rockets) no longer drop frames while the pictures between frames are built (#134).\n- Windows: the game no longer keeps two CPU cores busy while it waits for the next frame, and Windows' power throttling is turned off for it (#17).\n- `NG2_PROFILE=1` also logs where the game's threads wait, for reports of slowdowns on slower machines (#17, #127).\n"
    },
-   "relAt": 1795261206555
+   "relAt": 1795261346537
   },
   {
    "id": "openng2",
@@ -4155,7 +4155,7 @@
     "date": "2026-11-05T19:54:05Z",
     "body": "No more GPU emulation. Ninja Gaiden II now runs natively on Vulkan.\n\nCompared with D3D12 at 7x resolution:\n- **64% less GPU time per frame**\n- **36% less power**\n\n*RTX 4090, Chapter 1 courtyard.*\n\n## New\n- **Native renderer:** on by default. D3D12 is still available in Recomp Settings.\n- **Temporal upscaling:** AMD FSR, with more options on supported GPUs.\n- **Upscaling modes:** Ultra Performance, Performance, Balanced, Quality and Native AA.\n- **Sharp HUD:** it's drawn after upscaling, at full output resolution.\n- **Real resolutions:** common sizes up to 4K, matched to your aspect ratio.\n- **New presets:** they follow your screen, and Ultra is your native resolution.\n\n## Changes\n- FSR 1.0 is now only on D3D12, or as a fallback if FSR can't run.\n- PCs without Vulkan 1.3 start on D3D12 automatically.\n\n## Fixes\n- Recomp Settings now line up when the picture is letterboxed.\n\n## Known issues\n- The sky may smear slightly during fast camera turns.\n- NG2's game logic is locked to 60 fps. I'm investigating a workaround.\n"
    },
-   "relAt": 1795261206852
+   "relAt": 1795261346911
   },
   {
    "id": "izunarecomp",
@@ -4203,7 +4203,7 @@
     "date": "2026-11-16T14:55:46Z",
     "body": "## v0.2.2.1 — Windows and Linux performance update\n\nA performance update for **Windows** and **Linux** (the Steam Deck included), from a rework of how the game\nis recompiled and drawn. Android and PS5 are unchanged in this release: use v0.2.2 for Android (its\noptimisation is still in progress) and v0.2.1 for the PS5.\n\n> [!NOTE]\n> **A black screen for a few seconds after START GAME is normal.** When you start the game from the hub,\n> the screen can stay black for some seconds before the game appears: wait for it, it is not a crash.\n\n**Recompiler**\n- The game's memory reads and writes are now ordinary ones the C++ compiler can optimise (before, every\n  one was forced to happen exactly as written), with the waits between threads kept correct.\n- The recompiler finds the game's busy-wait loops (41 of them, the main loop's wait for the render thread\n  among them) and makes them pause, then let other threads run, instead of spinning flat out. They do not\n  sleep: a sleep woke too late for the game's handoffs between its threads, so frames missed the screen's\n  refresh and 60 fps looked like 30.\n- Linux: calls between the game's functions are direct calls again (a \"large code model\" setting had made\n  every one an indirect call).\n- Linux: timed waits no longer spin through their last millisecond.\n- Direct3D's copies of its state into a command stream that the renderer never reads are skipped.\n\n**Renderer**\n- The game's shaders are built into the program, as on Android and the PS5: no shader build at the first\n  start, and no `dxcompiler.dll` / DXC libraries in the release.\n- The game's shaders read its memory and constants without 64-bit addresses, as plain uniform and storage\n  buffers — lighter for the GPU (the Steam Deck's 3D scene pass went from 5–17 ms to about 3–4 ms).\n- Strip index lists are kept in ordinary memory (no slow reads back from GPU-shared memory).\n- The game's index buffers are drawn as Vulkan index buffers, so the GPU reuses transformed vertices.\n- Whole"
    },
-   "relAt": 1795261207255
+   "relAt": 1795261347308
   },
   {
    "id": "pgr4-recomp",
@@ -4245,7 +4245,7 @@
     "date": "2026-11-21T00:16:45Z",
     "body": "v2 had some bugs, i admit that, and sincere apologies! \r\n\r\nHowever, most of them have been fixed, and unfortunately, due to this, **the voice chat implementation has been removed**, it was causing unnecessary online issues, and was being unused. \r\nThis update is in no way related to v2.1, where more things will be added.\r\n *cough cough* console support and an online rewrite *cough cough*\r\nagain, apologies from me again, any bug reports are appreciated! (also, 4 player split screen will not be fixed in this release, as it relies on some more things that i couldn't modify in time)\r\nif you have the launcher, it will auto detect this update and prompt you to update your build, thank god for that!"
    },
-   "relAt": 1795261207635
+   "relAt": 1795261347682
   },
   {
    "id": "pgr4-regpu",
@@ -4287,7 +4287,7 @@
     "date": "2026-11-08T00:47:22Z",
     "body": "## 0.2.7\n\n**Fixes**\n- Bikes: manual gear changes no longer get missed above 60 fps. Cars got this fix in 0.1.8, but bikes have their own gearbox and it never reached them.\n- Garages: walking around responds at once. The menu hold delay added in 0.2.4 was swallowing the first half second of stick movement there, as it did on bikes before 0.2.5.\n\n**Launcher**\n- Add DLC now accepts zip files. Every PGR4 package inside is installed, even in subfolders or in a zip inside the zip. Anything else in the zip is skipped, and you'll get a message if the zip holds no packages.\n\n---\n\n**Updating:** use the launcher's Updates tab, or run `PGR4-Setup-0.2.7.exe` over your current install (settings and saves are kept). If you're on 0.1.5 or older, use the installer.\n"
    },
-   "relAt": 1795261208085
+   "relAt": 1795261347999
   },
   {
    "id": "mcla-recomp",
@@ -4349,7 +4349,7 @@
     "date": "2026-10-29T15:55:01Z",
     "body": "The zip below is everything needed to build the game from your own disc: the build scripts, the SDK patches, the function hints and the host application. As always, it holds **no game code, assets or keys**; the build takes those from your own copy of *Midnight Club: Los Angeles Complete Edition* (USA/Europe, Xbox 360) on your machine.\n\nBoth changes are by ZaidNx (#29, #30). Thanks!\n\n## PS5: controller rumble works on a DualSense (#28, #29)\n\n**What was wrong.** A DualSense starts in its advanced vibration mode, where the game's two rumble levels move nothing, so crashes, collisions and nitro never vibrated the pad.\n\n**The fix.** The pad is now put in compatible mode once it is opened, so it rumbles from the game's levels like a DualShock 4. Nothing to turn on.\n\n## PS5: DualSense haptics and adaptive triggers (optional, #30)\n\nOff by default. Add these to `/data/mcla/mcla.toml` to turn them on:\n\n```toml\nmcla_pad_haptics = true\nmcla_adaptive_triggers = true\n```\n\n- **Haptics:** the pad's actuators play the low end of the game's sound plus its rumble, with extra feel from the car itself: road texture that grows with speed, a thump on each gear change, a knock on crashes and a surge while nitro burns.\n- **Adaptive triggers:** resistance on R2 (throttle) and L2 (brake), short buzzes on wheelspin, hard braking and hits, a buzz near the top of each gear, and slack triggers in menus and the pause menu.\n\nTuning options (`mcla_haptics_*`, `mcla_trigger_*`) are listed in `ps5/game/ps5_haptics.h` and `ps5/game/ps5_triggers.h`. The car's speed, gear and nitro come from a new hook in the race HUD (`src/vehicle_telemetry.cpp`); the memory paths are from LARecomp, with credit.\n\n## How far it has been checked\n\n- Rumble fix: tested on a base PS5 (FW 12.02) by ZaidNx and on a PS5 Pro (13.42): rumble on crashes, collisions and nitro, and QUIT still returns to the home screen.\n- Haptics and triggers: tested by ZaidNx on a base PS5 in free roam, races, crashes, nitro and the pause menu, an"
    },
-   "relAt": 1795261208407
+   "relAt": 1795261348366
   },
   {
    "id": "larecomp",
@@ -4466,7 +4466,7 @@
     "date": "2026-11-09T14:12:54Z",
     "body": "No game data is included, you need a disc image made from your own copy of the game. The [wiki](https://github.com/new-coke/strikers/wiki) lists the supported discs and formats, and how to report a problem.\r\n\r\n**_Switch version temporarily removed due to save corruption bug. Will push a new build 10/11/26._**\r\n\r\n## Setup\r\n\r\n- [Windows](https://github.com/new-coke/strikers/wiki/Windows)\r\n- [macOS](https://github.com/new-coke/strikers/wiki/macOS)\r\n- [Linux](https://github.com/new-coke/strikers/wiki/Linux)\r\n- [Steam Deck](https://github.com/new-coke/strikers/wiki/Steam-Deck)\r\n- [Nintendo Switch](https://github.com/new-coke/strikers/wiki/Nintendo-Switch)\r\n\r\nSee also [Controls](https://github.com/new-coke/strikers/wiki/Controls), [Texture packs](https://github.com/new-coke/strikers/wiki/Texture-packs) and [Troubleshooting](https://github.com/new-coke/strikers/wiki/Troubleshooting).\r\n\r\nNot affiliated with or endorsed by Nintendo or Next Level Games.\r\n\r\n## Notes\r\n\r\n- Online multiplayer: Yes, I said I wouldn't do it, but here we are! Rollback netcode, over a local network or the internet.\r\n  - Everyone needs the same version. USA and Europe discs can play together; Japanese discs can play only Japanese.\r\n  - Online is in the bottom left corner of the main menu.\r\n  - Host: set the length, difficulty and items under Match settings, then Choose teams. Allow the firewall prompt the first time.\r\n  - Join: pick a room under Nearby rooms, join by IP address, or use Discord to invite and request to join without faffing around with IP addresses.\r\n  - Up to 4 consoles or PCs, 2 players on each.\r\n  - Switches can only play other Switches for now. Matches between a Switch and a computer drift out of sync after a few seconds. I'll try fix it in the next few weeks, along with any other multiplayer bugs.\r\n  - UPnP opens your router's port in most cases. If not, use Tailscale or ZeroTier, or forward UDP port 41210.\r\n  - **PLEASE report desyncs, crashes and freezes with your platform, how y"
    },
-   "relAt": 1795261209520
+   "relAt": 1795261349319
   },
   {
    "id": "eternaldarknessrecomp",
@@ -4521,7 +4521,7 @@
     "date": "2026-10-24T20:35:29Z",
     "body": "**Eternal Darkness: Sanity's Requiem** as a native game for the Mac, Windows and Steam Deck / Linux. The game's files (its program, graphics, sound and music) come from your own disc.\n\n> **European disc only** (`GEDP01`, an `.iso` or `.gcm`). The USA disc is not supported.\n\n### What's new in 0.9.6 (Steam Deck / Linux only)\n- **Fixed: heavy slowdown in some areas on Linux and the Steam Deck** ([#8](https://github.com/griches/EternalDarknessRecomp/issues/8)), such as the cathedral in chapter 9 and Pious's first enemies. The first start used to build most of the game's code unoptimised to save time, and busy rooms then ran at 23-42 fps on a Deck. It now builds all of it optimised: the same chapter 9 room holds 60 fps.\n- The first start now takes **a few minutes** (about 4 on a Steam Deck) instead of about one, and only happens once. A window shows what it is doing and how long is left.\n- **Fixed:** the first start failed in a folder with a `:` in its name (such as `Eternal Darkness: Sanity's Requiem`).\n\nIf you have an earlier version, unpack the new folder over your old one: your saves, settings, disc and textures stay. The game builds again on its next start.\n\nThe Mac and Windows downloads below are the 0.9.5 builds, unchanged: nothing in this release affects them. The PlayStation 5 version is unchanged too.\n\n### Download\n- **Steam Deck / Linux**: `EternalDarkness-linux-x86_64-....tar.gz`. x86-64. Unpack it (Ark in Desktop Mode on a Deck) to get an `EternalDarknessRecomp` folder, put your disc image in it and run `play.sh`. On a Deck, add `play.sh` to Steam as a non-Steam game and play it from Game Mode. The first start translates your disc and builds the game (about 4 minutes on a Deck); after that it starts straight away.\n- **Mac** (Apple silicon, macOS 13 or later): `EternalDarkness-mac-....zip`. Unzip it, move **Eternal Darkness.app** to Applications, right-click it and choose **Open** the first time (it is not notarised), then drop your disc image on its window. "
    },
-   "relAt": 1795261209849
+   "relAt": 1795261349656
   },
   {
    "id": "sms-pc-port",
@@ -4590,7 +4590,7 @@
     "date": "2026-10-03T07:14:53Z",
     "body": "Optional AI-enhanced Sunshine cutscenes for the HD textures setting. All 21 original movies are upscaled 3× while preserving every frame, original framing and all compressed audio tracks.\n\nThe `.smpatch` assets contain enhanced video frames. The installer requires matching original movies from your own North American GMSE01 ISO, GCM or CISO and verifies each reconstructed movie before activating the pack. No audio tracks or disc image are included in these assets.\n\nUse the updated SMS Launcher and enable **HD textures** to install the texture pack and cutscenes together. For a source installation, follow `docs/HD-CUTSCENES.md` in the matching port revision.\n\nAI processing reconstructs detail; these are upscales of the original movies rather than new renders of the animation.\n"
    },
-   "relAt": 1795261210235
+   "relAt": 1795261350052
   },
   {
    "id": "sunpad",
@@ -4659,7 +4659,7 @@
     "date": "2026-11-15T23:49:43Z",
     "body": "SunPad 0.3.2 (build 20) changes how the on-screen touch controls behave when a game controller is connected on iPhone and iPad (#86).\n\n- While a controller has hidden the touch controls, **Show Touch Controls** appears at the top of the three-dot menu. It brings them back with the controller still connected and turns auto-hide off until you turn it on again.\n- **Controls → Auto-hide Touch Controls with Controller** shows the saved choice and changes it directly. It is still on by default.\n- Auto-hide now follows the controller assigned to player 1, so a controller on player 2 no longer hides the touch controls.\n- Hiding the controls releases any touch buttons, sticks or triggers that were held, and hidden controls ignore new presses.\n\nSunPad's display code already sizes the game from its own window, so an external display or TV needed no change in this release. The game module and the Windows and Linux routes are unchanged: open PadMint and click **Make my copy** again. PadMint picks up this release automatically.\n\nThe unsigned app asset contains no translated game module. PadMint adds a module built from your own supported disc. Don't redistribute the resulting personal app or game data.\n\n**Validation**\n\n- The controller slot tests, including the new touch control visibility test, pass. CI passes on iOS, tvOS, safety and the native x64 Windows route.\n- `SunPad-v0.3.2-ios-unsigned.ipa` was built with `scripts/build-ios-app.sh` from the release tree (`7fddb99f`, merge `429a2976`). All three assets pass PadMint's content audit and the release gate, and the app contains no game module.\n- PadMint's player check passed on the Mac before tagging with the release checkout, that app and the original disc: current PadMint `main` (`93ace90`, 0.6.5), Apple's Python 3.9.6 and an empty PadMint folder (8,849 seconds). The personal IPA reports 0.3.2 (build 20).\n- Not yet verified: a physical controller and the menu on an iPad, and play on a TV through an external display. That acc"
    },
-   "relAt": 1795261210553
+   "relAt": 1795261350425
   },
   {
    "id": "melee-pc",
@@ -4728,7 +4728,7 @@
     "date": "2026-10-21T00:08:51Z",
     "body": "**Beta, for testing only.** Expect crashes and missing features.\n\nYou need your own Super Smash Bros. Melee disc image. **No game data ships in\nthese artifacts** — the port reads everything, including its font atlases, from\nthe image you supply at runtime.\n\n**USA revision 2 (NTSC-U 1.02, GALE01)** is the supported disc. A Europe (PAL,\nGALP01) image boots experimentally, running the USA game code on PAL data with\nEnglish (UK) text.\n\n<!-- Published verbatim by the release job (gh release create --notes-file).\n     Per release: replace Highlights and Fixes, refresh Known issues and\n     Requirements, link earlier releases, and update the feature status table\n     in README.md (it is the single source\n     of truth for what works; nothing here may contradict it). -->\n\n## Highlights\n\n- Fixed the Adventure mode Mushroom Kingdom crash when blocks are hit (#144).\n- Fixed macOS bundles missing transitive `@rpath` libraries, including\n  `libbrotlicommon.1.dylib`, which could prevent the app from launching (#145).\n- Fixed coloured bars at the top left of widescreen fights when off-screen\n  fighter magnifiers are drawn. Verified on Linux/Vulkan in Kongo Jungle and\n  Onett; Windows/Direct3D hardware verification is still pending.\n\n## Fixes\n\n- Replaced GameCube byte-offset overlays with native field access for\n  Mushroom Kingdom block objects, Multi-Man Melee record initialization, and\n  Super Scope charge resets. This avoids invalid pointers, missing records,\n  and writes into unrelated CPU state on 64-bit hosts (#144).\n- macOS packaging now resolves and bundles transitive `@rpath` dependencies\n  and rejects bundles with missing libraries before publishing (#145).\n- Magnifier capture cameras now copy and clear their whole temporary viewport,\n  preserving fighter proportions and preventing leftover depth from hiding\n  parts of the stage. Added a regression test for original, widescreen and\n  ultrawide framebuffer aspects.\n\n## Known issues\n\nOpen reports are tracked on the [issue t"
    },
-   "relAt": 1795261210945
+   "relAt": 1795261350783
   },
   {
    "id": "nsmb-wii-multiplayer-recompilation",
@@ -4797,7 +4797,7 @@
     "date": "2026-11-08T05:12:13Z",
     "body": "0.5.0 rebuilds the Settings window for widescreen, adds the HD Texture Pack, puts Newer Super Mario Bros. Wii in the PC and Linux downloads, and makes the game thread faster. If you're on 0.3.0 or later, the orange **Update** button on the file select installs it. Your saves, settings and game files are kept.\n\n### Settings window, rebuilt for 16:9\n\n- **Nearly full screen**, over the pause menu's see-through dark fill, with bigger tabs, rows, buttons and prompts. With a 4:3 picture, the window shrinks to fit inside it.\n- **Video is now two tabs.** **Display** has Resolution, Aspect Ratio, Fullscreen, V-Sync and the Performance Monitor. **Graphics** has Renderer, Spinning Coins, Depth Blur, Battery Saver and Frame Interpolation.\n- **Dropdowns** for Resolution, Aspect Ratio and Frame Interpolation: pick from the list instead of stepping through every choice. Fullscreen is a plain On/Off.\n- **Original 4:3 can be picked** in Aspect Ratio, next to 16:9, 16:10 and (on screens wider than 16:9) Ultrawide. Switching between 4:3 and widescreen takes effect after a restart.\n- Cleaner buttons: no white corner gloss, bigger centred labels, one size for every tab label.\n\n### Frame Interpolation in the Settings window\n\n- **Graphics > Frame Interpolation:** Off, 120, 180, 240 or 300. It draws frames in between for smoother motion on screens above 60 Hz. It's still experimental.\n- **60, with Battery Saver.** While Battery Saver is on, 60 is offered too: it turns Battery Saver's 30 FPS back into 60 smooth frames.\n- Android keeps the setting like the others.\n\n### Mods: the HD Texture Pack\n\n- The **Mods** tab has its first mod: **Bighead's NSMBW HD Texture Pack v2.81**, with textures by Bighead, razius, jaco8, CDAMJC and Amon1995. Thanks to all of them.\n- **Download** fetches it from the pack's own download links (this project doesn't host it), checks it, unpacks it and turns it on. It's about 23 MB to download and 38 MB on disk.\n- **Turn it on and off while you play.** The first time e"
    },
-   "relAt": 1795261211525
+   "relAt": 1795261351421
   },
   {
    "id": "newsuperpaperbros",
@@ -4860,7 +4860,7 @@
     "date": "2026-11-01T18:03:49Z",
     "body": "**Fixed**\n- On screens wider than 16:9 (for example Cinematic 2.39:1), doors no longer stretch or show a second door opening beside the real one. Mario no longer stretches going in or out of pipes, or riding flip panels.\n\nWindows: unzip `NewSuperPaperBros.zip` over your old folder, or use Options → Game → Update. Linux: unpack `NewSuperPaperBros-linux.tar.gz` over your old folder. Your disc, saves and settings are kept.\n"
    },
-   "relAt": 1795261211873
+   "relAt": 1795261351784
   },
   {
    "id": "zeldawwhdrecomp",
@@ -4929,7 +4929,7 @@
     "date": "2026-11-06T14:33:31Z",
     "body": "**The Wind Waker HD, native PC port, v0.5.1**\n\nThis release contains **no game files, no game code and no keys**. You need your own disc dump\n(.wux/.wud with its disc key, plus the Wii U common key from your console), a Cemu .wua archive\n(no keys needed), or an already extracted game folder. The installer builds the game from it on your machine.\n\n**Install:** download the zip for your system, unzip it anywhere and start **Wind Waker HD**. The\nfirst start prepares the game once from your dump (about two minutes); later starts launch it directly.\nEverything stays in that folder.\n- macOS (Apple Silicon, macOS 14+): `Wind Waker HD.app`. The release is not signed by Apple:\n  macOS 15+: System Settings > Privacy & Security > Open Anyway; macOS 14: right-click > Open.\n  Keep the app inside the unzipped folder (move the whole folder, not just the app)\n- Windows: `Wind Waker HD.exe` (SmartScreen: \"More info\" > \"Run anyway\"); `windows-x86_64` for x86-64,\n  `windows-arm64` for Windows on ARM (Snapdragon X)\n- Linux (glibc 2.35+, Vulkan): `wind-waker-hd`; `linux-x86_64` for x86-64, `linux-aarch64` for arm64\n  (Raspberry Pi 5, Asahi Linux, ARM laptops). Or one file: `chmod +x` the `.AppImage` and start it\n  from anywhere (Steam Deck included); its game, code, saves and settings go to `~/.local/share/wwhd`\n  and `~/.config/wwhd` instead of beside it (Ubuntu 24.04+: `libfuse2t64`, or\n  `--appimage-extract-and-run`)\n- Android (arm64, Android 13+, Vulkan 1.3): install the `android-arm64.apk` (`android-x86_64` is for\n  emulators and Chromebooks), choose your game in the app, and it builds the game on the phone (once,\n  a few minutes). Signing certificate SHA-256:\n  `7F:F6:D3:5E:4E:45:11:5E:E4:93:65:EF:5B:40:C0:EB:83:EA:F7:6C:C1:1C:E9:67:F2:64:5C:50:4F:58:B2:13`\n\nSee \"Install (releases)\" in the README for details.\n\n## What's new\n\n### Thanks\n\nThanks to everyone who sent code for this release:\n- @itsarahtonin: change Link's name mid-game (#343), sharp settings text at 4K (#345), `%` refu"
    },
-   "relAt": 1795261212248
+   "relAt": 1795261352181
   },
   {
    "id": "metroid-dread-recomp",
@@ -4998,7 +4998,7 @@
     "date": "2026-11-19T09:09:34Z",
     "body": "**Downloads:** Windows → `MetroidDread-PC-v0.5.10-Windows-x64.zip`. Linux / Steam Deck → `Metroid_Dread-x86_64.AppImage`. You need your own dump of Metroid Dread 2.1.0.\n\nA small update, mainly for **AMD Radeon** cards, plus a fix for outdated game code being started after an update (#75).\n\n## AMD Radeon cards\n- **Windows: AMD cards start on Native Vulkan.** AMD's OpenGL driver crashes for many players (`atio6axx.dll`; #12, #39, #49, #55). When an AMD Radeon drives the main display and no NVIDIA card is in the PC, the game now runs Native Vulkan, and the settings are switched once to show it. Choosing OpenGL or Vulkan output on the Play screen or in the in-game menu still works and is kept, with a red warning.\n- **Native Vulkan on AMD** (#68, #69):\n  - No more black screen or \"GPU device lost\" on the first frame, as v0.5.9 had on AMD cards: the extra passes (FXAA, sharpening, in-game menu, TAA, ambient occlusion and others) now set their vertex layout the way AMD's driver expects.\n  - The built-in pipeline list uses depth formats AMD cards support (D32S8 instead of D24S8) and skips formats a card can't draw to.\n  - Shader loops on helper pixels now end, so they can no longer hang the GPU (fix from ScarletNX). This targets the hang after the first cutscene on an RX 9060 XT; not yet confirmed on that card.\n  - Broken viewports are skipped or moved into range, and the renderer's worker threads get larger stacks.\n- **More detail when the GPU fails:** after a lost GPU device, the log names the work the GPU was busy with (and the driver's fault details where the card reports them), and the game closes cleanly.\n\n## Fixes\n- **PLAY never starts outdated game code (#75):** when the game patches changed but the game code was not rebuilt yet, PLAY now rebuilds first and then starts the game. The same goes for the controller's Play button, RecompLauncher, Steam shortcuts and a skipped Play screen. Before, old game code could bring back crashes already fixed in v0.5.9, such as the"
    },
-   "relAt": 1795261212600
+   "relAt": 1795261352504
   },
   {
    "id": "mp4-recomp",
@@ -5058,7 +5058,7 @@
     "date": "2026-11-03T03:21:59Z",
     "body": "Native Linux build of Metroid Prime 4: Beyond as a single AppImage, and now a Windows build too. **Bring your own copy:** no Nintendo files are included; the first-run setup verifies your dumped ExeFS + RomFS and compiles the game on your machine.\n\n```bash\nchmod +x Metroid_Prime_4_Recomp-x86_64.AppImage\n./Metroid_Prime_4_Recomp-x86_64.AppImage\n```\n\n**Windows:** download `MetroidPrime4Recomp-PC-v2026.11.20.2133.zip`, extract it anywhere with about 30 GB free, and run `Metroid Prime 4 Beyond.exe` in the `Metroid Prime 4 Beyond` folder. Setup and the compiler are included. The Windows work comes from a contributor (pull request #13), who played it on Windows; the build itself is made by GitHub Actions from this repository. It has not been tested on Windows by this repository's maintainer, so please report problems under Issues with `Metroid Prime 4 Beyond.log` from the game folder.\n\n**Linux:** the game is installed in `~/.local/share/MetroidPrime4Recomp` (set `MP4_RECOMP_HOME` to use another folder). If you ran an earlier build, its `~/.local/share/MetroidBeyondRecomp` folder is moved there on the first start, with your saves, compiled game and shader cache.\n\n**New in the 2026-11-08 update**\n- Fixed: the Ice Belt lake's fog was far too thick and hid the enemies (compressed 3D textures were only partly decoded). The first start after updating asks for a REBUILD of the game code, which takes a few minutes.\n- Built-in cheats on the Gameplay page and the in-game Cheats page, off by default: no ammo use, infinite health, infinite jumps, any elemental shot, one-hit kills and more. Based on the [GBAtemp cheat research](https://gbatemp.net/threads/metroid-prime-4-beyond-010019a01e2f2000.677778/) by Gamerjin, Luffysan and ZiT866. Some are still being tested, and Walk through walls can get you stuck, so keep a save.\n- Green Energy 10x option, after the [mod by melos444](https://gamebanana.com/mods/734159).\n- AUTO-SET now picks a Low, Medium, High or Ultra profile from your graph"
    },
-   "relAt": 1795261213106
+   "relAt": 1795261352835
   },
   {
    "id": "letsgo-recomp",
@@ -5124,7 +5124,7 @@
     "date": "2026-11-18T05:38:56Z",
     "body": "Fixes for crashes on integrated GPUs and for mods with big files, and a clearer error when the game code fails to build.\n\n**Fixed**\n- **Integrated GPUs keep some memory free** (#59, #63: crashes after \"out of device memory\", #59 on an Intel UHD 620): the game's memory shared with the GPU now stops 1.5 GB short of the GPU's memory, never under 2 GB, and the log says how much the GPU has. Tested by simulating the limit on an NVIDIA card, not on an affected PC.\n- **Mods with files bigger than the game's own no longer crash it** (#55: `2002-6063` with upscaled sprites): the game reads each file into a buffer from heaps sized for its own files (8 MB while starting); a file that doesn't fit is now read into a 256 MB reserve instead. Tested with a 64 MB file at start and in the Pokédex, in both games; not with the mod from the issue (bigger textures may still hit other limits). Not on Eevee 1.0.2.\n- **When the game code fails to build, the log has the reason** (#54): the generator's whole error goes to `lasrecomp.log`, and the start screen no longer blames disk space.\n\n**To update**: close the game and unzip over your folder; your saves, settings and mods stay. Coming from 0.7.6, the game code is not rebuilt; from an older version, the first start rebuilds it once, by itself.\n"
    },
-   "relAt": 1795261213486
+   "relAt": 1795261353194
   },
   {
    "id": "recompia",
@@ -5180,7 +5180,7 @@
     "date": "2026-11-20T15:43:30Z",
     "body": "\n**Update:** press **Update** in the launcher, then **Set up again** once (co-op gets a new game hook point and split screen a new window setup; saves and shaders are kept, no shader is translated again).\n\n### Highlights\n- **Split screen:** 2 to 4 players on one PC in one co-op story, each in a window of their own with their own character and controller. Open **Co-op**, then **Split screen on this PC**\n- **The launcher is now called Recompia:** Recompia.exe (Recompia.AppImage on Linux, Recompia on macOS). Shortcuts to PokopiaLauncher keep working and Steam shortcuts are moved over by themselves\n- About 1 GB less memory on every platform, and up to 2 GB less on Linux and the Steam Deck\n- Your own launcher themes: colours, background, logo and icons from a theme pack on your PC\n\n### Known issues\n- Downloading by hand: the download is now Recompia-0.16.0-<platform> and its folder Recompia-0.16.0, so extracting it over an old PokopiaRecomp folder no longer replaces that install. Use **Update** in the launcher, or move your files to the new folder. PokopiaLauncher.exe in an install keeps working\n\n### Co-op\n- Co-op: split screen. **Split screen on this PC** on the Co-op page makes a co-op save for 2 to 4 players on one PC, each in a window of their own with their own character, controller (or the keyboard and mouse) and copy of the world. The windows share one story as in online co-op and meet on their own, with no internet. Each window needs about 7 GB of memory.\n- A teammate's talks with characters that give, take or make things now always reach the host: a talk that ended while the game was still waiting on another request was lost, so the teammate got nothing and the character stayed tied to them (its work stopped and others could not use it). A teammate who talks to a character for its reward now gets the reward item too, instead of it going to the host's bag (and the host's own reward items reach teammates as well). Use **Set up again** once after updating to relink"
    },
-   "relAt": 1795261213815
+   "relAt": 1795261353542
   },
   {
    "id": "super-odyssey-pc-recomp",
@@ -5249,7 +5249,7 @@
     "date": "2026-11-21T10:11:28Z",
     "body": "## Fixed / new\n\n- **Death screen (#114)**: the screen now stays black from the closed wipe to the coin count, instead of showing the scene again.\n- **Stew and sea (#116, #117)**: the game could lose the surface of Luncheon's stew and Seaside's sea for a whole visit, so a captured Lava Bubble fell through and water acted like land. If you still see either, please tell us where.\n- **HUD and menu quality** (Graphics, Switch / High): High draws the HUD and menus with crisp, smooth edges on big screens. It replaces \"Sharper HUD and menus\".\n- **HUD in 16:10 and 4:3** (Steam Deck included): the counters, life gauge and button guides now sit at the picture's edges.\n- **Box under the life gauge** after changing the aspect ratio: fixed.\n- **Frame rates above 60 on game 1.4.1** (experimental): Mario, Cappy and the camera now move between game updates, so motion is much steadier at 120 and 144.\n- **60 FPS with VSync off** ran slightly fast (60.6); it is now exactly 60.\n- **Low-end PC preset** (Performance): one button for lighter settings on slow PCs.\n- **RecompLauncher**: the game's log is now written when started from the launcher.\n\n## What's next\n\nFixing leftover bugs and improving the settings and the settings menu. The port is pretty much complete at this point, so the road to 1.0.0 will follow players' experience: please keep the reports coming.\n\n## Updating\n\nShaders are prepared again once on this update. No game code rebuild.\n\nWindows: download the zip below and extract it over your current folder (or use **Updates** in the menu). Linux / Steam Deck: download the AppImage below, or use **Updates** in the menu. Your game files, saves and settings stay.\n"
    },
-   "relAt": 1795261214163
+   "relAt": 1795261353897
   },
   {
    "id": "smo-recomp",
@@ -5378,7 +5378,7 @@
     "date": "2026-11-16T01:37:37Z",
     "body": "## What's Changed\n* Remember installer paths between releases by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/81\n* Fix the glow box in the opening cutscene above 720p and the flare on full-output targets by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/101\n* Add the F1 menu capture buttons and the per-capture recorder by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/100\n* Fix the cloud sea haze and the transform feedback crash on the PR 100 build by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/103\n* Accept doubled separators in game paths, so field music opens by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/104\n* Merge origin/master into main by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/108\n* Renderer review: recorder lock, glow skip inputs, texel bounds, present crop by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/110\n* Open the capture folder on Windows, and copy its path where the shell refuses by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/111\n* Add RecompLauncher support by @Xarishark in https://github.com/AksharDP/xc2-recomp/pull/98\n* Renderer review fixes: feedback layout, write-back, FSR3, frame generation resize, alpha test, 120 fps default by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/114\n* Copy a GPU render into a linear texture of another shape over its storage by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/126\n* Share one feedback copy among a run of draws (issue 112) by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/122\n* Copy helpers, recording block cache, -O2 game code, and XC2_PACE by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/125\n* Feedback snapshot copies, frame bound and probe coverage by @AksharDP in https://github.com/AksharDP/xc2-recomp/pull/124\n* Per-thread host call counts, deferred-bind skip, targeted sync wake, staging arena fit, 1.2.1-only LOD observer by @AksharDP in https://github.com/Aksh"
    },
-   "relAt": 1795261215186
+   "relAt": 1795261354951
   },
   {
    "id": "xcx-recomp",
@@ -5434,7 +5434,7 @@
     "date": "2026-11-12T10:13:47Z",
     "body": "## XCX Recomp 0.1.21\n\nInstall and play through [RecompLauncher](https://recomplauncher.com). Thanks to @Xarishark (#140).\n\n- The setup reads `recomplauncher.json`: the launcher asks for your game files and keys, builds the game and starts it.\n- New setup options: `--game` (a game file, or a folder holding the base game, the update and any DLC, sorted by what's inside the files), `--lang auto`, `--progress-lines` and `--dlss-file`.\n- `--dlss-file` copies a DLSS library only when it is NVIDIA's release the setup would download (SHA-256 checked).\n- Optional inputs left empty (`--dlc=`, `--dlss-file=`) count as not given.\n\nNothing changes in the game itself since 0.1.20. Updating from 0.1.20 with the normal setup keeps your save and settings.\n\n## What's Changed\n* Version 0.1.20 by @jmars125 in https://github.com/jmars125/xcx-recomp/pull/154\n* Add RecompLauncher support by @Xarishark in https://github.com/jmars125/xcx-recomp/pull/140\n\n## New Contributors\n* @Xarishark made their first contribution in https://github.com/jmars125/xcx-recomp/pull/140\n\n**Full Changelog**: https://github.com/jmars125/xcx-recomp/compare/v0.1.20...v0.1.21\n"
    },
-   "relAt": 1795261215524
+   "relAt": 1795261355352
   },
   {
    "id": "longshot",
@@ -5503,7 +5503,7 @@
     "date": "2026-11-19T02:18:27Z",
     "body": "# 🎮 To play, get the Longshot Launcher\n\n### [🪟 &nbsp;Download the launcher for Windows](https://longshot.magicbean.dev/download/launcher/stable/windows)\n\n### [🐧 &nbsp;Download the launcher for Linux (AppImage)](https://longshot.magicbean.dev/download/launcher/stable/linux)\n\nWindows without installing: [portable zip](https://longshot.magicbean.dev/download/launcher/stable/windows-portable) · [the launcher's newest stable release](https://longshot.magicbean.dev/download/launcher/stable)\n\n**Don't download the files below:** they're the builder the launcher installs for you.\n\n---\n\n:tada: 507 pull requests were merged in this version!\n\n## Longshot 3.0 is out\n\nLongshot 3 is our first stable release since v2.1.0: eight release candidates and 507 pull requests in six days. It's faster on every kind of PC, adds the upscalers and frame generation players asked for, and fixes most of what broke above 60 fps. Thank you to everyone who tested the release candidates and sent reports.\n\nThe easiest way to install and update it is the [Longshot Launcher](https://git.magicbean.dev/MagicBeanDev/LongshotLauncher/releases/tag/v1.0.0), now stable too. It builds the game from your own dump, keeps your saves and settings across versions, and offers this release on its stable track.\n\n**A faster game.** On a fast desktop (RTX 3090, DLSS, 2048x1152, Linux), v3.0.0 runs 11 to 29 % faster than rc.7 (two runs each):\n- Castle Town's market: 68.5 → 85.7 fps walking, 54.3 → 70.2 circling the camera.\n- Hyrule Field: 98.9 → 111.4 fps walking, 96.9 → 108.2 circling.\n- Kakariko: 76.0 → 84.7 fps walking, 69.4 → 80.8 circling.\n- Kokiri Forest is about the same. The 1% lows are too: the market still hitches as new scenery streams in.\n\nWhere the speed comes from, across v3:\n- A play-profiled renderer and occlusion culling that works, with 8 to 16 % fewer draws.\n- A render thread and job threads chosen by your CPU's core count.\n- Less CPU work every frame in Castle Town, and cheaper draws and captures.\n-"
    },
-   "relAt": 1795261215700
+   "relAt": 1795261355596
   },
   {
    "id": "heylisten",
@@ -5573,7 +5573,7 @@
     "date": "2026-11-20T12:13:15Z",
     "body": "# HeyListen v0.4.3\n\nHeyListen turns **your own** Switch 2 copy of *The Legend of Zelda: Ocarina of Time* into a native Windows and Linux\ngame. The release holds only the **HeyListen Builder**: no game code, data, keys or shaders. You dump your own game as a\n`.nup`, the builder reads it, translates and compiles the game on your PC, prepares its shaders, and starts it. See the\n[user guide](https://github.com/Sacrappy/HeyListen/blob/main/docs/USER_GUIDE.md).\n\n🎮 To play, download the HeyListen Builder\n=====\n### [🪟  Download the Builder for Windows](https://github.com/Sacrappy/HeyListen/releases/download/v0.4.3/HeyListenBuilder.exe)\n### [🐧  Download the Builder for Linux (AppImage)](https://github.com/Sacrappy/HeyListen/releases/download/v0.4.3/HeyListen-v0.4.3-Linux-x64.AppImage)\nRun it, pick your own `.nup` (Switch 2, version 131072): it builds the game on your PC and starts it. Nothing of the game is in\nthese files.\n\nAlso on [RecompLauncher](https://recomplauncher.com), if you use it: HeyListen is in its library, with the same build done for you\n(`HeyListen-v0.4.3-Windows-x64.zip` below is what the launcher installs; you don't need to download it).\n\n**Shaders are prepared again once** with this release: the first start takes a few minutes longer, and the first session\nbuilds the driver's pipelines as you play, so it stutters more than usual. The second start is smooth again.\n\nv0.4.3, new since v0.4.2\n-----\n\n## New options\n\n* **V-Sync On/Off and a V-Sync mode row**: On waits for the screen's refresh (no tearing); the mode row picks FIFO with\n  two images (least delay), FIFO with three (the default), or Mailbox. Off is the game's own way. A **VRR** row (G-Sync /\n  FreeSync) shows the game without tearing and without V-Sync's wait.\n* **NVIDIA DLSS Frame Generation** (RTX 40 and newer) as a *Frame generation by* choice, next to the built-in and AMD\n  FSR 3.1 makers: 2x up to the most your GPU's runtime allows (6x on an RTX 50). It needs the DLSS or FSR 4 upscaler for\n "
    },
-   "relAt": 1795261216169
+   "relAt": 1795261355970
   },
   {
    "id": "relink",
@@ -5643,7 +5643,7 @@
     "date": "2026-11-19T03:29:04Z",
     "body": "## What's new\n\n**The fastest ReLink so far: up to +31 % frames a second, around +20 % in most places.** Lost Woods 68–72 → 85–86, Kokiri Forest 79–82 → 99–101, Hyrule Field 77–81 → 95–99, Forest Temple 80 → 105, on our PC (Ryzen 5 5500, RTX 3060 Ti). There is no setting to change: it is on after the update.\n\nWith it: a new look for the menu, the launcher and the loading screen, shorter installs, and the fixes for what you reported on 0.7.9.1.\n\n**Next is hotfix 3 (0.7.9.3), and it will be the one with the most bug fixes**: this version went to speed and to the reports with a clear cause; the next one goes to the bugs that are still open. See \"What's coming\" at the end.\n\n**Before you update:** this version builds the whole game code again and prepares the shaders again, one time. Count the time of a first install. Two reasons: the code is now compiled in smaller parts (that is what makes installs shorter from now on), and the shader translation changed for cards without mesh shaders.\n\nEvery figure below is from our PC (Ryzen 5 5500, RTX 3060 Ti, 16 GB) unless said otherwise.\n\n### Faster: +7 to +31 % frames a second, most places around +20 %\n\nTwo changes that only show together.\n\n**1. The game no longer waits for the graphics card to finish a whole frame before starting the next one.** At the start of each frame the game was held until the card had finished the frame before. It was held because it reads the picture's exposure back from the card every frame: read too early, the exposure jumped, which were the white flashes of older versions, and every earlier attempt to shorten that wait brought them back. Now the exposure sums are cleared on the card itself, the game is handed the last finished measure when no new one has arrived, and it waits only for the part of the frame that sends its own data back.\n\n**2. The game's hot code computes its floating point on the processor's own instructions.** The translated code kept ARM's results bit for bit by going through checks "
    },
-   "relAt": 1795261216501
+   "relAt": 1795261356293
   },
   {
    "id": "nx2navi",
@@ -5713,7 +5713,7 @@
     "date": "2026-11-15T04:53:06Z",
     "body": "NX2navi and Triforce have merged and go on as Triforce.\n\n- This update turns NX2navi's launcher into the door to Triforce: one window that starts Triforce Setup, Triforce's\n  launcher.\n- Nothing of NX2navi is removed or changed: your built game, your saves and your settings stay where they are.\n- **Play NX2navi** in that window still starts the game you have, for as long as you want it.\n- Triforce builds the game from your own files, as NX2navi did, and its Convert saves page brings your NX2navi saves\n  over.\n\n## Good to know\n\n- **Already have NX2navi:** the launcher updates itself to this version at its next check, as for any update. There is\n  nothing to download by hand.\n- **New here:** get Triforce from https://triforceproject.com. This release carries no setup.\n- **What is no longer in the launcher:** its own pages for settings, mods, rebuilding the game, saves and Add to\n  Steam. The game's own settings menu is unchanged.\n- **Mods:** Play NX2navi starts the game as it is in its folder. A mod added after this update is not built in.\n- **Steam:** a shortcut made with Add to Steam opens this window; choose Play NX2navi there.\n- **Convert saves in Triforce v0.3.6** asks for the folder with your saves: it is the one the window shows as\n  *Your NX2navi game and saves* (Copy path).\n- **Uninstalling NX2navi** from Windows' Apps list works as before and asks before it removes the game folder.\n- **Linux:** the AppImage has no updater and is not changed by this release.\n\nThe window's source is in [`handover/`](https://github.com/tangerineturtle1/NX2navi/tree/main/handover).\n"
    },
-   "relAt": 1795261216791
+   "relAt": 1795261356636
   },
   {
    "id": "rekarina",
@@ -5913,7 +5913,7 @@
     "date": "2026-11-17T10:22:00Z",
     "body": "**IMPORTANT — Ocarina Reborn v1.1.4-1: PLEASE READ THE PATCH NOTES**\n\n**🌲 New look**\n\n**This is a small update on top of v1.1.4: a new launcher look, a new build screen, a new start screen and a portrait-mode camera fix. Engine, performance and memory behaviour are unchanged from v1.1.4.**\n\n**🛠️ Launcher**\n- New forest-themed launcher design with a new header, buttons and panels.\n- The interface color you choose in the settings now tints the whole launcher.\n\n**🔨 Build & update screen**\n- Completely new build/update screen with a step list and one overall progress bar.\n- Shows real progress and an accurate file counter (it no longer counts past the total).\n- Steps an update does not need are shown as **not needed** instead of being ticked off.\n- The build log can be opened directly from the screen.\n\n**▶️ Start screen**\n- New start screen after clicking **Play**, with three steps: **Check the launcher**, **Prepare the game** and **Start the game**, plus a real progress bar.\n\n**📱 9:16 / portrait fix**\n- On pictures narrower than 16:9 (for example **9:16**, 4:3 or 16:10), the gameplay camera now keeps the full 16:9 height view and shows more above and below instead of cutting off the sides.\n- Cutscenes keep their own camera.\n\n**ℹ️ Updating**\n- **If you have v1.1.4 installed: download the installer from the website and install it over your existing version.** The launcher will not offer this update automatically because the main version number is unchanged.\n- Let the launcher update the game once after installing.\n- **No uninstall or game-file reimport is needed. Saves and settings stay.**\n\n**📊 Help us improve**\n- If you notice stutters, press **Ctrl+F8**, close the game and create a fresh **Debug Package**. After a crash, reopen the launcher to create it.\n- Send it in **#post-your-logs-here** with the area and what happened. Reports from lower-end PCs are especially helpful.\n\nThanks for testing! 💙\n\n[Ocarina Reborn](https://ocarina-pc-native-build.github.io/)\n\nInst"
    },
-   "relAt": 1795261217240
+   "relAt": 1795261357052
   }
  ]
 }
